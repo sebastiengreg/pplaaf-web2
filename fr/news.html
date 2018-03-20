@@ -1,0 +1,38 @@
+--- 
+layout: page
+lang: fr
+translated: [English]
+title: Actualités
+---
+
+    <!-- Posts
+    ============================================= -->
+    <div id="posts" class="small-thumbs">
+
+        {% for post in site.posts %}
+        {% if post.lang == "fr" %}
+        <div class="entry clearfix">
+            <div class="entry-image">
+                <a href="{{ post.url }}" ><img class="image_fade" src="/assets/images/posts/{{ post.image }}" alt="{{ post.title }}"></a>
+            </div>
+            <div class="entry-c">
+                <div class="entry-title">
+                    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                    
+                </div>
+                <ul class="entry-meta clearfix">
+                    <li><i class="icon-calendar3"></i>{{ post.date  | date_to_long_string }} </li>
+                    <li><i class="icon-user"></i> {{ post.author }} </li>
+                    {% if post.origin %}
+                    <li><i>{{ post.origin }}</i></li>
+                    {% endif %}
+                </ul>
+                <div class="entry-content">
+                   <p>{{ post.excerpt}}</p>
+                    <a href="{{ site.baseurl }}{{ post.url }}" class="more-link">Read More</a>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
