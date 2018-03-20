@@ -1,0 +1,69 @@
+title: PPLAAF
+email: info@pplaaf.org
+# url: "https://pplaaf.org"
+description: Platform for the Protection of Whistleblowers in Africa
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# collections_dir: collections 
+# remove collections folder until gh-pages upgrade to 3.7.2
+collections:
+
+  board-en:
+  board-fr:
+  board-pt:
+  management-en:
+  management-fr:
+  management-pt:
+  staff-en:
+  ngos-en:
+  ngos-fr:
+
+  profiles-en:
+    output: true
+    permalink: :name.html    
+  profiles-fr:
+    output: true
+    permalink: fr/:name.html
+  profiles-pt:
+    output: true
+    permalink: pt/:name.html
+
+  studies-en:
+    output: true
+    permalink: :name.html
+  studies-fr:
+    output: true
+    permalink: fr/:name.html
+
+  whistleblowers-en:
+    output: true
+    permalink: whistleblowers/:name.html
+  whistleblowers-fr:
+    output: true
+    permalink: fr/whistleblowers/:name.html
+
+  cases-en:
+    output: true
+    permalink: cases/:name.html
+  cases-fr:
+    output: true
+    permalink: fr/cases/:name.html
+  
+# Assets configuration
+assets:
+  compress:
+    css: true
+    js: true
+  digest: true
+  sources:
+    - assets/img
+    - assets/js
+    - assets/_sass
