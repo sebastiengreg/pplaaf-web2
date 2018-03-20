@@ -1,0 +1,6 @@
+---
+name: Mark Worth
+image: worth.jpg
+role: Administrator
+---
+Mark Worth has been a public interest activist and investigative journalist in the US and Europe for 30 years. He is the Director of the International Whistleblower Project at Blueprint for Free Speech, an NGO that advocates for freedom of expression rights worldwide. He is the co-founder and co-coordinator of the Southeast Europe Coalition on Whistleblower Protection, and a member of the UNODC Expert Group on Whistleblowing. He has been a legal and policy consultant for many countries and organizations, and has spoken at the UN, European Parliament, Council of Europe and OECD. He is the founding coordinator of Transparency International’s Whistleblower Program, where he was instrumental in advancing whistleblower legislation in many countries and drafting international guidelines for whistleblower protection laws. He also has held leadership positions at the consumer protection organizations Public Citizen and Food & Water Europe. He has written for many publications and media companies, and is the founding publisher of two award-winning independent newsmagazines. He is the author of a book on food safety. He holds degrees in journalism from the University of Florida and engineering from the Florida Institute of Technology.

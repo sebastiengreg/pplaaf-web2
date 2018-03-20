@@ -1,0 +1,6 @@
+---
+name: Jihan El-Tahri
+role: Administrator
+image: el-tahri.jpg
+---
+Jihan El-Tahri is an award-winning director, writer, producer and visual artist. She is an Egyptian and French national, who started her career as a Foreign Correspondent covering Middle East Politics. In 1990 she began directing and producing documentaries for the BBC, PBS, Arte and other international broadcasters. Since then she has produced and directed numerous documentaries, her most recent is the trilogy “Egypt’s Modern Pharaohs”, part of the official selection at Toronto International Festival. She has also produced and directed the acclaimed documentaries “Behind the Rainbow”, “Cuba, an African Odyssey”, as well as the Emmy nominated House of Saud. Her writings include “Les Sept Vies de Yasser Arafat” (Grasset) and “Israel and the Arabs, The 50 Years war” (Penguin). El-Tahri is also engaged in various associations and institutions working with African cinema. She has served as treasurer of the Guild of African Filmmakers in the Diaspora, Regional Secretary of the Federation of Pan African Cinema (FEPACI) and as an Advisor on Focus Feature’s Africa first Program. She is also a Mentor at the Documentary Campus.
