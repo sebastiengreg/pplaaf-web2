@@ -1,0 +1,106 @@
+<!-- English Header and Menu -->
+<header id="header" class="full-header">
+
+    <div id="header-wrap">
+
+        <div class="container clearfix">
+
+            <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+            <div id="logo">
+                <a href="/" class="standard-logo" data-dark-logo="{{relBase}}assets/img/logo/logo-dark.png"><img src="{{relBase}}assets/img/logo/logo-dg.png" alt="PPLAAF"></a>
+                <a href="/" class="retina-logo" data-dark-logo="{{relBase}}assets/img/logo/logo-dark.png"><img src="{{relBase}}assets/img/logo/logo-dg.png" alt="PPLAAF"></a>
+            </div>
+
+            <!-- Menu - English -->
+            <nav id="primary-menu">
+
+                <ul>
+                    <li><a href="/#aboutus"><div>About Us</div></a>
+                        <ul>
+                            <li><a href="/index.html#aboutus" data-scrollto="#aboutus"><div>What we do</div></a></li>
+                            <li><a href="/who-we-are.html"><div>Who we are</div></a>
+                            </li>
+                            <li><a href="/tech.html"><div>About the Tech</div></a></li>
+                        </ul>
+                    </li>
+                    <li><a href="{{relBase}}send-us-info.html"><div>Send us info</div></a>
+                    </li>
+                    <li class="mega-menu-small"><a href="#"><div>Profiles</div></a>
+                        <div class="mega-menu-content style-2 clearfix">
+                            <ul class="mega-menu-column col-md-6">
+                                <li class="mega-menu-title uppercase"><div><h5><a href="#">Whistleblower Profiles</a></h5></div>
+                                    {% for wb in site.whistleblowers-en %}
+                                        <li><a href="{{ wb.url }}">{{ wb.title }}</a></li>
+                                    {% endfor %}
+                                </li>
+                            </ul>
+                            <ul class="mega-menu-column col-md-6">
+                                <li class="mega-menu-title uppercase"><h5><a href="#"><div>Case Stories</div></h5></a>
+                                    {% for c in site.cases-en %}
+                                        <li><a href="{{ c.url }}">{{ c.title }}</a></li>
+                                    {% endfor %}
+                                </li>
+                            </ul>
+                        </div>     
+                    </li>
+                    <li class="mega-menu mega-menu-small" ><a href="/news.html"><div>News</div></a>
+                        <div class="mega-menu-content style-2 clearfix menu-pos-invert">
+                            <ul class="mega-menu-column col-md-4">
+                                <li class="mega-menu-title uppercase"><div><h5><a href="#">Press Releases</a></h5></div></li>
+                                {% for post in site.posts %}
+                                {% for tag in post.tags %}
+                                {% if post.lang == "en" %}
+                                {% if tag == "pressrelease" %}
+                                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                                {% endif %}
+                                {% endif %}
+                                {% endfor %}
+                                {% endfor %}
+                            </ul>
+                            <ul class="mega-menu-column col-md-4">
+                                <li class="mega-menu-title uppercase"><h5><a href="#"><div>Featured Posts</div></h5></a>
+                                {% for post in site.posts %}
+                                {% for tag in post.tags %}
+                                {% if post.lang == "en" %}
+                                {% if tag == "featured" %}
+                                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                                {% endif %}
+                                {% endif %}
+                                {% endfor %}
+                                {% endfor %}
+                                </li>
+                            </ul>
+                            <ul class="mega-menu-column col-md-4">
+                                <li class="uppercase"><div><h5><a href="/news.html">News Archive Page</a></h5></div></li>
+                                <li class="mega-menu-title uppercase"><a href="#">News by Country</a></li>
+                            </ul>
+                        </div>     
+                    </li>
+                    <li class=""><a href="{{relBase}}faq.html"><div>FAQ</div></a></li>
+                    
+                    <li class="dropdown">
+                            <a href="#" class="dropdown-toggle"><img src="{{relBase}}assets/img/icons/flags/ENG.png"><span class="caret"></span></a>
+                            <ul class="dropdown-menu-right">
+                                <li><a href="{{relBase}}fr"><img src="{{relBase}}assets/img/icons/flags/FR.png"> Français</a></li>
+                                <!-- <li><a href="{{relBase}}pt"><img src="{{relBase}}assets/img/icons/flags/PT.png"> Português</a></li>
+                                <li><a href="{{relBase}}ar"><img src="{{relBase}}assets/img/icons/flags/AR.png"> العربية</a></li> -->
+                            </ul>
+                    </li>
+                </ul>
+            
+                <!-- Top Search -->
+                <div id="top-search">
+                    <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+                    <form action="search.html" method="get">
+                        <input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
+                    </form>
+                </div><!-- #top-search end -->
+            
+            </nav>
+
+        </div>
+
+    </div>
+
+</header>

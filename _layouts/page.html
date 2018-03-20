@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body class="stretched">
+
+  <div id="wrapper" class="clearfix">
+
+    {% include header-{{page.lang}}.html %}
+
+    <!-- Page Title -->
+    {% unless page.exclude-title-head %}
+    <section id="page-title" class="page-title-dark">
+      <div class="container clearfix dark">
+        <h1>{{page.title}}</h1>
+        <span>{{page.subtitle}}</span>
+
+        <!-- translated list -->
+        <ol class="breadcrumb">
+          {% for lang in page.translated %}
+              {% case lang %}
+                {% when 'French' %}
+                  <li class="breadcrumb-item"><a href="{{relBase}}fr{{page.url}}">{{ lang }}</a></li>
+                {% when 'English' %}
+                  <li class="breadcrumb-item"><a href="{{relBase}}{{page.url | remove: '/fr/' | remove: '/pt/' | remove: '/ar/'}}">{{ lang }}</a></li>                  
+                {% when 'Português' %}
+                  <li class="breadcrumb-item"><a href="{{relBase}}pt{{page.url}}">{{ lang }}</a></li>
+                {% when 'العربية' %}
+                  <li class="breadcrumb-item"><a href="{{relBase}}ar{{page.url}}">{{ lang }}</a></li>                            
+              {% endcase %}
+          {% endfor %}
+        </ol><!-- end   translated list -->
+
+      </div>
+    </section>
+    <!-- #page-title end -->
+    {% endunless %}
+
+    <!-- Content -->
+    <section id="content">
+      <div class="content-wrap">
+        <div class="container clearfix">
+
+          <!-- Post Content -->
+          <div class="postcontent nobottommargin clearfix">
+
+            {{ content }}
+
+          </div>
+
+        {% include sidebar.html type="page" %}
+
+      </div>
+    </section>
+    <!-- #content end -->
+
+    {% include footer.html %}
+
+  </div>
+  <!-- #wrapper end -->
+
+  {% include footer-scripts.html %}
+
+</body>
+
+</html>

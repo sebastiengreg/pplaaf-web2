@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body class="stretched">
+
+  <!-- #wrapper starts -->
+  <div id="wrapper" class="clearfix">
+
+    {% include header-{{page.lang}}.html %}
+
+    <section id="page-title" class="page-title-dark">
+      <div class="container clearfix dark">
+
+        <h1>{{page.title}}</h1>
+        {% if page.subtitle %}
+        <h3>{{page.subtitle}}</h3>
+        {% endif %}
+        <!-- Entry Meta -->
+        <ul class="entry-meta entry-meta-in-title">
+          {% if page.author %}
+          <li>{{ page.author }}</li>
+          {% endif %}
+          <li>
+            <i class="icon-calendar3"></i> {{ page.date | date_to_long_string }}</li>
+        </ul>
+        <!-- .entry-meta end -->
+
+      </div>
+    
+    </section>
+    <!-- #page-title end -->
+
+    <section id="content">
+
+      {% if page.origin %}
+      <div class="post-origin center" >
+           <span>{{ page.origin }}</span>
+      </div>
+      {% endif %}
+
+      <div class="content-wrap">
+        <div class="container clearfix">
+
+          <!-- Post Content -->
+          <div class="postcontent nobottommargin clearfix">
+            
+              <div class="single-post notopmargin nobottommargin">
+
+              <!-- Single Post -->
+              <div class="entry clearfix">
+
+                <!-- Entry Image -->
+                {% if page.bigimage %}
+                <div class="entry-image">
+                  <a href="#">
+                    <img src="{{ page.bigimage }}" alt="Featured Post">
+                  </a>
+                </div>
+                {% endif %}
+                <!-- .entry-image end -->
+
+                <!-- Entry Content -->
+                <div class="entry-content notopmargin">
+
+                  {{ content }}
+
+                  <div class="line"></div>
+
+                  <div class="clear"></div>
+
+                </div>
+                <!-- .entry end -->
+
+                <!-- Post Navigation
+							============================================= -->
+                <div class="post-navigation clearfix" data-class-xxs="hidden" data-class-xs="hidden" data-class-sm="hidden"  data-class-md="nothidden" data-class-lg="nothidden">
+
+                  <div class="col_half nobottommargin pager blog-pager" >
+                    {% if page.previous.url %}
+                    <a class=" button" style="width:100%;" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top"
+                      title="{{page.previous.title}}">&larr; Previous Post</a>
+                    {% endif %}
+                  </div>
+
+                  <div class="col_half col_last tright nobottommargin pager blog-pager">
+                    {% if page.next.url %}
+                    <a class="button" style="width:100%;" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top"
+                      title="{{page.next.title}}">Next Post &rarr;</a>
+                      {% endif %}
+                  </div>
+                </div>
+                <!-- .post-navigation end -->
+
+              </div>
+              <!-- Single Post end-->
+
+            </div>
+          </div>
+          <!-- .postcontent end -->
+
+          {% include sidebar.html type="post" %}
+
+    </section>
+    <!-- #content end -->
+
+    {% include footer.html %}
+
+    </div>
+    <!-- #wrapper end -->
+
+    {% include footer-scripts.html %}
+
+</body>
+
+</html>
