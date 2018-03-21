@@ -4,7 +4,7 @@ title: Jean-Jacques Lumumba
 subtitle: Bank Revelations that Weaken DRC’s President’s Hold on Power
 lang: en
 type: wbprofile
-translated: [French]
+translated: [Français]
 image: lumumba.jpg
 ---
 

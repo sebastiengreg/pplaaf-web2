@@ -1,0 +1,6 @@
+---
+name: William Bourdon
+role: Presidente
+image: bourdon.jpg
+---
+William Bourdon é advogado e membro da associação de advogados de Paris, especializado em direito societário, de mídia e penal. Advogado que tem estado na linha da frente na área dos direitos humanos, defende vítimas da globalização e de crimes contra a humanidade. Representou enquanto advogado as famílias franco-chilenas na queixa apresentada em outubro de 1998 contra o general Pinochet e participou nos processos movidos em França contra criminosos de guerra sérvios. Desde o ano 2000 é advogado das vítimas do regime do ex-presidente do Chade Hissène Habré. Bourdon é o defensor dos franceses ex-detentos da prisão de Guantánamo, ao lado dos denunciantes Edward Snowden, Hervé Falciani (Swissleaks) e Antoine Deltour (Luxleaks). Anteriormente, ele era o defensor do Wikileaks Julian Assange. Em 2001 fundou a associação Sherpa, cujo objectivo é “defender as vítimas de crimes cometidos por agentes económicos”. Foi secretário-geral da Federação Internacional dos Direitos Humanos de 1995 a 2000. William Bourdon é autor de várias publicações sobre questões de justiça internacional e direitos humanos e do Petit manuel de désobéissance citoyenne” (Pequeno manual de desobediência cidadã) (2014).

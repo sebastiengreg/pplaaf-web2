@@ -4,7 +4,7 @@ title: Mosilo Mothepu
 subtitle: Suspicious links between the South Africa’s president and the powerful Gupta Family
 lang: en
 type: wbprofile
-translated: [French]
+translated: [Français]
 image: mosilo-mothepu.jpg
 ---
 

@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: PPLAAF reveals whistleblowers revelations of negotiations between the DRC government and Dubai Port World
 tag: [pressrelease, featured, DRC]
-translated: [French]
+translated: [Français]
 ---
 
 Paris, March 2nd, 2018) - As the Democratic Republic of Congo (DRC) goes through a severe political and humanitarian crisis, its government is on the verge of concluding a multi-million-dollar deal, tainted with allegations of corruption, with Dubai Port World (DPW), said today the Platform to Protect Whistleblowers in Africa ([PPLAAF](https://pplaaf.org/){:target="_blank"}).
