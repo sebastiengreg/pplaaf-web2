@@ -1,5 +1,5 @@
-<!-- FrontPage Header -->
-<header id="header" class="transparent-header full-header dark">
+<!-- English Header and Menu -->
+<header id="header" class="full-header">
 
     <div id="header-wrap">
 
@@ -8,27 +8,26 @@
             <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 
             <div id="logo">
-                <a href="#" class="standard-logo" data-dark-logo="/assets/img/logo/logo-dark.png"><img src="/assets/img/logo/logo.png" alt="PPLAAF"></a>
-                <a href="#" class="retina-logo" data-dark-logo="/assets/img/logo/logo-dark.png"><img src="/assets/img/logo/logo.png" alt="PPLAAF"></a>
+                <a href="/ar" class="standard-logo" data-dark-logo="/assets/img/logo/logo-dark.png"><img src="/assets/img/logo/logo-dg.png" alt="PPLAAF"></a>
+                <a href="/ar" class="retina-logo" data-dark-logo="/assets/img/logo/logo-dark.png"><img src="/assets/img/logo/logo-dg.png" alt="PPLAAF"></a>
             </div>
 
             <!-- Menu - English -->
             <nav id="primary-menu">
 
                 <ul>
-                    <li><a href="#whatwedo" data-scrollto="#whatwedo"><div>sobre nós</div></a>
+                    <li><a href="/ar/index.html#whatwedo" data-scrollto="#whatwedo"><div>معلومات عنا</div></a>
                         <ul>
-                            <li><a href="#aboutus" data-scrollto="#whatwedo"><div>O que fazemos</div></a></li>
-                            <li><a href="/pt/who-we-are.html"><div>Quem somos</div></a>
-                            <li><a href="/pt/tech.html"><div>sobre a tecnologia</div></a></li>
+                            <li><a href="/ar/index.html#aboutus" data-scrollto="#whatwedo"><div>الذي نفعله</div></a></li>
+                            <li><a href="/ar/tech.html"><div>التقنية</div></a></li>
                         </ul>
                     </li>
-                    <li><a href="/pt/send-us-info.html"><div>Envie-nos info</div></a>
+                    <li><a href="/ar/send-us-info.html"><div>أرسل لنا معلومات</div></a>
                     </li>
-                    <li class="mega-menu-small"><a href="#"><div>Profiles</div></a>
+                    <li class="mega-menu-small"><a href="#"><div>حادثة</div></a>
                         <div class="mega-menu-content style-2 clearfix">
                             <ul class="mega-menu-column col-md-6">
-                                <li class="mega-menu-title uppercase"><div><h5><a href="#">Whistleblower Profiles - en</a></h5></div>
+                                <li class="mega-menu-title uppercase"><div><h5><a href="#">Whistleblower Profiles -en</a></h5></div>
                                     {% for wb in site.whistleblowers-en %}
                                         <li><a href="{{ wb.url }}">{{ wb.title }}</a></li>
                                     {% endfor %}
@@ -43,19 +42,25 @@
                             </ul>
                         </div>     
                     </li>
-                    <li class="mega-menu mega-menu-small" ><a href="/news.html"><div>News</div></a>
+                    <li class="dropdown" ><a href="/news.html"><div>أنباء</div></a>
+                        <ul>
+                            <li class="uppercase"><div><h5><a href="/news.html">News Archive - English</a></h5></div></li>
+                            <li class="uppercase"><div><h5><a href="/ar/media.html">الإعلام</a></h5></div></li>
+                            <!-- <li class="mega-menu-title uppercase"><a href="#">News by Country</a></li> -->
+                        </ul>
                     </li>
-                    <li class=""><a href="/pt/faq.html"><div>FAQ</div></a></li>
+                    <li class=""><a href="/ar/faq.html"><div>أسئلة شائعة</div></a></li>
                     
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle"><img src="/assets/img/icons/flags/PT.png"><span class="caret"></span></a>
+                        <a href="#" class="dropdown-toggle"><img src="/assets/img/icons/flags/AR.png"><span class="caret"></span></a>
                         <ul class="dropdown-menu-right">
-                            <li><a href="/fr"><img src="/assets/img/icons/flags/FR.png"> Français</a></li>
                             <li><a href="/"><img src="/assets/img/icons/flags/ENG.png"> English</a></li>
-                            <li><a href="/ar"><img src="/assets/img/icons/flags/AR.png"> العربية</a></li>
+                            <li><a href="/fr"><img src="/assets/img/icons/flags/FR.png"> Français</a></li>
+                            <li><a href="/pt"><img src="/assets/img/icons/flags/PT.png"> Português</a></li>
                         </ul>
                     </li>
                 </ul>
+                    
             
                 <!-- Top Search -->
                 <!--

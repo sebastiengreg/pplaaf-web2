@@ -13,6 +13,11 @@ section#content p {
     text-align: justify;
 }
 
+.arabic > h2,h3,h4,li  {
+    text-align: right;
+}
+
+
 /* Top Header */
 
 /* NO TOP SEARCH */

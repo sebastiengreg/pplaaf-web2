@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{page.lang}}">
 {% include head.html %}
 
 <body class="stretched">
@@ -17,16 +17,16 @@
 
         <!-- translated list -->
         <ol class="breadcrumb">
-          {% for lang in page.translated %}
-              {% case lang %}
+          {% for tlang in page.translated %}
+              {% case tlang %}
                 {% when 'Français' %}
-                  <li class="breadcrumb-item"><a href="/fr{{page.url | remove: '/fr' | remove: '/pt' | remove: '/ar'}}">{{ lang }}</a></li>
+                  <li class="breadcrumb-item"><a href="/fr{{page.url | remove: '/fr' | remove: '/pt' | remove: '/ar'}}">{{ tlang }}</a></li>
                 {% when 'English' %}
-                  <li class="breadcrumb-item"><a href="/{{page.url | remove: '/fr/' | remove: '/pt/' | remove: '/ar/'}}">{{ lang }}</a></li>                  
+                  <li class="breadcrumb-item"><a href="/{{page.url | remove: '/fr/' | remove: '/pt/' | remove: '/ar/'}}">{{ tlang }}</a></li>                  
                 {% when 'Português' %}
-                  <li class="breadcrumb-item"><a href="/pt{{page.url | remove: '/fr' | remove: '/pt' | remove: '/ar'}}">{{ lang }}</a></li>
+                  <li class="breadcrumb-item"><a href="/pt{{page.url | remove: '/fr' | remove: '/pt' | remove: '/ar'}}">{{ tlang }}</a></li>
                 {% when 'العربية' %}
-                  <li class="breadcrumb-item"><a href="/ar{{page.url | remove: '/fr' | remove: '/pt' | remove: '/ar'}}">{{ lang }}</a></li>                            
+                  <li class="breadcrumb-item"><a href="/ar{{page.url | remove: '/fr' | remove: '/pt' | remove: '/ar'}}">{{ tlang }}</a></li>                            
               {% endcase %}
           {% endfor %}
         </ol><!-- end   translated list -->
