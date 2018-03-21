@@ -3,6 +3,7 @@ layout: page-bare
 lang: en
 title: Who we are
 subtitle: meet the team
+translated: [Português]
 ---
 <!-- Page Title
 ============================================= -->
@@ -17,13 +18,13 @@ subtitle: meet the team
 		{% for lang in page.translated %}
 			{% case lang %}
 				{% when 'French' %}
-				<li class="breadcrumb-item"><a href="{{relBase}}fr{{page.url}}">{{ lang }}</a></li>
+				<li class="breadcrumb-item"><a href="/fr{{page.url}}">{{ lang }}</a></li>
 				{% when 'English' %}
-				<li class="breadcrumb-item"><a href="{{relBase}}{{page.url | remove: '/fr/' | remove: '/pt/' | remove: '/ar/'}}">{{ lang }}</a></li>                  
+				<li class="breadcrumb-item"><a href="/{{page.url | remove: '/fr/' | remove: '/pt/' | remove: '/ar/'}}">{{ lang }}</a></li>                  
 				{% when 'Português' %}
-				<li class="breadcrumb-item"><a href="{{relBase}}pt{{page.url}}">{{ lang }}</a></li>
+				<li class="breadcrumb-item"><a href="/pt{{page.url}}">{{ lang }}</a></li>
 				{% when 'العربية' %}
-				<li class="breadcrumb-item"><a href="{{relBase}}ar{{page.url}}">{{ lang }}</a></li>                            
+				<li class="breadcrumb-item"><a href="/ar{{page.url}}">{{ lang }}</a></li>                            
 			{% endcase %}
 		{% endfor %}
 		</ol><!-- end   translated list -->

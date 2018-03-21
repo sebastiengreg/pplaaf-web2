@@ -1,0 +1,79 @@
+<!-- FrontPage Header -->
+<header id="header" class="transparent-header full-header dark">
+
+    <div id="header-wrap">
+
+        <div class="container clearfix">
+
+            <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+            <div id="logo">
+                <a href="#" class="standard-logo" data-dark-logo="/assets/img/logo/logo-dark.png"><img src="/assets/img/logo/logo.png" alt="PPLAAF"></a>
+                <a href="#" class="retina-logo" data-dark-logo="/assets/img/logo/logo-dark.png"><img src="/assets/img/logo/logo.png" alt="PPLAAF"></a>
+            </div>
+
+            <!-- Menu - English -->
+            <nav id="primary-menu">
+
+                <ul>
+                    <li><a href="#whatwedo" data-scrollto="#whatwedo"><div>معلومات عنا</div></a>
+                        <ul>
+                            <li><a href="#aboutus" data-scrollto="#whatwedo"><div>الذي نفعله</div></a></li>
+                            <li><a href="/ar/tech.html"><div>التقنية</div></a></li>
+                        </ul>
+                    </li>
+                    <li><a href="/ar/send-us-info.html"><div>أرسل لنا معلومات</div></a>
+                    </li>
+                    <li class="mega-menu-small"><a href="#"><div>حادثة</div></a>
+                        <div class="mega-menu-content style-2 clearfix">
+                            <ul class="mega-menu-column col-md-6">
+                                <li class="mega-menu-title uppercase"><div><h5><a href="#">Whistleblower Profiles -en</a></h5></div>
+                                    {% for wb in site.whistleblowers-en %}
+                                        <li><a href="{{ wb.url }}">{{ wb.title }}</a></li>
+                                    {% endfor %}
+                                </li>
+                            </ul>
+                            <ul class="mega-menu-column col-md-6">
+                                <li class="mega-menu-title uppercase"><h5><a href="#"><div>Case Stories -en</div></h5></a>
+                                    {% for case in site.cases-en %}
+                                        <li><a href="{{ case.url }}">{{ case.title }}</a></li>
+                                    {% endfor %}
+                                </li>
+                            </ul>
+                        </div>     
+                    </li>
+                    <li><a href="/news.html"><div>أنباء</div></a>
+                        <ul>
+                            <li><a href="/news.html">News Archive -en</a></li>
+                            <li><a href="/ar/media.html">الإعلام</a></li>
+                        </ul>
+                    </li>
+                    <li class=""><a href="/ar/faq.html"><div>أسئلة شائعة</div></a></li>
+                    
+                    <li class="dropdown">
+                            <a href="#" class="dropdown-toggle"><img src="/assets/img/icons/flags/AR.png"><span class="caret"></span></a>
+                            <ul class="dropdown-menu-right">
+                                <li><a href="/"><img src="/assets/img/icons/flags/ENG.png"> English</a></li>
+                                <li><a href="/fr"><img src="/assets/img/icons/flags/FR.png"> Français</a></li>
+                                <li><a href="/pt"><img src="/assets/img/icons/flags/PT.png"> Português</a></li>
+                            </ul>
+                    </li>
+                </ul>
+            
+                <!-- Top Search -->
+                <!--
+                <div id="top-search">
+                    <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+                    <form action="search.html" method="get">
+                        <input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter..">
+                    </form>
+                </div>-->
+                <!-- #top-search end -->
+            
+            </nav>
+
+        </div>
+
+    </div>
+
+</header>

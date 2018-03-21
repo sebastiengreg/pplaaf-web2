@@ -3,7 +3,7 @@ layout: page
 title: State Capture
 lang: en
 type: case
-translated: [French]
+translated: [Français]
 tags: [southafrica, statecapture]
 ---
 The principal charge against South-African President Jacob Zuma, originating with claims from whistleblowers working with the Platform to Protect Whistleblowers in Africa (PPLAAF) is of “state capture”. The local term is in widespread use. State capture is more than simple corruption. It is the pillage of national companies and institutions, corrupting the people of power, as well changing the country’s laws, so they would all work in the private interest’s interest.

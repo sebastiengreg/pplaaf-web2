@@ -1,0 +1,5 @@
+---
+name: John Christensen
+image: christensen.jpg
+---
+John Christensen é fundador e diretor da Global Tax Justice Network, uma rede de especialistas que lidera esforços globais para combater os paraísos fiscais e fortalecer a cooperação internacional em matéria de evasão fiscal e de offshores. Formado como auditor forense e como economista investigador, tem trabalhado em muitos países do mundo, incluindo, durante um período, em serviços financeiros offshore para a Touche Ross & Co (atual Deliottes). Durante 11 anos foi conselheiro económico do governo britânico de Jersey, uma das ilhas do Canal. Este trabalho abrangeu uma vasta área de domínios políticos, incluindo a regulamentação financeira e e empresarial. Ele é membro do Tax Inspectors Without Border ( Inspetores Tributários Sem Fronteiras) do PNUD/OCDE. As suas investigações sobre a indústria financeira offshore têm sido amplamente publicadas em livros e revistas académicas. John participou em muitos filmes, documentários  e programas de televisão e rádio.

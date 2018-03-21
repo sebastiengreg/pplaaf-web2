@@ -4,7 +4,7 @@ title: Aaron Kaase
 subtitle: Fraudulent activities of Nigeria’s Head of Police Services
 lang: en
 type: wbprofile
-translated: [French]
+translated: [Français]
 image: aaron-kaase.jpg
 ---
 

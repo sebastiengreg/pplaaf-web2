@@ -13,7 +13,20 @@ section#content p {
     text-align: justify;
 }
 
+.arabic > h2,h3,h4,li  {
+    text-align: right;
+}
+
+
 /* Top Header */
+
+/* NO TOP SEARCH */
+#header.full-header #primary-menu > ul {
+	padding-right: 0px !important;
+	margin-right: 0px !important;
+	border-right: none  !important;
+}
+
 #header.sticky-header #header-wrap {
 	background-color: #FFF ;
 	box-shadow: 0 1px 6px rgba(87, 77, 51, 0.6);

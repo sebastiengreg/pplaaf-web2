@@ -1,0 +1,5 @@
+---
+name: Anas Aremeyaw
+image: anas.jpg
+---
+Anas Aremeyaw Anas é um jornalista de investigação nascido no final da década de 1970 no Gana. O lema de Anas é “nome, vergonha e prisão” e é famoso por usar o anonimato como uma ferramenta para as suas investigações. Anas foi aclamado pela crítica pelo seu trabalho em defesa de direitos humanos básicos, como o direito a não ser sujeito a escravidão humana ou servidão, e também pelo seu trabalho de expor a corrupção. Anas ganhou mais de 14 prémios internacionais com as suas investigações. Ele foi nomeado pela ETV como o quinto ganês mais influente em 2011 e como um dos “africanos mais influentes do ano” pela revista New African. Em dezembro de 2015 a revista Foreign Policy nomeou Anas como um dos principais pensadores globais de 2015, uma honra concedida anteriormente a figuras como Barack Obama, Aung San Suu Kyi, Papa Bento XVI e Malala Yousafzai.

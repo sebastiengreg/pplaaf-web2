@@ -3,7 +3,7 @@ layout: page
 title: Les Lumumba Papers
 lang: en
 type: case
-translated: [French]
+translated: [Français]
 ---
 # Les Lumumba Papers
 The Lumumba Papers reveal the suspicious activities of the BGFI RDC bank, a subsidiary of Gabonese Bank Banque Gabonaise et Française et Internationale (BGFI) in the Democratic Republic of Congo, and its involvement in corruption and misappropriation of public funds. Largely based on internal documents disclosed by the former employee of the bank Jean-Jacques Lumumba, the case [also reveals the existence](/downloads/BGFIBANK-RDC-censure.pdf) of suspicious transactions between the BGFI and the National Independent Electoral Commission.

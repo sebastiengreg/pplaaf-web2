@@ -676,7 +676,7 @@ var SMP = SMP || {};
 					var element = $(this),
 						elementImg = element.attr( 'data-lazyload' );
 
-					element.attr( 'src', '{{relBase}}assets/img/blank.svg' ).css({ 'background': 'url({{relBase}}assets/img/preloader.gif) no-repeat center center #FFF' });
+					element.attr( 'src', '/assets/img/blank.svg' ).css({ 'background': 'url(/assets/img/preloader.gif) no-repeat center center #FFF' });
 
 					element.appear(function () {
 						element.css({ 'background': 'none' }).removeAttr( 'width' ).removeAttr( 'height' ).attr('src', elementImg);
@@ -1077,7 +1077,7 @@ var SMP = SMP || {};
 				$('#primary-menu.sub-title > ul > li').hover(function() {
 					$(this).prev().css({ backgroundImage : 'none' });
 				}, function() {
-					$(this).prev().css({ backgroundImage : 'url("assets/img/icons/menu-divider.png")' });
+					$(this).prev().css({ backgroundImage : 'url("/assets/img/icons/menu-divider.png")' });
 				});
 
 				$('#primary-menu.sub-title').children('ul').children('.current').prev().css({ backgroundImage : 'none' });
