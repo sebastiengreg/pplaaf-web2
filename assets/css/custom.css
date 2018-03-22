@@ -13,8 +13,8 @@ section#content p {
     text-align: justify;
 }
 
-.arabic > h2, .arabic > h3, .arabic > h4, .arabic > li  {
-    text-align: right;
+.arabic > h2, .arabic > h3, .arabic > h4, .arabic > li, .arabic > ol, .arabic > ul {
+    text-align: right !important;
 }
 
 
