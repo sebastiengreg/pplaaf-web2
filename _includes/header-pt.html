@@ -25,23 +25,23 @@
                     </li>
                     <li><a href="/pt/send-us-info.html"><div>Envie-nos info</div></a>
                     </li>
-                    <li class="mega-menu-small"><a href="#"><div>Profiles</div></a>
-                        <div class="mega-menu-content style-2 clearfix">
-                            <ul class="mega-menu-column col-md-6">
-                                <li class="mega-menu-title uppercase"><div><h5><a href="#">Whistleblower Profiles - en</a></h5></div>
+                    <li><a href="#"><div>Profiles</div></a>
+                        <ul>
+                            <li><a href="#"><div>Whistleblowers (ENG)</div></a>
+                                <ul>
                                     {% for wb in site.whistleblowers-en %}
-                                        <li><a href="{{ wb.url }}">{{ wb.title }}</a></li>
+                                        <li><a href="{{ wb.url }}"><div>{{ wb.title }}</div></a></li>
                                     {% endfor %}
-                                </li>
-                            </ul>
-                            <ul class="mega-menu-column col-md-6">
-                                <li class="mega-menu-title uppercase"><h5><a href="#"><div>Case Stories -en</div></h5></a>
-                                    {% for case in site.cases-en %}
-                                        <li><a href="{{ case.url }}">{{ case.title }}</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#"><div>Case Stories (ENG)</div></a>
+                                <ul>
+                                    {% for c in site.cases-en %}
+                                        <li><a href="{{ c.url }}">{{ c.title }}</a></li>
                                     {% endfor %}
-                                </li>
-                            </ul>
-                        </div>     
+                                </ul>
+                            </li>
+                        </ul>
                     </li>
                     <li class="mega-menu mega-menu-small" ><a href="/news.html"><div>News</div></a>
                     </li>

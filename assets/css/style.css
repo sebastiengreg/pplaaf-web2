@@ -1065,7 +1065,7 @@ body.stretched #header.full-header .container {
 
 #primary-menu > ul > li:first-child { margin-left: 0; }
 
-#primary-menu ul li > a {
+#primary-menu ul li a {
 	display: block;
 	line-height: 22px;
 	padding: 39px 15px;

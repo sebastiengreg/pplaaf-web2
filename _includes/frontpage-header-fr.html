@@ -22,28 +22,28 @@
                     </li>
                     <li><a href="/send-us-info.html"><div>Envoyez vos infos</div></a>
                     </li>
-                    <li class="mega-menu-small"><a href="#"><div>Profiles</div></a>
-                        <div class="mega-menu-content style-2 clearfix">
-                            <ul class="mega-menu-column col-md-6">
-                                <li class="mega-menu-title uppercase"><div><h5><a href="#">Lanceurs d’alerte</a></h5></div>
+                    <li><a href="#"><div>Profiles</div></a>
+                        <ul>
+                            <li><a href="#"><div>Lanceurs d’alerte</div></a>
+                                <ul>
                                     {% for wb in site.whistleblowers-fr %}
-                                    <li><a href="{{ wb.url }}">{{ wb.title }}</a></li>
+                                        <li><a href="{{ wb.url }}"><div>{{ wb.title }}</div></a></li>
                                     {% endfor %}
-                                </li>
-                            </ul>
-                            <ul class="mega-menu-column col-md-6">
-                                <li class="mega-menu-title uppercase"><h5><a href="#"><div>Case Stories</div></h5></a>
+                                </ul>
+                            </li>
+                            <li><a href="#"><div>Case Stories</div></a>
+                                <ul>
                                     {% for c in site.cases-fr %}
-                                    <li><a href="{{ c.url }}">{{ c.title }}</a></li>
+                                        <li><a href="{{ c.url }}">{{ c.title }}</a></li>
                                     {% endfor %}
-                                </li>
-                            </ul>
-                        </div>     
+                                </ul>
+                            </li>
+                        </ul>
                     </li>
                     <li class="mega-menu mega-menu-small"><a href="/fr/news.html"><div>Actualités</div></a>
                         <div class="mega-menu-content style-2 clearfix menu-pos-invert">
                             <ul class="mega-menu-column col-md-4">
-                                <li class="mega-menu-title uppercase"><div><h5><a href="#">Communiqués de presse</a></h5></div></li>
+                                <li class="mega-menu-title uppercase"><div><h5>Communiqués de presse</h5></div></li>
                                 {% for post in site.posts %}
                                 {% for tag in post.tags %}
                                 {% if post.lang == "fr" %}
@@ -55,7 +55,7 @@
                                 {% endfor %}
                             </ul>
                             <ul class="mega-menu-column col-md-4">
-                                <li class="mega-menu-title uppercase"><h5><a href="#"><div>Postes en vedette</div></h5></a>
+                                <li class="mega-menu-title uppercase"><h5><div>Postes en vedette</div></h5>
                                 {% for post in site.posts %}
                                 {% for tag in post.tags %}
                                 {% if post.lang == "fr" %}
@@ -68,7 +68,9 @@
                                 </li>
                             </ul>
                             <ul class="mega-menu-column col-md-4">
-                                <li class="uppercase"><div><h5><a href="/fr/news.html">Tous les articles</a></h5></div></li>
+                                <li class="uppercase"><div><h5>Actualités</h5></div>
+                                    <li><a href="/fr/news.html">Tous les articles</a></li>
+                                </li>
                                 <!-- <li class="mega-menu-title uppercase"><a href="#">Nouvelles par pays</a></li> -->
                             </ul>
                         </div>     
