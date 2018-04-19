@@ -10,7 +10,7 @@ image: bianca.jpg
 
 <div class="profile-block">
 <img src="/assets/images/profiles/bianca.png">
-<p>“PPLAAF understood my situation. This is their
+<p class="top-blockquote">“PPLAAF understood my situation. This is their
 work and I was not the first whistle-blower
 that they have supported. Their presence in
 my life offered me something that no amount

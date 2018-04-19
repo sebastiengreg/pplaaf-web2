@@ -10,7 +10,7 @@ image: mosilo-mothepu.jpg
 
 <div class="profile-block">
 <img src="/assets/images/profiles/mosilo-mothepu.jpg">
-<p>““I was excited to join my former employer
+<p class="top-blockquote">I was excited to join my former employer
 whose vision was to change the landscape of
 financial services industry in South Africa. It
 soon became quite clear that the
@@ -25,7 +25,7 @@ assisting South Africa’s regain their hard-
 earned democracy in providing much needed
 support, whistleblowing is a long, difficult and
 often lonely decision but PPLAAF ensures
-protection and offers humanity.””</p>
+protection and offers humanity</p>
 </div>
 <div class=" divider"></div>
 

@@ -1,8 +1,7 @@
 ---
 layout: post
 lang: en
-title: Press Release&#58 DRC/Dubai
-subtitle: New port project tainted by corruption charges
+title: Press Release&#58 DRC/Dubai&#58 New port project tainted by corruption charges
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: pressrelease.jpg

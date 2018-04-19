@@ -7,9 +7,9 @@ type: wbprofile
 translated: [Français]
 image: lumumba.jpg
 ---
-
-<img class="" style="width:100%;" src="/assets/images/posts/lumumba-l.jpg">
-> “I am one of the first whistleblowers in my
+<div class="profile-block">
+<img class="" style="width:100%;" src="/assets/images/profiles/lumumba.jpg">
+<p class="top-blockquote">I am one of the first whistleblowers in my
 country to be supported by PPLAAF. I am very
 happy with the legal protection and above all,
 the moral comfort it has given me. The action
@@ -21,7 +21,10 @@ understood the need for the protection of
 whistleblowers in the process of
 democratization of African countries, a
 guarantee of stability and revival of economic
-development.”
+development.</p>
+</div>
+<div class=" divider"></div>
+
 
 “The greed of some politicians is so huge that they have taken Congo hostage. People are dying
 and are being tortured. Many cannot speak anymore,” [Jean-Jacques Lumumba told in an

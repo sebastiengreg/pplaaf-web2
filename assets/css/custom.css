@@ -1,3 +1,6 @@
+body, p {
+    font-size: 1.05rem;
+}
 p a {
     color: #0e9e32;
 }
@@ -236,19 +239,46 @@ section#content p {
     font-size: 16px;
     line-height: 2rem;
     display: block;
-    margin: 0px 20px 30px 0px;
+    margin: 0px 5px 30px 0px;
     text-align: justify;
     border: 2px #ccc;
     height: auto;
+    box-shadow:0 0 5px 2px #eeeeeecc, 1px 1px 1px #eaeaea;
+    padding: 20px 10px 1px 20px;
+    background: #f9f9f9;
 }
-
 .profile-block::after {
     content: "";
 }
-
 .profile-block img {
-    float: left;
-    padding: 0 20px 0 0;
-    max-width: 60%;
+    float: right;
+    padding: 0 10px 0 20px;
+    max-width: 30%;
+    height: auto;
+    display: block;
+}
+.top-blockquote {
+    font-size: 16px;
+    line-height: 2rem;
+    display: block;
+    margin: 0px 20px 30px 0px;
+    border: 2px #ccc;
+    font-weight: 900;
+    color: #aaa;
+    font-family: Raleway;
+}
+.top-blockquote::before {
+    color: #ccc;
+    content: open-quote;
+    font-size: 6em;
+    line-height: .1em;
+    margin-right: .25em;
+    vertical-align: -.4em;
 
+}
+
+::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }

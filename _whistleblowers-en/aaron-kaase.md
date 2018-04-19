@@ -10,21 +10,7 @@ image: aaron-kaase.jpg
 
 <div class="profile-block">
 <img src="/assets/images/profiles/aaron-kaase.jpg">
-<p>“I want to commend PPLAAF for being a voice
-for whistleblowers in Africa. From 2015 to
-date, I have become a victim of high wired
-reprisals after I blew the whistle on
-procurement and other fraudulent financial
-acts involving the Chairman of Police Service
-Commission, an agency that oversights the
-Nigeria police force, where I work…PPLAAF
-has been wonderful by offering financial
-assistance to support the litigation processes
-after over two years of ongoing legal battles,
-while serving an illegal suspension without
-pay has taken a toll on me. The effort of this
-organization to put this matter on the front
-burner is also commendable.”</p>
+<p class="top-blockquote">I want to commend PPLAAF for being a voice for whistleblowers in Africa. From 2015 to date, I have become a victim of high wired reprisals after I blew the whistle on procurement and other fraudulent financial acts involving the Chairman of Police Service Commission, an agency that oversights the Nigeria police force, where I work…PPLAAF has been wonderful by offering financial assistance to support the litigation processes after over two years of ongoing legal battles, while serving an illegal suspension without pay has taken a toll on me. The effort of this organization to put this matter on the front burner is also commendable.</p>
 </div>
 <div class=" divider"></div>
 
