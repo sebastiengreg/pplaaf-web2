@@ -1,5 +1,9 @@
 <!-- English Header and Menu -->
-<header id="header" class="full-header">
+{% if include.type == "frontpage" %}
+    <header id="header" class="transparent-header full-header dark">
+{% else %}
+    <header id="header" class="full-header">    
+{% endif %}
 
     <div id="header-wrap">
 
@@ -18,7 +22,11 @@
                 <ul>
                     <li><a href="/#aboutus"><div>About Us</div></a>
                         <ul>
-                            <li><a href="/index.html#aboutus" data-scrollto="#aboutus"><div>What we do</div></a></li>
+                            {% if include.type == "frontpage" %}
+                                <li><a href="#whatwedo" data-scrollto="#whatwedo"><div>What we do</div></a></li>
+                            {% else %}
+                                <li><a href="/index.html#aboutus" data-scrollto="#aboutus"><div>What we do</div></a></li>   
+                            {% endif %}
                             <li><a href="/who-we-are.html"><div>Who we are</div></a></li>
                             <li><a href="/tech.html"><div>About the Tech</div></a></li>
                             <li><a href="/faq.html"><div>FAQ</div></a></li>

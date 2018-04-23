@@ -1,5 +1,9 @@
 <!-- French Header and Menu -->
-<header id="header" class="full-header">
+{% if include.type == "frontpage" %}
+    <header id="header" class="transparent-header full-header dark">
+{% else %}
+    <header id="header" class="full-header">    
+{% endif %}
 
     <div id="header-wrap">
 
@@ -12,13 +16,17 @@
                 <a href="/pt" class="retina-logo" data-dark-logo="/assets/img/logo/logo-dark.png"><img src="/assets/img/logo/logo-dg.png" alt="PPLAAF"></a>
             </div>
 
-            <!-- Menu - French  -->
+            <!-- Menu - Portuguese  -->
             <nav id="primary-menu">
 
                 <ul>
                     <li><a href="/pt/index.html#whatwedo" data-scrollto="#whatwedo"><div>Sobre nós</div></a>
                         <ul>
-                            <li><a href="/pt/index.html#aboutus" data-scrollto="#whatwedo"><div>O que fazemos</div></a></li>
+                            {% if include.type == "frontpage" %}
+                                <li><a href="#whatwedo" data-scrollto="#whatwedo"><div>O que fazemos</div></a></li>
+                            {% else %}
+                                <li><a href="/pt/index.html#aboutus"><div>O que fazemos</div></a></li>  
+                            {% endif %}
                             <li><a href="/pt/who-we-are.html"><div>Quem somos</div></a>
                             <li><a href="/pt/tech.html"><div>sobre a tecnologia</div></a></li>
                             <li><a href="/pt/faq.html"><div>FAQ</div></a></li>

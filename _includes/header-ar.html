@@ -1,5 +1,9 @@
-<!-- English Header and Menu -->
-<header id="header" class="full-header">
+<!-- Arabic Header and Menu -->
+{% if include.type == "frontpage" %}
+    <header id="header" class="transparent-header full-header dark">
+{% else %}
+    <header id="header" class="full-header">    
+{% endif %}
 
     <div id="header-wrap">
 
@@ -12,13 +16,17 @@
                 <a href="/ar" class="retina-logo" data-dark-logo="/assets/img/logo/logo-dark.png"><img src="/assets/img/logo/logo-dg.png" alt="PPLAAF"></a>
             </div>
 
-            <!-- Menu - English -->
+            <!-- Menu - Arabic -->
             <nav id="primary-menu">
 
                 <ul>
                     <li><a href="/ar/index.html#whatwedo" data-scrollto="#whatwedo"><div>معلومات عنا</div></a>
                         <ul>
-                            <li><a href="/ar/index.html#aboutus" data-scrollto="#whatwedo"><div>الذي نفعله</div></a></li>
+                            {% if include.type == "frontpage" %}
+                                <li><a href="#whatwedo" data-scrollto="#whatwedo"><div>الذي نفعله</div></a></li>
+                            {% else %}
+                                <li><a href="/ar/index.html#aboutus"><div>الذي نفعله</div></a></li>  
+                            {% endif %}
                             <li><a href="/ar/tech.html"><div>التقنية</div></a></li>
                             <li><a href="/ar/faq.html"><div>أسئلة شائعة</div></a></li>
                             <li><a href="/downloads/annual_report.pdf">Annual Report (ENG)</a></li>
