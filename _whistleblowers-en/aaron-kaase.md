@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Aaron Kaase
-subtitle: Fraudulent activities of Nigeria’s Head of Police Services
 lang: en
 type: wbprofile
 translated: [Français]
 image: aaron-kaase.jpg
 ---
+
+<h2>Fraudulent activities of Nigeria’s Head of Police Services</h2>
 
 <div class="profile-block">
 <img src="/assets/images/profiles/aaron-kaase.jpg">

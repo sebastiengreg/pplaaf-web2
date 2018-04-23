@@ -238,7 +238,6 @@ section#content p {
 .profile-block {
     display: block;
     margin: 0px 5px 30px 0px;
-    text-align: justify;
     border: 2px #ccc;
     height: auto;
     box-shadow: 2px 6px 20px rgba(139, 139, 139, 0.4);

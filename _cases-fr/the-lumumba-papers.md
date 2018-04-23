@@ -5,7 +5,6 @@ lang: fr
 type: case
 translated: [English]
 ---
-# Les Lumumba Papers
 Les Lumumba Papers révèlent les activités suspectes de la banque BGFI RDC, filiale de la banque gabonaise Banque Gabonaise et Française Internationale (BGFI) en République démocratique du Congo, et son implication dans la corruption et le détournement de fonds publics Largement basé sur des documents internes divulgués par l’ex-employé de la banque Jean-Jacques Lumumba, l’affaire [révèle également](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf) l’existence de transactions suspectes entre la BGFI et la Commission électorale nationale indépendante.
 
 La banque gabonaise BGFI a des branches dans une dizaine de pays, dont la RDC, la Cote d’Ivoire et la France. Les propriétaires de la filiale congolaise sont, entre autres, le BGFI Holding Corporation (60%) et Gloria Mteyu – la sœur du président Kabila (35%).

@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Jean-Jacques Lumumba
-subtitle: Bank Revelations that Weaken DRC’s President’s Hold on Power
 lang: en
 type: wbprofile
 translated: [Français]
 image: lumumba.jpg
 ---
+<h2>Bank Revelations that Weaken DRC’s President’s Hold on Power</h2>
+
 <div class="profile-block">
 <img class="" style="width:100%;" src="/assets/images/profiles/lumumba.jpg">
 <p class="top-blockquote">I am one of the first whistleblowers in my

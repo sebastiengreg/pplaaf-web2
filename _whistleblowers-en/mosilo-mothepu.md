@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Mosilo Mothepu
-subtitle: Suspicious links between the South Africa’s president and the powerful Gupta Family
 lang: en
 type: wbprofile
-translated: [Français]
 image: mosilo-mothepu.jpg
 ---
+<h2>Suspicious links between the South Africa’s president and the powerful Gupta Family</h2>
+
 
 <div class="profile-block">
 <img src="/assets/images/profiles/mosilo-mothepu.jpg">
