@@ -279,3 +279,8 @@ section#content p {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+th, td {
+    padding-right: 30px !important;
+    margin-right: 20px;
+}

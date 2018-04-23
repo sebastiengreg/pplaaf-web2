@@ -50,6 +50,13 @@
                                     {% endfor %}
                                 </ul>
                             </li>
+                            <li><a href="#"><div>Country Profiles (ENG)</div></a>
+                                <ul>
+                                    {% for c in site.countries-en %}
+                                        <li><a href="{{ c.url }}">{{ c.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </li>                                
                         </ul>
                     </li>
                     <li><a href="/news.html"><div>أنباء</div></a>

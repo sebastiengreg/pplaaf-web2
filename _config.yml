@@ -57,6 +57,16 @@ collections:
   cases-fr:
     output: true
     permalink: fr/cases/:name.html
+
+  countries-en:
+    output: true
+    permalink: country/:name.html
+  countries-fr:
+    output: true
+    permalink: fr/country/:name.html
+  countries-pt:
+    output: true
+    permalink: pt/country/:name.html      
   
 # Assets configuration
 assets:

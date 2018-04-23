@@ -44,13 +44,20 @@
                                     {% endfor %}
                                 </ul>
                             </li>
-                            <li><a href="#"><div>Case Stories</div></a>
+                            <li><a href="#"><div>Histoires de cas</div></a>
                                 <ul>
                                     {% for c in site.cases-fr %}
                                         <li><a href="{{ c.url }}">{{ c.title }}</a></li>
                                     {% endfor %}
                                 </ul>
                             </li>
+                            <li><a href="#"><div>Profils de pays</div></a>
+                                <ul>
+                                    {% for c in site.countries-fr %}
+                                        <li><a href="{{ c.url }}">{{ c.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </li>                            
                         </ul>
                     </li>
                     <li class="mega-menu mega-menu-small"><a href="/fr/news.html"><div>Actualités</div></a>
