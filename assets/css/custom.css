@@ -101,6 +101,10 @@ section#content p {
 .pplaaf-green-txt {
 	color: #118148 !important;
 }
+
+.pplaaf-btn {
+    background: #352f1999 !important;
+}
 .pplaaf-btn:hover {
     background-color: #fcc707 !important;
     color: #118148 !important;
