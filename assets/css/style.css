@@ -1787,15 +1787,10 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #header.transparent-header:
 	transition: height .4s ease, opacity .3s ease;
 }
 
-@media screen and (max-width: 1300px) {
-	#header, #header-wrap,#logo img {
-		height: 90px;
-	}
-}
 
-@media screen and (max-width: 1100px) {
-	#header, #header-wrap,#logo img {
-		height: 75px;
+@media screen and (max-width: 1200px) {
+	#logo img {
+		height: 85px;
 	}
 }
 
