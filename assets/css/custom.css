@@ -8,7 +8,10 @@ p a:hover {
     /* color: #558662; */
     text-shadow: 0px 3px 5px #dac8885c;
 }
-
+section#content a:hover {
+    text-shadow: 0px 3px 5px #dac8885c;
+    font-weight: bold;
+}
 section#content p {
     text-align: justify;
 }
