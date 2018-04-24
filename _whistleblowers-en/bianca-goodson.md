@@ -27,9 +27,9 @@ PPLAAF.”</p>
 </div>
 <div class=" divider"></div>
 
-“I always knew that the information I had would corroborate suspicions about Trillian’s dealings with State-owned Enterprises.” Bianca Goodson said in an <a href="https://www.dailymaverick.co.za/article/2017-12-21-2017-daily-maverick-south-african-persons-of-the-year-the-whistle-blowers" target="blank">interview to the Daily
-Maverick</a>. “I felt that I was being spineless not to speak up, I decided one day that I was
-allowing my experience to bully me.”
+“_I always knew that the information I had would corroborate suspicions about Trillian’s dealings with State-owned Enterprises._” Bianca Goodson said in an <a href="https://www.dailymaverick.co.za/article/2017-12-21-2017-daily-maverick-south-african-persons-of-the-year-the-whistle-blowers" target="blank">interview to the Daily
+Maverick</a>. “_I felt that I was being spineless not to speak up, I decided one day that I was
+allowing my experience to bully me._”
 
 Goodson served as the Chief Executive Officer of Trillian Management, a South-African consulting firm and a subsidiary of Trillian Capital. The firm is owned by Salim Essa, an associate of the powerful Gupta family, who is accused of growing rich of its strong relationship with President Zuma. Goodson quickly started noticing shady activities: the firm was using its connections to land lucrative government contracts, such as from national energy company Eskom, then handing them to external partners.
 
@@ -38,7 +38,8 @@ Feeling lied to by her superiors about the company’s activities, Goodson resig
 A promising executive at a young age, Goodson’s refusal to stay silent in front of the misuse of public funds was not easy and took a personal and professional toll. _“Doing the right thing is never, ever easy. If you find yourself in a situation such as mine, it’s probably because you have the strength to deal with it”_, she told [The Daily Maverick](https://www.dailymaverick.co.za/article/2017-12-21-2017-daily-maverick-south-african-persons-of-the-year-the-whistle-blowers/){:target="_blank"}. 
 
 PPLAAF stood by Goodson’s side, providing her with a legal counsel of her choice, assisting her with preparing herself and her testimony, evaluating the risks she faced and promoting her case on national and international media.
-A year after quitting her job, Goodson found a job at Sage, a global accounting software business. While she kept her employer informed of her whistleblowing intention, offering her resignation if the company suffers any backlash, the company decided to process her resignation immediately after she went public. Since then, Goodson has found a new employment. “We need to have more people coming forward with evidence of corruption but they’re not going to do so, if the consequences of that is that they lose their livelihoods” said her new employer in [an interview to BizNews](https://www.biznews.com/undictated/2017/10/17/sage-firing-bianca-goodson/){:target="_blank"}.
+
+A year after quitting her job, Goodson found a job at Sage, a global accounting software business. While she kept her employer informed of her whistleblowing intention, offering her resignation if the company suffers any backlash, the company decided to process her resignation immediately after she went public. Since then, Goodson has found a new employment. “_We need to have more people coming forward with evidence of corruption but they’re not going to do so, if the consequences of that is that they lose their livelihoods_” said her new employer in [an interview to BizNews](https://www.biznews.com/undictated/2017/10/17/sage-firing-bianca-goodson/){:target="_blank"}.
 
 ## The Gupta leaks
 The principal charge against South-African President Jacob Zuma, originating with claims from whistleblowers working with PPLAAF is of “state capture”. The local term is in widespread use. State capture is more than simple corruption. It is the pillage of national companies and institutions, corrupting the people of power, as well changing the country’s laws, so they would all work in the private interest’s interest.

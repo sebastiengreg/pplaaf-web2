@@ -9,63 +9,29 @@ image: lumumba.jpg
 <h2>Bank Revelations that Weaken DRC’s President’s Hold on Power</h2>
 
 <div class="profile-block">
-<img class="" style="width:100%;" src="/assets/images/profiles/lumumba.jpg">
-<p class="top-blockquote">I am one of the first whistleblowers in my
-country to be supported by PPLAAF. I am very
-happy with the legal protection and above all,
-the moral comfort it has given me. The action
-and the fight that I lead is the establishment
-of democracy and the rule of law in my
-country the Democratic Republic of Congo.
-William Bourdon is a visionary who
-understood the need for the protection of
-whistleblowers in the process of
-democratization of African countries, a
-guarantee of stability and revival of economic
-development.</p>
+<img class="" style="width:100%;" src="/assets/images/profiles/lumumba2.jpg">
+<p class="top-blockquote">I am one of the first whistleblowers in my country to be supported by PPLAAF. I am very happy with the legal protection and above all, the moral comfort it has given me. The action and the fight that I lead is the establishment of democracy and the rule of law in my country the Democratic Republic of Congo. William Bourdon is a visionary who understood the need for the protection of whistleblowers in the process of democratization of African countries, a guarantee of stability and revival of economic development.</p>
 </div>
 <div class=" divider"></div>
 
+“_The greed of some politicians is so huge that they have taken Congo hostage. People are dying and are being tortured. Many cannot speak anymore,_” [Jean-Jacques Lumumba told in an interview for Deutsche Welle](http://www.dw.com/en/drc-president-joseph-kabila-reformer-or-corrupt-authoritarian/a-36935441){:target="_blank"} “_We have returned to dictatorship because it is all about
+sustaining power._”
 
-“The greed of some politicians is so huge that they have taken Congo hostage. People are dying
-and are being tortured. Many cannot speak anymore,” [Jean-Jacques Lumumba told in an
-interview for Deutsche Welle](http://www.dw.com/en/drc-president-joseph-kabila-reformer-or-corrupt-authoritarian/a-36935441){:target="_blank"} “We have returned to dictatorship because it is all about
-sustaining power.”
+Lumumba served as the head of the credit department at the Congolese BGFI Bank. In 2016, Lumumba started noticing shady activities: suspicious transactions of dozens of millions of dollars between President Kabila’s family-controlled bank and organizations with close ties to the president. A few months after his suspicions begun, Lumumba alerted his superiors of these transactions. Threatened with a gun to stay quiet by the director of the bank, Joseph Kabila’s adopted brother, Lumumba fled his homeland and bravely revealed this massive corruption scandal.
 
-Lumumba served as the head of the credit department at the Congolese BGFI Bank. In 2016,
-Lumumba started noticing shady activities: suspicious transactions of dozens of millions of
-dollars between President Kabila’s family-controlled bank and organizations with close ties to
-the president. A few months after his suspicions begun, Lumumba alerted his superiors of these
-transactions. Threatened with a gun to stay quiet by the director of the bank, Joseph Kabila’s
-adopted brother, Lumumba fled his homeland and bravely revealed this massive corruption
-scandal.
-
-Lumumba is the grand-nephew of one of Congo’s independence leaders Patrice Lumumba, who
-was executed seven months after becoming Congo’s first democratically elected leader in 1960.
-At barely 30, he held a comfortable position as a bank executive in one of DRC’s largest banks.
-It was his refusal to cooperate with the misuse of public funds that turned his life upside down.
-Does Lumumba regret his deed: “_of course not. I did it for my country and this new generation
-who wants to build the Rule of Law in the DRC_”, he told PPLAAF.
+Lumumba is the grand-nephew of one of Congo’s independence leaders Patrice Lumumba, who was executed seven months after becoming Congo’s first democratically elected leader in 1960. At barely 30, he held a comfortable position as a bank executive in one of DRC’s largest banks. It was his refusal to cooperate with the misuse of public funds that turned his life upside down. Does Lumumba regret his deed: “_of course not. I did it for my country and this new generation who wants to build the Rule of Law in the DRC_”, he told PPLAAF.
 
 ## The Lumumba Papers
-In June 2016, fearing for his life, Lumumba fled to Europe. In October, Lumumba resigned
-officially from his job. Shortly afterward, agents from intelligence agencies showed up at his
-house but his family was already hidden elsewhere. His family later found a way out of the
-country and met him in Europe.
+In June 2016, fearing for his life, Lumumba fled to Europe. In October, Lumumba resigned officially from his job. Shortly afterward, agents from intelligence agencies showed up at his house but his family was already hidden elsewhere. His family later found a way out of the country and met him in Europe.
 
-In October 2016, The Belgian newspaper Le Soir published [an in-depth article](http://plus.lesoir.be/66290/article/2016-10-29/corruption-au-congo-les-preuves-qui-accablent-le-regime-kabila){:target="_blank"} on suspicious
-activities of BGFI DRC largely based on internal documents disclosed by Lumumba. The
-documents reveal the bank’s involvement in corruption, illegal financing, and embezzlement.
-[The papers also show](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"}, suspicious transactions between the
+In October 2016, The Belgian newspaper _Le Soir_ published [an in-depth article](http://plus.lesoir.be/66290/article/2016-10-29/corruption-au-congo-les-preuves-qui-accablent-le-regime-kabila){:target="_blank"} on suspicious activities of BGFI DRC largely based on internal documents disclosed by Lumumba. The documents reveal the bank’s involvement in corruption, illegal financing, and embezzlement.
+[The papers also show](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"}, suspicious transactions between the BGFI and the The Independent National Electoral Commission
 
-Since January 2017, PPLAAF has been working closely with Lumumba, providing him with pro-bono legal counsel, analyzing and researching the documents he provided, and using forensic researchers to discover more corruption affairs embedded in President Kabila’s
-ventures.
+Since January 2017, PPLAAF has been working closely with Lumumba, providing him with pro-bono legal counsel, analyzing and researching the documents he provided, and using forensic researchers to discover more corruption affairs embedded in President Kabila’s ventures
 
-Investigations conducted by [PPLAAF](https://pplaaf.org/){:target="_blank"}, [Le Monde](http://www.lemonde.fr/){:target="_blank"} and [OCCRP](https://www.occrp.org/en){:target="_blank"} showed how public money was
-embezzled notably to buy wild animals in Namibia for the private interests of President Kabila.
-Jean-Jacques Lumumba now lives and works in European exile. He is fighting for the Rule of
-law in his country and for the Democratic Republic of the Congo to know peaceful and
-democratic times.
+Investigations conducted by [PPLAAF](https://pplaaf.org/){:target="blank"}, [Le Monde](http://www.lemonde.fr/){:target="blank"} and [OCCRP](https://www.occrp.org/en){:target="_blank"} showed how public money was embezzled notably to buy wild animals in Namibia for the private interests of President Kabila.
+
+Jean-Jacques Lumumba now lives and works in European exile. He is fighting for the rule of law in his country and for the Democratic Republic of the Congo to know peaceful and democratic times.
 
 ## For additional information:
 
