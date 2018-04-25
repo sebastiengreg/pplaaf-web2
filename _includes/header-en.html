@@ -20,7 +20,7 @@
             <nav id="primary-menu" >
 
                 <ul>
-                    <li><a href="/#aboutus"><div>About Us</div></a>
+                    <li><a href="/#aboutus"><div>About</div></a>
                         <ul>
                             {% if include.type == "frontpage" %}
                                 <li><a href="#whatwedo" data-scrollto="#whatwedo"><div>What we do</div></a></li>
@@ -35,22 +35,20 @@
                     </li>
                     <li><a href="/send-us-info.html"><div>Send us info</div></a>
                     </li>
-                    <li><a href="#"><div>Profiles/Stories</div></a>
+                    <li><a href="#"><div>Whistleblowers</div></a>
                         <ul>
-                            <li><a href="#"><div>Whistleblowers</div></a>
-                                <ul>
-                                    {% for wb in site.whistleblowers-en %}
-                                        <li><a href="{{ wb.url }}"><div>{{ wb.title }}</div></a></li>
-                                    {% endfor %}
-                                </ul>
-                            </li>
-                            <li><a href="#"><div>Case Stories</div></a>
-                                <ul>
+                            {% for wb in site.whistleblowers-en %}
+                                <li><a href="{{ wb.url }}"><div>{{ wb.title }}</div></a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    <li><a href="#"><div>Cases</div></a>
+                        <ul>
+
                                     {% for c in site.cases-en %}
                                         <li><a href="{{ c.url }}">{{ c.title }}</a></li>
                                     {% endfor %}
-                                </ul>
-                            </li>
+
                             <li><a href="#"><div>Country Profiles</div></a>
                                 <ul>
                                     {% for c in site.countries-en %}
