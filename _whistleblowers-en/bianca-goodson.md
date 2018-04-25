@@ -8,7 +8,7 @@ image: bianca.jpg
 <h2>Suspicious links between the South Africa’s president and the powerful Gupta Family</h2>
 
 <div class="profile-block">
-<img src="/assets/images/profiles/bianca.png">
+<img src="/assets/images/profiles/bianca.jpg">
 <p class="top-blockquote">PPLAAF understood my situation. This is their
 work and I was not the first whistle-blower
 that they have supported. Their presence in
