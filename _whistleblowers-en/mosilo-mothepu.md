@@ -7,12 +7,10 @@ image: mosilo-mothepu.jpg
 ---
 <h2>Suspicious links between the South Africa’s president and the powerful Gupta Family</h2>
 
-
 <div class="profile-block">
 <img src="/assets/images/profiles/mosilo-mothepu.jpg">
 <p class="top-blockquote">I was excited to join my former employer whose vision was to change the landscape of financial services industry in South Africa. It soon became quite clear that the shareholders and executive management didn’t share the same ethical and integrity ethos as myself. I left the company and reported my suspicions of impropriety to the public protector and parliament. PPLAAF assisted me with my legal fees and provided me with advice and compassion… PPLAAF is assisting South Africa’s regain their hard-earned democracy in providing much needed support, whistleblowing is a long, difficult and often lonely decision but PPLAAF ensures protection and offers humanity.</p>
 </div>
-<div class=" divider"></div>
 
 “_I would say they have to resist if now they are being given an unlawful instruction by a superior._” Mosilo Mothepu said when asked [what is her message to public servants](https://www.dailymaverick.co.za/article/2017-11-01-state-capture-in-parliament-mosilo-mothepu-lifts-the-lid-on-the-machinations-of-state-capture-at-eskom/#.Wl3vOainFPY){:target="blank"} in the
 South-Africa parliament. “_The fact that you don’t have the courage to say ‘no’ breeds the cancer._”

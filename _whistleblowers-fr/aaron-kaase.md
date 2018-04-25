@@ -10,7 +10,7 @@ image: aaron-kaase.jpg
 
 <div class="profile-block">
 <img src="/assets/images/profiles/aaron-kaase.jpg">
-<p class="top-blockquote">« Je tiens à féliciter PPLAAF pour avoir été une voix pour les lanceurs d&#39;alerte en Afrique. De 2015 à ce jour, j&#39;ai été victime de représailles virulentes après avoir lancé l’alerte sur des passations de marchés et d’autres actes financiers frauduleux impliquant le président de la Commission des services de police, où je travaille… PPLAAF a été merveilleux en offrant une aide financière pour soutenir les processus de litige, après plus de deux ans de batailles juridiques, ceci pendant une suspension illégale qui m’a pesé financièrement. L&#39;effort fourni par l’organisation pour mettre cette affaire sur le devant de la scène publique est également louable. »</p>
+<p class="top-blockquote">Je tiens à féliciter PPLAAF pour avoir été une voix pour les lanceurs d&#39;alerte en Afrique. De 2015 à ce jour, j&#39;ai été victime de représailles virulentes après avoir lancé l’alerte sur des passations de marchés et d’autres actes financiers frauduleux impliquant le président de la Commission des services de police, où je travaille… PPLAAF a été merveilleux en offrant une aide financière pour soutenir les processus de litige, après plus de deux ans de batailles juridiques, ceci pendant une suspension illégale qui m’a pesé financièrement. L&#39;effort fourni par l’organisation pour mettre cette affaire sur le devant de la scène publique est également louable.</p>
 </div>
 
 «_J’ai lancé l’alerte par conviction. La direction de la commission des services de police a complétement détruit cet important organisme public. C'était dangereux, mais je devais le faire._», a déclaré Aaron Kaase lorsqu'on lui a demandé pourquoi

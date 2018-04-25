@@ -11,7 +11,6 @@ image: tounsi.jpg
 <img src="/assets/images/profiles/tounsi.jpg">
 <p class="top-blockquote">... I don’t regret having revealed this corruption, and if I have to do it again I would do the same thing while knowing the obstacles faced by whistleblowers in Algeria. PPLAAF’s creation is very useful given the nature of African regimes and the "justice" imposed upon us. PPLAAF will surely take an indispensable role among international NGOs and reveal corruption affairs in many countries, including Algeria.</p>
 </div>
-<div class=" divider"></div>
 
 “_Corruption in Algeria has increased significantly,_" Noureddine Tounsi told PPLAAF. "_The judiciary system pursues whistleblowers instead of launching in-depth investigations and letting the people know what the real findings of those investigations of alleged deeds of corruption are._"
 

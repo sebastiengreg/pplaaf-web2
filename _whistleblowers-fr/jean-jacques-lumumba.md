@@ -8,8 +8,8 @@ translated: [English]
 <h2>Des révélations bancaires qui fragilisent le régime du président de la RDC</h2>
 
 <div class="profile-block">
-<img src="/assets/images/profiles/lumumba.jpg">
-<p>« Je suis l&#39;un des premiers lanceurs d&#39;alerte de
+<img src="/assets/images/profiles/lumumba2.jpg">
+<p class="top-blockquote">Je suis l&#39;un des premiers lanceurs d&#39;alerte de
 mon pays à être soutenu par PPLAAF. Je suis
 très content de la protection juridique et
 surtout du confort moral que cela m&#39;a
@@ -21,7 +21,7 @@ un visionnaire qui a compris la nécessité de
 protéger les lanceurs d’alerte dans le
 processus de démocratisation des pays
 africains, un gage de stabilité et de relance du
-développement économique. »</p>
+développement économique.</p>
 </div>
 
 « _La cupidité de certains politiques est telle que le peuple congolais se retrouve pris en otage.

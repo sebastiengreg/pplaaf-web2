@@ -9,7 +9,7 @@ image: bianca.jpg
 
 <div class="profile-block">
 <img src="/assets/images/profiles/bianca.png">
-<p class="top-blockquote">“PPLAAF understood my situation. This is their
+<p class="top-blockquote">PPLAAF understood my situation. This is their
 work and I was not the first whistle-blower
 that they have supported. Their presence in
 my life offered me something that no amount
@@ -23,9 +23,8 @@ taking brave actions as I did, the best lesson
 that I can impart is this – you will need people
 around you that you can depend on, trust and
 talk to consistently…I found a sanctuary in
-PPLAAF.”</p>
+PPLAAF.</p>
 </div>
-<div class=" divider"></div>
 
 “_I always knew that the information I had would corroborate suspicions about Trillian’s dealings with State-owned Enterprises._” Bianca Goodson said in an <a href="https://www.dailymaverick.co.za/article/2017-12-21-2017-daily-maverick-south-african-persons-of-the-year-the-whistle-blowers" target="blank">interview to the Daily
 Maverick</a>. “_I felt that I was being spineless not to speak up, I decided one day that I was

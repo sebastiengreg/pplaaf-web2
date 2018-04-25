@@ -12,7 +12,6 @@ image: lumumba.jpg
 <img class="" style="width:100%;" src="/assets/images/profiles/lumumba2.jpg">
 <p class="top-blockquote">I am one of the first whistleblowers in my country to be supported by PPLAAF. I am very happy with the legal protection and above all, the moral comfort it has given me. The action and the fight that I lead is the establishment of democracy and the rule of law in my country the Democratic Republic of Congo. William Bourdon is a visionary who understood the need for the protection of whistleblowers in the process of democratization of African countries, a guarantee of stability and revival of economic development.</p>
 </div>
-<div class=" divider"></div>
 
 “_The greed of some politicians is so huge that they have taken Congo hostage. People are dying and are being tortured. Many cannot speak anymore,_” [Jean-Jacques Lumumba told in an interview for Deutsche Welle](http://www.dw.com/en/drc-president-joseph-kabila-reformer-or-corrupt-authoritarian/a-36935441){:target="_blank"} “_We have returned to dictatorship because it is all about
 sustaining power._”

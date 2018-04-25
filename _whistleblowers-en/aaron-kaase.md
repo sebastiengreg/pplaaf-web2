@@ -13,7 +13,6 @@ image: aaron-kaase.jpg
 <img src="/assets/images/profiles/aaron-kaase.jpg">
 <p class="top-blockquote">I want to commend PPLAAF for being a voice for whistleblowers in Africa. From 2015 to date, I have become a victim of high wired reprisals after I blew the whistle on procurement and other fraudulent financial acts involving the Chairman of Police Service Commission, an agency that oversights the Nigeria police force, where I work…PPLAAF has been wonderful by offering financial assistance to support the litigation processes after over two years of ongoing legal battles, while serving an illegal suspension without pay has taken a toll on me. The effort of this organization to put this matter on the front burner is also commendable.</p>
 </div>
-<div class=" divider"></div>
 
 “_I blew the whistle out of conviction. The current leadership of this important public office ran it to the ground. It was dangerous, but I had to do it._” Aaron Kaase said when asked why he revealed significant corruption in the Nigerian Police Services Commission (PSC) and its current chair, Mike Okiro.
 
