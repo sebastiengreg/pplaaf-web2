@@ -5,17 +5,17 @@ lang: fr
 type: case
 translated: [English]
 ---
-Les Lumumba Papers révèlent les activités suspectes de la banque BGFI RDC, filiale de la banque gabonaise Banque Gabonaise et Française Internationale (BGFI) en République démocratique du Congo, et son implication dans la corruption et le détournement de fonds publics Largement basé sur des documents internes divulgués par l’ex-employé de la banque Jean-Jacques Lumumba, l’affaire [révèle également](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf) l’existence de transactions suspectes entre la BGFI et la Commission électorale nationale indépendante.
+Les Lumumba Papers révèlent les activités suspectes de la banque BGFI RDC, filiale de la banque gabonaise Banque Gabonaise et Française Internationale (BGFI) en République démocratique du Congo, et son implication dans la corruption et le détournement de fonds publics Largement basé sur des documents internes divulgués par l’ex-employé de la banque Jean-Jacques Lumumba, l’affaire [révèle également](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"} l’existence de transactions suspectes entre la BGFI et la Commission électorale nationale indépendante.
 
 La banque gabonaise BGFI a des branches dans une dizaine de pays, dont la RDC, la Cote d’Ivoire et la France. Les propriétaires de la filiale congolaise sont, entre autres, le BGFI Holding Corporation (60%) et Gloria Mteyu – la sœur du président Kabila (35%).
 
 Lumumba était cadre dirigeant de la branche Crédits au sein de BGFI RDC depuis 2014. En 2016, Lumumba découvre l’existence de plusieurs transactions suspectes de dizaines de millions de dollars entre la banque congolaise dirigée par des proches de la famille du président Kabila et des sociétés, elles aussi contrôlées par des proches du Président. Lumumba tente d’alerter en interne ses supérieurs. Menacé avec une arme à feu par le Directeur général de la banque, Francis Selemani Mtwale, le frère adoptif du Président Kabila, Lumumba quitte son pays puis révèle courageusement ce scandale de corruption massive.
 
-En octobre 2016, le journal belge Le Soir publie [un article approfondi](http://plus.lesoir.be/66290/article/2016-10-29/corruption-au-congo-les-preuves-qui-accablent-le-regime-kabila) sur les révélations. En décembre 2016, c’est Bloomberg qui publie [un article décrivant la richesse de Kabila et des membres de sa famille](https://www.bloomberg.com/news/features/2016-12-15/with-his-family-fortune-at-stake-congo-president-kabila-digs-in), en s’appuyant partiellement sur des documents de Lumumba. Les différents membres de la famille Kabila ont, d’après l’article, des parts dans des dizaines de compagnies, dont des compagnies minières et banquières. L’article mentionne aussi les méfaits de la BGFI.
+En octobre 2016, le journal belge Le Soir publie [un article approfondi](http://plus.lesoir.be/66290/article/2016-10-29/corruption-au-congo-les-preuves-qui-accablent-le-regime-kabila){:target="_blank"} sur les révélations. En décembre 2016, c’est Bloomberg qui publie [un article décrivant la richesse de Kabila et des membres de sa famille](https://www.bloomberg.com/news/features/2016-12-15/with-his-family-fortune-at-stake-congo-president-kabila-digs-in){:target="_blank"}, en s’appuyant partiellement sur des documents de Lumumba. Les différents membres de la famille Kabila ont, d’après l’article, des parts dans des dizaines de compagnies, dont des compagnies minières et banquières. L’article mentionne aussi les méfaits de la BGFI.
 
 Depuis janvier 2017, PPLAAF travaille en étroite collaboration avec Lumumba, en lui fournissant des conseils juridiques pro bono, en analysant et recherchant les documents qu’il a fournis, et en utilisant des chercheurs spécialisés pour analyser les documents qu’il a gardés depuis son passage à la BGFI.
 
-PPLAAF a conduit des enquêtes approfondis avec [Le Monde](http://www.lemonde.fr/) et l’[OCCRP](https://www.occrp.org/en).
+PPLAAF a conduit des enquêtes approfondis avec [Le Monde](http://www.lemonde.fr/){:target="_blank"} et l’[OCCRP](https://www.occrp.org/en){:target="_blank"}.
 
 
 <div class="line"></div>
@@ -23,9 +23,9 @@ PPLAAF a conduit des enquêtes approfondis avec [Le Monde](http://www.lemonde.fr
 
 ## La Commission électorale nationale indépendante (CENI)
 
-Les documents donnés par Lumumba à PPLAAF contiennent des [ relevés du compte bancaire de la CENI à la BGFI](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf). Ces documents révèlent des transactions financières inexpliquées qui sont incompatibles avec les responsabilités de la CENI. Ils montrent, par exemple, que des responsables de la CENI [ont effectué des retraits en liquide d’un montant total de 7,5 millions de](http://blog.lesoir.be/colette-braeckman/2016/10/29/un-banquier-de-kinshasa-devoile-le-pot-aux-roses/) dollars sur une période de trois mois en 2016, sans donner aucune explication pour ces transactions. 
+Les documents donnés par Lumumba à PPLAAF contiennent des [ relevés du compte bancaire de la CENI à la BGFI](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"}. Ces documents révèlent des transactions financières inexpliquées qui sont incompatibles avec les responsabilités de la CENI. Ils montrent, par exemple, que des responsables de la CENI [ont effectué des retraits en liquide d’un montant total de 7,5 millions de](http://blog.lesoir.be/colette-braeckman/2016/10/29/un-banquier-de-kinshasa-devoile-le-pot-aux-roses/){:target="_blank"} dollars sur une période de trois mois en 2016, sans donner aucune explication pour ces transactions. 
 
-En outre, la BGFI RDC [aurait octroyé un crédit bancaire à la CENI de 25 millions de dollars](http://blog.lesoir.be/colette-braeckman/2016/10/29/un-banquier-de-kinshasa-devoile-le-pot-aux-roses/) en ne respectant ni la procédure interne de la banque, ni la mise à l’index de la CENI par la Banque centrale du Congo décidée le 22 mai 2014. Selon l’Instruction n°13 de la Banque centrale, la mise à l’index implique à charge de la personne frappée, la suspension ou l’interdiction du bénéfice des services et facilités auprès de tous les établissements de crédit.  Selon Lumumba, ce crédit a été validé par le Directeur général adjoint sur ordre du Directeur général, malgré le blocage du compte demandé par Lumumba.
+En outre, la BGFI RDC [aurait octroyé un crédit bancaire à la CENI de 25 millions de dollars](http://blog.lesoir.be/colette-braeckman/2016/10/29/un-banquier-de-kinshasa-devoile-le-pot-aux-roses/){:target="_blank"} en ne respectant ni la procédure interne de la banque, ni la mise à l’index de la CENI par la Banque centrale du Congo décidée le 22 mai 2014. Selon l’Instruction n°13 de la Banque centrale, la mise à l’index implique à charge de la personne frappée, la suspension ou l’interdiction du bénéfice des services et facilités auprès de tous les établissements de crédit.  Selon Lumumba, ce crédit a été validé par le Directeur général adjoint sur ordre du Directeur général, malgré le blocage du compte demandé par Lumumba.
 
 
 ## EGAL
@@ -42,7 +42,7 @@ D’après les relevés bancaires d’EGAL, la compagnie n’a aucun revenu sauf
 
 ## Trafic d’animaux sauvages
 
-Les enquêtes menées par PPLAAF, Le Monde et OCCRP montrent comment EGAL a été utilisée pour importer de Namibie vers la RDC [des animaux sauvages](http://www.lemonde.fr/afrique/article/2017/07/13/girafes-buffles-et-zebres-en-cargo-ou-les-lubies-animalieres-de-joseph-kabila_5160098_3212.html) sans doute pour les intérêts privés du président Kabila. 
+Les enquêtes menées par PPLAAF, Le Monde et OCCRP montrent comment EGAL a été utilisée pour importer de Namibie vers la RDC [des animaux sauvages](http://www.lemonde.fr/afrique/article/2017/07/13/girafes-buffles-et-zebres-en-cargo-ou-les-lubies-animalieres-de-joseph-kabila_5160098_3212.html){:target="_blank"} sans doute pour les intérêts privés du président Kabila. 
 
 Les hommes d’affaires et proches de Kabila, Alain Wan et Marc Piedboeuf, ont vendu en 2010 à Kabila la société des Grands Elevages du Congo (GEL), désormais la propriété de la susmentionnée compagnie de Kabila : la Ferme Espoir. 
 Ferme Espoir est dirigé par Piedboeuf, qui est également demeuré directeur général de GEL.
@@ -54,14 +54,14 @@ Le président Kabila aurait l’intention de transformer la Ferme Espoir en un p
 La Gécamines, une compagnie d’état congolaise, est une compagnie minière présidée par Albert Yuma. Selon l’article du Soir, publié grâce aux révélations de Lumumba, la compagnie a ouvert une ligne de découvert de 30 millions de dollars à la BGFI. Le remboursement devait se faire en un an avec un taux d’intérêt de 11,5%.
 
 Lumumba a révélé dans la presse que la banque 
-[a prélevée les intérêts deux fois par mois](http://www.jeuneafrique.com/370468/politique/rdc-lumumba-papers-eclaboussent-bgfi-bank-lentourage-de-kabila/),donc le double de la somme. C’est ainsi que 2,7 de millions de dollar US qui ont été déduits par la BGFI. Après les révélations, la banque a remboursé le trop-perçu a la Gécamines.
+[a prélevée les intérêts deux fois par mois](http://www.jeuneafrique.com/370468/politique/rdc-lumumba-papers-eclaboussent-bgfi-bank-lentourage-de-kabila/){:target="_blank"}, donc le double de la somme. C’est ainsi que 2,7 de millions de dollar US qui ont été déduits par la BGFI. Après les révélations, la banque a remboursé le trop-perçu a la Gécamines.
 
 
 ## For additional information:
 
 ### PPLAAF:
-- [L’histoire des Lumumba Papers : des relevés bancaires aux animaux sauvages du président Kabila](http://lumumbapapers.info/), 12 juillet 2017
-- « [RDC : Nouvelles révélations sur des sociétés appartenant à des proches de Kabila](https://pplaaf.org/fr/2017/07/12/rdc-Nouvelles-revelations.html) », 12 juillet 2017
+- [L’histoire des Lumumba Papers : des relevés bancaires aux animaux sauvages du président Kabila](http://lumumbapapers.info/){:target="_blank"}, 12 juillet 2017
+- « [RDC : Nouvelles révélations sur des sociétés appartenant à des proches de Kabila](https://pplaaf.org/fr/2017/07/12/rdc-Nouvelles-revelations.html){:target="_blank"} », 12 juillet 2017
 
 ### Le Soir:
 - « [Corruption au Congo : les preuves qui accablent le régime Kabila](http://plus.lesoir.be/66290/article/2016-10-29/corruption-au-congo-les-preuves-qui-accablent-le-regime-kabila){:target="_blank"} », Xavier Counasse and
