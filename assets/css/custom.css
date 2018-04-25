@@ -62,7 +62,8 @@ section#content p {
 
 /* PAGE TITLE */
 #page-title.page-title-dark {
-	background-color: rgb(73, 82, 77);
+    /* background-color: rgb(73, 82, 77); */
+    background-color: #118148;
 	text-shadow: 1px 1px 1px rgba(0,0,0,1) !important;
 	border-bottom: none;
 }
