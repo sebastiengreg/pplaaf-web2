@@ -4,21 +4,9 @@
 
     <div class="sidebar-widgets-wrap">
 
-        {% if include.type == "post" %}
-        <div class="widget clearfix  ">
-            {% if page.previous.url %}
-            <a class=" button button-small" style="width:100%; text-align:center; margin-left:auto; margin-right:auto;" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}"
-                data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-            {% endif %} {% if page.next.url %}
-            <a class=" button button-small " style="width:100%; text-align:center; margin:auto;" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}"
-                data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-            {% endif %}
-        </div>
-        {% endif %}
-
         <!-- fb and twitter -->
         <div class="widget clearfix">
-            <h4>Follow PPLAAF</h4>
+            <h4 class="nobottommargin nobottompadding">FOLLOW PPLAAF:</h4>
             <a href="https://facebook.com/PPLAAF/" target="blank" class="social-icon si-borderless si-facebook">
                 <i class="icon-facebook"></i>
                 <i class="icon-facebook"></i>
@@ -49,28 +37,24 @@
         {% endif %}
 
         <!-- WhistleBlower Profile cloud -->
-        <div class="widget clearfix  tagcloud ">
-            <h4>WhistleBlower Profiles</h4>
+        <div class="widget clearfix tagcloud ">
+            <h4>WhistleBlower Profiles:</h4>
             {% for wb in site.whistleblowers-en %}
-            <h4>
                 <a class="no-gutter" href="{{ wb.url }}">{{ wb.title }}</a>
-            </h4>
             {% endfor %}
         </div>
         <!-- Case Profile cloud -->
         <div class="widget clearfix  tagcloud ">
-            <h4>PPLAAF Cases</h4>
+            <h4>PPLAAF Cases:</h4>
             {% for c in site.cases-en %}
-            <h4>
                 <a class="no-gutter" href="{{ c.url }}">{{ c.title }}</a>
-            </h4>
             {% endfor %}
         </div>
 
 
         <!-- featured posts -->
         <div class="widget clearfix">
-            <h4>Featured Posts</h4>
+            <h4>Featured Posts:</h4>
             <div id="oc-portfolio-sidebar" class="owl-carousel carousel-widget" data-items="1" data-margin="10" data-loop="true" data-nav="false"
                 data-autoplay="5000">
 
