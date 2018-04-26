@@ -47,17 +47,16 @@
 
                                     {% for c in site.cases-en %}
                                         <li><a href="{{ c.url }}">{{ c.title }}</a></li>
-                                    {% endfor %}
-
-                            <li><a href="#"><div>Country Profiles</div></a>
-                                <ul>
-                                    {% for c in site.countries-en %}
-                                        <li><a href="{{ c.url }}">{{ c.title }}</a></li>
-                                    {% endfor %}
-                                </ul>
-                            </li>                            
+                                    {% endfor %}                         
                         </ul>
                     </li>
+                    <li><a href="#"><div>Country Info</div></a>
+                        <ul>
+                            {% for c in site.countries-en %}
+                                <li><a href="{{ c.url }}">{{ c.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>   
                     <li class="mega-menu mega-menu-small" ><a href="/news.html"><div>News</div></a>
                         <div class="mega-menu-content style-2 clearfix menu-pos-invert">
                             <ul class="mega-menu-column col-md-4">

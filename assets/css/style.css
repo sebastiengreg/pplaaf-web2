@@ -1071,8 +1071,8 @@ body.stretched #header.full-header .container {
 	padding: 39px 15px;
 	color: #444;
 	font-weight: bold;
-	font-size: 13px;
-	letter-spacing: 1px;
+	font-size: 12px;
+	letter-spacing: 0.05rem;
 	text-transform: uppercase;
 	font-family: 'Raleway', sans-serif;
 	-webkit-transition: margin .4s ease, padding .4s ease;
