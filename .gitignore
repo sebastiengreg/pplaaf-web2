@@ -18,3 +18,4 @@ test/dest
 tmp/*
 *.swp
 node_modules
+_site.zip
