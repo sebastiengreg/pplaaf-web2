@@ -19,7 +19,7 @@
             <!-- Menu - French  -->
             <nav id="primary-menu">
                 <ul>
-                    <li><a href="/fr/index.html#aboutus"><div>Nous connaître</div></a>
+                    <li><a href="/fr/index.html#aboutus"><div>Info</div></a>
                         <ul>
                             {% if include.type == "frontpage" %}
                                 <li><a href="#whatwedo" data-scrollto="#whatwedo"><div>Que faisons-nous?</div></a></li>
@@ -35,31 +35,27 @@
                     </li>
                     <li><a href="/fr/send-us-info.html"><div>Envoyez vos infos</div></a>
                     </li>
-                    <li><a href="#"><div>Profils/Histoire</div></a>
+                    <li><a href="#"><div>Lanceurs d’alerte</div></a>
                         <ul>
-                            <li><a href="#"><div>Lanceurs d’alerte</div></a>
-                                <ul>
-                                    {% for wb in site.whistleblowers-fr %}
-                                        <li><a href="{{ wb.url }}"><div>{{ wb.title }}</div></a></li>
-                                    {% endfor %}
-                                </ul>
-                            </li>
-                            <li><a href="#"><div>Histoires de cas</div></a>
-                                <ul>
-                                    {% for c in site.cases-fr %}
-                                        <li><a href="{{ c.url }}">{{ c.title }}</a></li>
-                                    {% endfor %}
-                                </ul>
-                            </li>
-                            <li><a href="#"><div>Profils de pays</div></a>
-                                <ul>
-                                    {% for c in site.countries-fr %}
-                                        <li><a href="{{ c.url }}">{{ c.title }}</a></li>
-                                    {% endfor %}
-                                </ul>
-                            </li>                            
+                            {% for wb in site.whistleblowers-fr %}
+                                <li><a href="{{ wb.url }}"><div>{{ wb.title }}</div></a></li>
+                            {% endfor %}
                         </ul>
                     </li>
+                    <li><a href="#"><div>Cas</div></a>
+                        <ul>
+                            {% for c in site.cases-fr %}
+                                <li><a href="{{ c.url }}">{{ c.title }}</a></li>
+                            {% endfor %}                         
+                        </ul>
+                    </li>                    
+                    <li><a href="#"><div>De pays</div></a>
+                        <ul>
+                            {% for c in site.countries-fr %}
+                                <li><a href="{{ c.url }}">{{ c.title }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>     
                     <li class="mega-menu mega-menu-small"><a href="/fr/news.html"><div>Actualités</div></a>
                         <div class="mega-menu-content style-2 clearfix menu-pos-invert">
                             <ul class="mega-menu-column col-md-4">
