@@ -1068,11 +1068,11 @@ body.stretched #header.full-header .container {
 #primary-menu ul li a {
 	display: block;
 	line-height: 22px;
-	padding: 39px 15px;
+	padding: 36px 10px;
 	color: #444;
 	font-weight: bold;
 	font-size: 12px;
-	letter-spacing: 0.05rem;
+	letter-spacing: 0.045rem;
 	text-transform: uppercase;
 	font-family: 'Raleway', sans-serif;
 	-webkit-transition: margin .4s ease, padding .4s ease;
