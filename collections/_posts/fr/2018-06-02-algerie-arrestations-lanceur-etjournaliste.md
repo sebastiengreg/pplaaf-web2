@@ -14,7 +14,7 @@ category: fr
 
 ---
 
-(Paris, le 2 juin 2018) Les autorités algériennes doivent immédiatement libérer le lanceur d’alerte Noureddine Tounsi et le journaliste Said Boudour, tous deux arrêtés le 1er juin 2018 à Oran, a déclaré aujourd’hui la Plateforme de Protection des Lanceurs d’Alerte en Afrique ([PPLAAF](https://pplaaf.org/fr/)). 
+(Paris, le 2 juin 2018) Les autorités algériennes devraient immédiatement libérer le lanceur d’alerte Noureddine Tounsi et le journaliste Said Boudour, tous deux arrêtés le 1er juin 2018 à Oran, a déclaré aujourd’hui la Plateforme de Protection des Lanceurs d’Alerte en Afrique ([PPLAAF](https://pplaaf.org/fr/)). 
 
 Noureddine Tounsi, le lanceur d’alerte à l’origine de révélations sur des faits de corruption au port d’Oran, a été arrêté hier en fin d’après-midi peu avant l’Iftar, en pleine rue, à Oran, vraisemblablement par des agents de la Direction générale de la Sûreté nationale (DGSN). 
 Selon un communiqué de la Ligue Algérienne pour la Défense des Droits de l’Homme (LAADH), Said Boudour a été appréhendé au même moment « _par une demi-douzaine d’éléments en civil et embarqué dans une voiture banalisée_ ». 
