@@ -20,6 +20,9 @@ section#content p {
     text-align: right !important;
 }
 
+ul,ol {
+    margin-left: 30px;
+}
 
 /* Top Header */
 
