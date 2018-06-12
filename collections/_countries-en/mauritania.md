@@ -1,7 +1,7 @@
 ---
 layout: page-full
 lang: en
-translated: [French]
+translated: []
 title: Islamic Republic of Mauritania
 ---
 ## Relevant legislation: 
@@ -23,7 +23,7 @@ Many journalists are believed to practice self-censorship, particularly around i
 
 ## Whistleblower Laws and policies 
 The Constitution “guarantees to all citizens public and individual freedoms”, including freedom of expression, freedom of assembly and freedom of opinion and thought. No further details of these freedoms are given, except that they “cannot be limited except by the law”.
-<a href="https://www.constituteproject.org/constitution/Mauritania_2012.pdf" target="_blank" data-toggle="tooltip" title="1. Mauritania's Constitution of 1991 with Amendments through 2012"><strong><sup>1</sup></strong></a>
+<a href="https://www.constituteproject.org/constitution/Mauritania_2012.pdf" target="_blank" data-toggle="tooltip" title="1. Mauritania's Constitution of 1991 with Amendments through 2012"><strong><em><sup>( 1 )</sup></em></strong></a>
 
 The Labor Code does not make reference to whistleblower protections. It does, however, limit legitimate reasons for dismissal to force majeure, mutual consent of the employer and employee, gross negligence on the part of one of the parties “left to the discretion of the competent court,” or the death of the employee. In the case of a contested dismissal, it rests on the employer to prove a legitimate reason, although no penalties for unfair dismissal are specified. Notably, dismissal for whistleblowing is not specifically prohibited, unlike dismissal on the grounds of race, color, gender, age or political opinions. Mediation is required before a case can be brought to the Labor Court.
 
