@@ -50,7 +50,7 @@ Distributing “printed matter, all writings, drawings, posters, engravings, pai
 
 Defamation can also carry heavy fines.  The Freedom of the Press Law allows monetary fines for journalistic offences against the president; defamation of government officials, certain government employees and official bodies (including courts and the military); and “offenses committed publically” against foreign heads of state and diplomats. Defamatory claims about the private lives of government officials can be punished with jail time of up to six months in the case of claims being made because of a person’s ethnic group, nationality, religion or race. The definition of defamation in the Freedom of the Press Law does implicitly extend to private citizens, but no punishments are set out for defaming those outside government office.
 
-A Cyber Crime Bill was adopted by Parliament in 2015.  Journalists raised concerns that this bill would allow them to be prosecuted for “almost anything published online.”  The Bill provides for prison sentences and heavy fines for disseminating certain types of politically sensitive content over the internet, as well as reaffirming the illegality of material that undermines the values of Islam and of sharing information considered to be in the interest of national defense.   
+A [Cyber Crime Bill](http://www.emploi.gov.mr/IMG/pdf/projet_de_loi_relative_a_la_cybercriminalite.pdf){:target="blank"} was adopted by Parliament in 2015.  Journalists raised concerns that this bill would allow them to be prosecuted for “almost anything published online.”  The Bill provides for prison sentences and heavy fines for disseminating certain types of politically sensitive content over the internet, as well as reaffirming the illegality of material that undermines the values of Islam and of sharing information considered to be in the interest of national defense.   
 
 Journalists have “the duty and the right” to protect their sources in “all circumstances, except in the cases provided for by law for the purpose of combating crimes”. 
 
@@ -62,7 +62,7 @@ However, in a recent and highly publicized case, a blogger was sentenced to deat
 Human rights activists also risk lengthy prison sentences, with those active in anti-slavery particularly susceptible to arrest. The 2016 Global Slavery Index estimates that 43,000 Mauritanians are enslaved. Other estimates are much higher, although the government staunchly denies that slavery exists in Mauritania.  The president of the Initiative for the Resurgence of the Abolitionist Movement (IRA) has been jailed at least three times and alleges that he was tortured in prison.  He was most recently released in May 2016 after serving 20 months for 'inciting trouble', 'belonging to an unrecognized organization', 'leading an unauthorized rally', and 'violence against the police'. As of April 2018, two activists from the IRA are still detained despite the condemnation of the United Nations Working Group on Arbitrary Detention which asked the Mauritanian government to release them in November 2017.
 
 ## Media rights and freedom
-The 2016 Freedom House Freedom of the Press report rates press freedom in Mauritania as “Partly Free”.  It notes concern that the new cybercrime “established prison sentences and heavy fines for disseminating certain types of politically sensitive content over the internet”. 
+The 2016 Freedom House [Freedom of the Press report](https://freedomhouse.org/report/freedom-press/2016/mauritania){:target="blank"} rates press freedom in Mauritania as “Partly Free”.  It notes concern that the new cybercrime “established prison sentences and heavy fines for disseminating certain types of politically sensitive content over the internet”. 
 
 The Freedom House report also notes that the media is highly politicized, reporting that opposition members maintain that the allocation of licenses favors pro-government political, tribal, and ethno-racial interests.  It further claims that the High Authority for the Press and Audiovisual Sector warned journalists against criticizing the president or his family and suspended a radio talk show for threatening “national unity and social cohesion”.
 
@@ -78,13 +78,15 @@ The appetite to enhance the protections offered to the media may be somewhat lim
 #### How Mauritania’s Whistleblower Protection Laws Compare to International Standards
 The following standards for whistleblower laws are derived from guidelines developed by the OECD, Council of Europe, Blueprint for Free Speech, Government Accountability Project, and Transparency International.
 
-#### Key
-1 = The standard is comprehensively or very well reflected in the laws<br>
-2 = The standard is partially reflected in the laws<br>
-3 = The standard is poorly reflected or absent from the laws
+> **Key**:
+> 
+> 1 = The standard is comprehensively or very well reflected in the laws<br>
+> 2 = The standard is partially reflected in the laws<br>
+> 3 = The standard is poorly reflected or absent from the laws
 
 | Standard                                                                                     | Public Sector | Private Sector |
 |----------------------------------------------------------------------------------------------|---------------|----------------|
+|                                                                                              |               |                |
 | A broad range of organisations and workplaces are covered                                    | 3             | 3              |
 | A broad range of offenses may be reported as whistleblowing                                  | 3             | 3              |
 | The definition of who may qualify as a whistleblower is broad                                | 3             | 3              |
