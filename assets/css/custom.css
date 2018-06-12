@@ -297,3 +297,13 @@ th, td {
     padding-right: 30px !important;
     margin-right: 20px;
 }
+
+/* FOOTNOTE */
+.footnote-tip {
+    font-style:normal;
+    font-weight: 900;
+    /* color: #0e9e32 !important; */
+    color: orangered !important;
+    vertical-align: super;
+    font-size: 12px;
+}
