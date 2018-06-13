@@ -21,7 +21,7 @@ Despite the [slow pace of the investigations](https://algeriepart.com/2017/10/31
 
 Tounsi has recently created a national committee to defend the denunciations of corruption in Algeria: "_My message to whistleblowers is to hold on, don’t give in, don’t regret anything and try to contact various international NGOs... while protecting yourself from reprisals by the judicial authorities who refuse to protect the values of justice._"
 
-#### The corruption of the port of Oran
+#### The Oran Port corruption
 Tounsi revealed that fraudulent practices were done to benefit the Entreprise des travaux routiers, hydrauliques et bâtiments (ETRHB), a company importing various goods. The company is owned by Ali Haddad, an influential Algerian businessman. With the complicity of the EPO, Haddad’s allegedly gained vast sums of money by avoiding paying the fees on imported goods.
 
 Various methods would allow to avoid paying the fees: services offered for free or undercharged, forging invoices to get advantageous prices, modifying the type of the imported goods, internal recourses to contest the billing of services that were supposedly not provided in order to get a refund, etc.
