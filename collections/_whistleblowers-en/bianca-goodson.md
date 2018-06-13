@@ -2,6 +2,7 @@
 layout: page
 title: Bianca Goodson
 lang: en
+translated: [Français]
 type: wbprofile
 image: bianca.jpg
 ---

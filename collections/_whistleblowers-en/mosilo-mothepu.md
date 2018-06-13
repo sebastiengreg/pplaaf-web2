@@ -2,6 +2,7 @@
 layout: page
 title: Mosilo Mothepu
 lang: en
+translated: [Français]
 type: wbprofile
 image: mosilo-mothepu.jpg
 ---
