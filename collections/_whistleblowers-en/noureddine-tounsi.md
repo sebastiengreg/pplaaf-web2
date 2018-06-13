@@ -2,6 +2,7 @@
 layout: page
 title: Noureddine Tounsi
 lang: en
+translated: [Français]
 type: wbprofile
 image: tounsi.jpg
 ---
@@ -20,7 +21,7 @@ Despite the [slow pace of the investigations](https://algeriepart.com/2017/10/31
 
 Tounsi has recently created a national committee to defend the denunciations of corruption in Algeria: "_My message to whistleblowers is to hold on, don’t give in, don’t regret anything and try to contact various international NGOs... while protecting yourself from reprisals by the judicial authorities who refuse to protect the values of justice._"
 
-#### La corruption du port d’Oran
+#### The corruption of the port of Oran
 Tounsi revealed that fraudulent practices were done to benefit the Entreprise des travaux routiers, hydrauliques et bâtiments (ETRHB), a company importing various goods. The company is owned by Ali Haddad, an influential Algerian businessman. With the complicity of the EPO, Haddad’s allegedly gained vast sums of money by avoiding paying the fees on imported goods.
 
 Various methods would allow to avoid paying the fees: services offered for free or undercharged, forging invoices to get advantageous prices, modifying the type of the imported goods, internal recourses to contest the billing of services that were supposedly not provided in order to get a refund, etc.
@@ -28,7 +29,6 @@ Various methods would allow to avoid paying the fees: services offered for free 
 In another case, Tounsi revealed that private importers arranged with the Office algérien interprofessionnel des céréales (OAIC), a public authority, to get their boats ahead of those of the OAIC even though they arrived later. As a result, the OAIC loses money by having to pay penalties on being late, that the private importers do not pay.
 
 Tounsi’s disclosures were revealed to the Algerian public, during 2016 and 2017, through the media outlets [_Al Akhbar_](http://www.elkhabar.com){:target="_blank"} and [_Algérie Part_](https://algeriepart.com){:target="_blank"}. He is also supported by the [Algerian League for the defense of Human Rights](http://laddh-algerie.org/?lang=fr){:target="_blank"} (LADDH).
-
 
 ## For additional information:
  
