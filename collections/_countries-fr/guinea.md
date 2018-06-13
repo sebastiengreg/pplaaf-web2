@@ -115,7 +115,7 @@ _3 = La norme est mal reflétée ou absente des lois_
 | Standard                                                                                                        | Secteur Public | Secteur Privé |
 |--------------------------------------------------------------------------------------------------------------|----------------|---------------|
 | Une large variété d’organisations et de fonctions sont couvertes                                             | 3              | 3             |
-| Une grandes variétés de violations peuvent reportées comme alerte                                            | 3              | 3             |
+| Une grande variété de violations peuvent reportées comme alerte                                              | 3              | 3             |
 | La définition de qui peut être qualifié de lanceur d’alerte est large                                        | 3              | 3             |
 | Une variété de canal d’information interne de report ou de régulation est disponible                         | 3              | 3             |
 | Les individus qui font des révélations à des organisations externes, aux médias ou au public sont protégés   | 3              | 3             |
@@ -123,7 +123,7 @@ _3 = La norme est mal reflétée ou absente des lois_
 | Il y a des possibilités et des protections pour les révélations anonymes                                     | 3              | 3             |
 | La confidentialité du lanceur d’alerte est protégée à moins qu’il n’exprime sa volonté de s’afficher         | 3              | 3             |
 | Les organisations sont enjointes d’établir des protocoles et procédures internes pour la divulgation d’information    | 3              | 3             |
-| Les lanceurs d’alerte sont d’une large variétés d’actes de représailles                                      | 3              | 3             |
+| Les lanceurs d’alerte sont protégés d’une large variété d’actes de représailles                             | 3              | 3             |
 | Les lanceurs d’alerte victimes ont accès à un large éventail de remèdes et de compensation                   | 3              | 3             |
 | Ceux qui attaquent les lanceurs d’alerte sont sujets à des sanctions                                         | 3              | 3             |
 | Une personnalité indépendante ou une agence de régulation a été désignée pour accompagner les lanceurs d’alerte       | 3              | 3             |
