@@ -24,13 +24,13 @@ It launched additional Labour Court proceedings to demand that she must pay back
 
 The National Prosecuting Authority (NPA) this week confirmed that the docket has been received for a decision on whether to prosecute her.
 
-> <span class="post-blockquote">
+> 
 ## Trillian Capital at a glance
 - Gupta-family associate Salim Essa owns a 60% stake in Trillian, whose executives allegedly had prior knowledge that the president was going to fire Nhlanhla Nene as finance minister in 2015.
 - A banker set to join the company at inception in 2015 was one of two individuals hurriedly appointed as advisers to Nene’s replacement, Des van Rooyen.
 - Three companies in the Trillian stable were named in the State of Capture report as having coughed up R235-million towards the Gupta family’s purchase of the Optimum Coal mine.
 - A legal challenge between Trillian’s chief executive Eric Wood and his former partners at Regiments Capital has revealed how Trillian allegedly illegally scored millions of rands in payments from Transnet.
-</span>
+
 
 The whistle-blower, a debt capital market expert who holds a master’s degree in finance, may not be named since a CCMA ruling in January.
 
