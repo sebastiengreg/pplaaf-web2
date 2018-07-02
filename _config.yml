@@ -17,9 +17,11 @@ collections_dir: collections
 
 collections:
 
+  ambassadors-en:
   board-en:
   board-fr:
   board-pt:
+  donors-en:
   management-en:
   management-fr:
   management-pt:

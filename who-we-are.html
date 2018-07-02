@@ -58,15 +58,20 @@ translated: [Português]
                         </a>
 					</li>
                     <li>
-						<a href="#legal" data-scrollto="#legal">
-							<div>Legal</div>
-						</a>
-					</li>						
+                        <a href="#ambassadors" data-scrollto="#ambassadors">
+                            <div>Ambassadors</div>
+                        </a>
+					</li>					
                     <li>
                         <a href="#ngos" data-scrollto="#ngos">
-                            <div>NGOs</div>
+                            <div>Partners</div>
                         </a>
 					</li>
+                    <li>
+						<a href="#donors" data-scrollto="#donors">
+							<div>Donors</div>
+						</a>
+					</li>						
 					<li>
                         <a href="#" data-scrollto="#management">
                         </a>
@@ -210,19 +215,50 @@ translated: [Português]
 			</div>
 		</div>
 
-		<span class="anchor" id="legal"></span>
-		<div class="col-full ">
+		<span class="anchor" id="ambassadors"></span>
+		<div class="content-wrap ">
 			<div class="fancy-title title-border">
-				<h1>Legal</h1>
+				<h1>Ambassadors</h1>
 			</div>
-
-				<p>PPLAAF has lawyers in Burkina Faso, Ghana, Senegal, Togo, Niger, Mauritania, Chad, Benin, Sierra Leone, South Africa, Namibia, Botswana, Morocco, Kenya, Tanzania, Democratic Republic of Congo, Sudan, and South Sudan</p>
+			<div class="col-lg-12 bottommargin">
+				{% for member in site.ambassadors-en %}
+				<div class="team team-list clearfix bottommargin">
+					<div class="team-image">
+						{% if member.image %}
+						<img src="/assets/images/ambassadors/{{ member.image }}" alt="{{ member.name }}"> {% endif %}
+					</div>
+					<div class="team-desc">
+						<div class="team-title">
+							<h4>{{ member.name }}</h4>
+							<span>{{ member.role }}</span>
+						</div>
+						<div class="team-content">
+							{% unless member.content-missing %}
+							<p>{{ member.content }}</p>
+							{% endunless %}
+						</div>
+						<a href="#" class="social-icon si-rounded si-small si-facebook">
+							<i class="icon-facebook"></i>
+							<i class="icon-facebook"></i>
+						</a>
+						<a href="#" class="social-icon si-rounded si-small si-twitter">
+							<i class="icon-twitter"></i>
+							<i class="icon-twitter"></i>
+						</a>
+						<a href="#" class="social-icon si-rounded si-small si-gplus">
+							<i class="icon-gplus"></i>
+							<i class="icon-gplus"></i>
+						</a>
+					</div>
+				</div>
+				{% endfor %}
+			</div>
 		</div>
 
 		<span class="anchor" id="ngos"></span>
 		<div class="col-full topmargin-lg">
 			<div class="fancy-title title-border">
-				<h1>NGOs</h1>
+				<h1>Partners</h1>
 			</div>
 			<div class="">
 			{% for ngo in site.ngos-en %}
@@ -231,7 +267,17 @@ translated: [Português]
 			</div>
 		</div>
 
-
+		<span class="anchor" id="donors"></span>
+		<div class="col-full topmargin-lg">
+			<div class="fancy-title title-border">
+				<h1>Donors</h1>
+			</div>
+			<div class="">
+			{% for ngo in site.donors-en %}
+				<a href="{{ ngo.website }}"><img class="image_fade ngo-box" src="/assets/images/donors/{{ ngo.image }}" alt="{{ ngo.name }}"></a>
+			{% endfor %}
+			</div>
+		</div>
         </div>
     </div>
 </section>
