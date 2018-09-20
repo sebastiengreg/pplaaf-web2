@@ -6,7 +6,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: PPLAAF révèle grâce à des lanceurs d’alerte les dessous des négociations entre le gouvernement de la RDC et Dubai Port World
-tag: [pressrelease, featured, DRC]
+tag: [pressrelease, DRC]
 category: fr
 translated: [English]
 ---

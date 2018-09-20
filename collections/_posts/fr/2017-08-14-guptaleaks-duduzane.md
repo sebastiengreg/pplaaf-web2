@@ -8,6 +8,7 @@ excerpt_separator: <!--more-->
 image: duduzane.jpg
 excerpt: La fratrie indienne a misé au début des années 2000 sur le jeune fils de Jacob Zuma, alors en pleine ascension politique malgré une première affaire de corruption.
 introduction: La fratrie indienne a misé au début des années 2000 sur le jeune fils de Jacob Zuma, alors en pleine ascension politique malgré une première affaire de corruption.
+tag: [SouthAfrica , Guptas ]
 category: fr
 ---
 <img class="img-responsive img-post center-block" src="/assets/images/posts/duduzane.jpg">

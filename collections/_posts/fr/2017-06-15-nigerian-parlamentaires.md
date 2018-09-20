@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: PPLAAF a participé à un séminaire de deux jours sur la protection juridique des lanceurs d’alerte
 introduction: PPLAAF a participé à un séminaire de deux jours sur la protection juridique des lanceurs d’alerte
-tag: [featured, pressrelease]
+tag: [pressrelease]
 ---
 
 (Abuja, le 15 juin 2017) – Les discussions menées au sein de la Chambre des représentants avec des parlementaires, des organisations de la société civile et des journalistes constituent un effort sérieux et prometteur pour l’adoption d’une loi progressive de protection des lanceurs d’alerte, a déclaré [PPLAAF](https://pplaaf.org) (Plateforme de protection des lanceurs d’alerte en Afrique) aujourd’hui depuis Abuja. 

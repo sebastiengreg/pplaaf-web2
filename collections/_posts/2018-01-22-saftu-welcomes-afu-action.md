@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 image: saftu.jpg
 excerpt: Saftu congratulates all those, including the federation itself, whose relentless pressure forced the AFU to act, the trade union said in a statement on Sunday. 
 introduction: Saftu congratulates all those, including the federation itself, whose relentless pressure forced the AFU to act, the trade union said in a statement on Sunday. 
-tag: [featured, SouthAfrica]
+tag: [SouthAfrica]
 ---
 
 <img class="img-responsive img-post center-block" src="/assets/images/posts/saftu.jpg">

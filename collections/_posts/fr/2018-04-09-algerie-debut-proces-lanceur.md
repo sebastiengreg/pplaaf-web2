@@ -6,7 +6,7 @@ author: PPLAAF
 image: pressrelease.jpg
 excerpt: Noureddine Tounsi est poursuivi pour avoir dénoncé des actes de corruption
 introduction: Noureddine Tounsi est poursuivi pour avoir dénoncé des actes de corruption
-tag: [pressrelease, featured, Algeria]
+tag: [pressrelease, Algeria]
 category: fr
 ---
 

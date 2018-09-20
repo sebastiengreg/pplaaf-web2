@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image: oran-wm.jpg
 excerpt: Noureddine Tounsi est à nouveau jugé pour avoir dénoncé des actes de corruption.
 introduction: Noureddine Tounsi est à nouveau jugé pour avoir dénoncé des actes de corruption.
-tag: [pressrelease, featured ]
+tag: [pressrelease, featured, Algeria ]
 category: fr
 ---
 
@@ -26,7 +26,7 @@ Par ailleurs, le harcèlement judiciaire contre M. Tounsi se manifeste par le d�
 
 Noureddine Tounsi a également été [arrêté](https://pplaaf.org/fr/2018/06/02/algerie-arrestations-lanceur-etjournaliste.html){:target="_blank"} en pleine rue le 1er juin 2018 puis relâché trois jours plus tard, et placé sous le statut de témoin dans le cadre d’une affaire de [trafic de cocaïne](http://www.rfi.fr/afrique/20180603-algerie-arrestation-journaliste-said-boudour-lanceur-alerte-noureddine-tounsi){:target="_blank"} au port d’Oran, sans qu’aucune charge ne soit retenue contre lui. 
 
-_« Les représailles contre M. Tounsi sous la forme d’un harcèlement judiciaire continuent », a déclaré Henri Thulliez, membre du conseil d’administration de PPLAAF. « Ce procédé courant contre les lanceurs d’alerte les épuise socialement et financièrement et dissuade les autres potentiels lanceurs d’alerte à dénoncer des faits répréhensibles »._
+_« Les représailles contre M. Tounsi sous la forme d’un harcèlement judiciaire continuent »_, a déclaré Henri Thulliez, membre du conseil d’administration de PPLAAF. _« Ce procédé courant contre les lanceurs d’alerte les épuise socialement et financièrement et dissuade les autres potentiels lanceurs d’alerte à dénoncer des faits répréhensibles »._
 
 La loi algérienne punit toute personne qui commet des représailles à l’égard de dénonciateurs de corruption. L’article 45 de la loi n°06-01 du 20 février 2006 relative à la prévention et à la lutte contre la corruption incrimine les vengeances et intimidations sous toutes formes à l’égard des dénonciateurs. Le licenciement de M. Tounsi et le harcèlement judiciaire dont il fait l’objet avec ces deux procès sont susceptibles de caractériser des représailles à son égard, engageant la responsabilité pénale de ses auteurs.  
 
