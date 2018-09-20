@@ -12,6 +12,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+future: true
+
 collections_dir: collections 
 # remove collections folder until gh-pages upgrade to 3.7.2
 
