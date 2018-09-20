@@ -4,7 +4,7 @@ lang: en
 title: Africa's Whistleblowers&#58 ‘All I Did Was Tell the Truth’
 origin: <a href="https://www.thenation.com/article/africas-whistleblowers-all-i-did-was-tell-the-truth/" target="_blank">Original Article&#58 The Nation</a>
 excerpt_separator: <!--more-->
-image: Jacob-Zuma-court-rtr-img.webp
+image: Jacob-Zuma-court.jpg
 excerpt: Those who denounce corruption face hardship and physical danger even when there’s a legal framework that should protect and guarantee them a fair hearing.
 
 tag: [featured, SouthAfrica]
