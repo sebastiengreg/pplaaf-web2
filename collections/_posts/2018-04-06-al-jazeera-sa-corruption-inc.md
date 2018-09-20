@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 image: sa-corruption-inc.jpg
 excerpt: Al Jazeera's People &amp; Power Investigate a major scandal that exposes the corrupt relationship between business and politics in South Africa.
 introduction: Al Jazeera's People &amp; Power Investigate a major scandal that exposes the corrupt relationship between business and politics in South Africa.
-tag: [featured, SouthAfrica, video]
+tag: [ SouthAfrica, video]
 ---
 
 <iframe style="margin-top: 30px;" class="center-block" width="100%" height="400px" src="https://players.brightcove.net/665003303001/SJg0bzqkZ_default/index.html?videoId=5758901987001" frameborder="0" allowfullscreen></iframe>

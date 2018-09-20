@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: Mosilo Mothepu was prosecuted after her former employer accused her of having stolen confidential documents
 introduction: Mosilo Mothepu was prosecuted after her former employer accused her of having stolen confidential documents
-tag: [pressrelease, featured, South Africa]
+tag: [pressrelease, South Africa]
 ---
 
 (Johannesburg, April, 3th, 2018) – The decision of the National Prosecuting Authority (NPA) to not pursue charges against Mosilo Mothepu shows the perils whistleblowers face and why they should be protected against reprisals, said the Platform to Protect Whistleblowers in Africa ([PPLAAF](https://pplaaf.org/who-we-are.html){:target="_blank"}) today. Mosilo Mothepu is the whistleblower whose submission to the former Public Protector Thuli Madonsela formed the basis of [Madonsela’s report against state capture](https://www.news24.com/SouthAfrica/News/download-the-full-state-of-capture-pdf-20161102){:target="_blank"} and which scandal ultimately led to the [resignation](https://pplaaf.org/2018/02/15/zuma-presidency-ends.html){:target="_blank"} of former President Jacob Zuma. 

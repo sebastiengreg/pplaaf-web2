@@ -6,7 +6,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: South Africa&#58 Authorities to seize illicitly gained Gupta-linked assets. Whistleblower testimonies and leading labor union help drive asset recovery of stolen resources from state-owned entities
-tag: [pressrelease, featured]
+tag: [pressrelease]
 ---
 
 <!-- <img class="img-responsive img-post center-block" src="/assets/images/posts/saftu.jpg">  -->

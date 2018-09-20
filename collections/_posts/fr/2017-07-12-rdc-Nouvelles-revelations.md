@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: RDC&#58; Nouvelles révélations sur des sociétés appartenant à des proches de Kabila. Les enquêtes ont été menées grâce aux documents transmis à PPLAAF par un lanceur d’alerte
 introduction: Les enquêtes ont été menées grâce aux documents transmis à PPLAAF par un lanceur d’alerte
-tag: [featured, pressrelease]
+tag: [pressrelease]
 category: fr
 ---
 <img class="img-responsive img-post center-block" src="/assets/images/posts/lumumba-l.jpg">

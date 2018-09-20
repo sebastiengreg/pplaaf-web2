@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image: falmata-aouami.jpg
 excerpt: Falamata Aoumi, lanceuse d’alerte nigérienne, a raconté à PPLAAF les difficultés rencontrées pour dénoncer des pratiques frauduleuses dans une banque
 introduction: Falamata Aoumi, lanceuse d’alerte nigérienne, a raconté à PPLAAF les difficultés rencontrées pour dénoncer des pratiques frauduleuses dans une banque
-tag: featured
+tag: Algeria
 category: fr
 ---
 <img class="img-responsive img-post center-block" src="/assets/images/posts/falmata-aouami.jpg">

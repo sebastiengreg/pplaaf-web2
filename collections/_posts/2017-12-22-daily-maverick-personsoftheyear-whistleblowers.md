@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 image: dm-2017poy.jpg
 excerpt: In 2017, the horrifying extent of State Capture finally became clearer to the South African public. And we would still be languishing in the dark were it not for the whistle-blowers
 introduction: In 2017, the horrifying extent of State Capture finally became clearer to the South African public. And we would still be languishing in the dark were it not for the whistle-blowers&#58 the handful of courageous South African men and women who did not remain silent in the face of wrongdoing, but stood up and spoke out. From the anonymous figures who risked everything to expose the GuptaLeaks emails, to the workers who blew the whistle on misdeeds in big corporates and State-owned Enterprises&#58 South Africa owes you a great debt.
-tag: [featured, SouthAfrica]
+tag: [SouthAfrica]
 ---
 
 <!-- <img class="img-responsive img-post center-block" src="/assets/images/posts/saftu.jpg">  -->

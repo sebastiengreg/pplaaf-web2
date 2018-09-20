@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 image: zuma1.jpg
 excerpt: Disclosures on state capture made possible thanks to whistleblowers must lead to prosecutions.
 introduction: Disclosures on state capture made possible thanks to whistleblowers must lead to prosecutions.
-tag: [featured, SouthAfrica]
+tag: [SouthAfrica]
 ---
 _(Durban, February 15th, 2018)_ – The arrests of some members of the Gupta family as well as president Jacob Zuma’s resignation show South Africans’ will to wipe out state capture, said the Platform to Protect Whistleblowers in Africa ([PPLAAF](https://pplaaf.org/2018/01/29/trillian-goodson-speaks.html)) today. Several scandals revealed by whistleblowers shed the light on the highly corrupted regime of Jacob Zuma.
 

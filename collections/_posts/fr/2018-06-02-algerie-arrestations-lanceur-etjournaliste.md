@@ -6,7 +6,7 @@ author: PPLAAF
 image: pressrelease.jpg
 excerpt: Ces arrestations interviennent peu de temps après de nouvelles révélations sur des malversations au sein du port d’Oran
 introduction: Ces arrestations interviennent peu de temps après de nouvelles révélations sur des malversations au sein du port d’Oran
-tag: [pressrelease, featured, Algeria]
+tag: [pressrelease, Algeria]
 category: fr
 ---
 

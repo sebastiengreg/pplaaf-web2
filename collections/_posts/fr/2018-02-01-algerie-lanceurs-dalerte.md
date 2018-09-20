@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: Algérie&#58 Les lanceurs d’alerte ne devraient pas subir de représailles. Un lanceur d’alerte poursuivi après avoir dénoncé des malversations au sein d’une entreprise publique
 introduction: Un lanceur d’alerte poursuivi après avoir dénoncé des malversations au sein d’une entreprise publique
-tag: featured
+tag: [Algeria]
 category: fr
 ---
 <!-- <img class="img-responsive img-post center-block" src="/assets/images/posts/cyber-journ.jpg"> -->

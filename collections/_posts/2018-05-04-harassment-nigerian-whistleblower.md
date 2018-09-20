@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: Nigeria&#58 Reprisals against whistleblowers should stop
 introduction: Nigeria&#58 Reprisals against whistleblowers should stop
-tag: [pressrelease, featured, Nigeria]
+tag: [pressrelease, Nigeria]
 ---
 
 
