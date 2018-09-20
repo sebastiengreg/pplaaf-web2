@@ -42,8 +42,8 @@ This is why PPLAAF was created to provide whistleblowers with a protected system
 Africa needs these citizen sentinels to stem serious violations of the rule of law. Whistleblowers must be able to benefit from real support, as it is necessary, as Hannah Arendt reminded us "to make room for civil disobedience in the functioning of our public institutions"
 
 ### For more information on PPLAAF and CSNAC, please visit:
-[pplaaf.org](https://pplaaf.org)
-<https://www.facebook.com/csnacng/> 
+- [pplaaf.org](https://pplaaf.org)
+- <https://www.facebook.com/csnacng/> 
 
 
 ### To follow PPLAAF, follow its profiles:

@@ -43,7 +43,7 @@ C’est pourquoi PPLAAF a été créée, pour mettre à la disposition des lance
 L’Afrique a besoin de ces sentinelles citoyennes pour endiguer les graves atteintes à l’Etat de droit. Les lanceurs d’alerte doivent pouvoir y bénéficier d’un véritable accompagnement, tant il est nécessaire, comme l’a rappelé Hannah Arendt « de faire une place à la désobéissance civile dans le fonctionnement de nos institutions publiques »
 
 ### Pour plus d’informations sur PPLAAF, veuillez consulter :
-<https://pplaaf.org>
+- <https://pplaaf.org>
 
 ### Pour suivre PPLAAF, suivez ses profils :
 - Facebook: <https://www.facebook.com/PPLAAF/>

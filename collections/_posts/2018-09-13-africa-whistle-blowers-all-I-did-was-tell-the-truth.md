@@ -81,8 +81,8 @@ The revelations are confirmed by correspondence, of which PPLAAF has copies, bet
 Zoubir takes full responsibility for his decision, but he lives in fear. In 2015 journalist Steve Abongi, 30, was murdered in the DRC while investigating General Gabriel Amisi Kumba, alias Tango Four, a close associate of Kabila.
 
 ### For more information on PPLAAF and CSNAC, please visit:
-[pplaaf.org](https://pplaaf.org)
-<https://www.facebook.com/csnacng/> 
+- [pplaaf.org](https://pplaaf.org)
+- <https://www.facebook.com/csnacng/> 
 
 
 ### To follow PPLAAF, follow its profiles:

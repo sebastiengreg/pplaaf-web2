@@ -19,7 +19,7 @@ Mmes Bianca Goodson et Mosilo Mothepu sont attablées dans un restaurant branch�
 Mais, alors qu’elles ne se connaissent pas encore, elles découvrent que leurs entreprises respectives participent à un vaste réseau de trafic d’influence reliant des membres de la famille Gupta à des personnalités politiques de premier plan et à des dirigeants de grosses entreprises publiques, comme le géant de l’électricité Eskom : acquisitions illégales de sociétés, contrats sans appel d’offres, transferts illicites d’argent, népotisme pour l’attribution de postes-clés… « J’ai très vite alerté mes dirigeants en interne, à plusieurs reprises, raconte Mme [...](https://www.monde-diplomatique.fr/connexion){:target="_blank"} 
 
 ### Pour plus d’informations sur PPLAAF, veuillez consulter :
-<https://pplaaf.org>
+- <https://pplaaf.org>
 
 ### Pour suivre PPLAAF, suivez ses profils :
 - Facebook: <https://www.facebook.com/PPLAAF/>
