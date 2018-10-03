@@ -48,9 +48,8 @@ IV. Criminal Investigations. The U.S. Department of Justice should expand its in
 
 V. Public Corporate Registry. The Congolese government, led by the Ministry of the National Economy and the Ministry of Foreign Commerce, should create a searchable online public registry of all corporate entities formed in the country to improve corporate transparency, public oversight, and accountability.
 
-### For more information on PPLAAF and CSNAC, please visit:
+### For more information on PPLAAF please visit:
 - [pplaaf.org](https://pplaaf.org)
-- <https://www.facebook.com/csnacng/> 
 
 
 ### To follow PPLAAF, follow its profiles:
