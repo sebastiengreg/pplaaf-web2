@@ -7,7 +7,7 @@ origin: This article first appeared in <a href="https://thesentry.org/reports/ba
 excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: Urgent Action Needed to Hold BGFIBank DRC to Account for New “Terrorist Treasury” Revelations, Hezbollah Financier Links
-tag: [pressrelease, featured]
+tag: [pressrelease, DRC]
 ---
 
 **Urgent Action Needed to Hold BGFIBank DRC to Account**
