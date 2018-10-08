@@ -30,23 +30,16 @@ Contratado en otro banco, se siente reforzado: “La honestidad en la vida paga.
 
 Lumumba se muestra dispuesto a [seguir con esta lucha](https://afrique.lalibre.be/11233/rdc-jean-jacques-lumumba-nattendons-plus-un-homme-providentiel/) acompañando a otros que tomen este mismo camino. En su caso, recuerda el apoyo de [la periodista que publicó su historia en el diario Le Soir, Colette Braeckman](http://www.rfi.fr/afrique/20161029-rdc-revelations-jean-jacques-lumumba-soir-kabila-banque-bgfi-corruption), “porque ella se ha arriesgó a creer en la información y difundirla para protegerme”. Pero también se refiere a la organización que le ha brindado el apoyo legal y también el moral. PPLAAF (Plataforma de Protección de los Lanzadores de Alerta de África) ha continuado trabajando con los papeles facilitados por Lumumba, junto a [organizaciones periodísticas y medios](https://www.lemonde.fr/afrique/article/2017/07/11/le-mysterieux-yacht-de-luxe-des-partenaires-d-affaires-du-president-kabila_5159113_3212.html?xtmc=jean_jacques_lumumba&xtcr=2). “Van a seguir haciéndose públicos otros casos de corrupción y eso prueba que la juventud congoleña no quiere seguir inscribiéndose en esa lógica de predación”, advierte Lumumba.
 
-### For more information on PPLAAF and CSNAC, please visit:
-[pplaaf.org](https://pplaaf.org)
-<https://www.facebook.com/csnacng/> 
+<br>
 
+--------
 
-### To follow PPLAAF, follow its profiles:
-- Facebook: <https://www.facebook.com/PPLAAF/>
+### Pour plus d’informations sur PPLAAF, visitez les pages :
+- <https://pplaaf.org/>
+- Facebook: <https://fr-fr.facebook.com/PPLAAF/>
 - Twitter: [@pplaaf](https://twitter.com/pplaaf)
 
-### For further information, please contact:
-- PPLAAF: In Paris, Henri Thulliez (French, English): [info@pplaaf.org](mailto:info@pplaaf.org)
-- PPLAAF: In Durban, Khadija Sharife (English): [ksharife@gmail.com](mailto:ksharife@gmail.com) or + 27 (71) 688 62 76
-- CSNAC: [info@csnacng.org](mailto:info@csnacng.org)
+--------------
 
-
-
-<br>
-<br>
 
 ----------------------
