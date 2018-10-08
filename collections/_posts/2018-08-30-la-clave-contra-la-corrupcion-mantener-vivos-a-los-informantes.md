@@ -38,12 +38,21 @@ Bourdon también tiene su debilidad por los denunciantes, porque “representan 
 “Las revelaciones tienen un impacto en África”, señala Bourdon, “y en todo el mundo. Porque la corrupción se apoya sobre un sistema global de complicidades y de ingeniería financiera, bancaria, fiscal y contable”. PPLAAF se centra en denuncias relacionadas con África. Y el jurista recuerda esa internacionalidad de la corrupción: “No cerraríamos la puerta a denunciantes españoles o italianos, por ejemplo, que revelasen un escándalo de la administración o de una empresa española o italiana en África. Lanzo una llamada a todos los denunciantes españoles”.
 
 <br>
+<br>
 
---------
+### For more information on PPLAAF and CSNAC, please visit:
+[pplaaf.org](https://pplaaf.org)
+<https://www.facebook.com/csnacng/> 
 
-### Pour plus d’informations sur PPLAAF, visitez les pages :
-- <https://pplaaf.org/>
-- Facebook: <https://fr-fr.facebook.com/PPLAAF/>
+
+### To follow PPLAAF, follow its profiles:
+- Facebook: <https://www.facebook.com/PPLAAF/>
 - Twitter: [@pplaaf](https://twitter.com/pplaaf)
 
---------------
+### For further information, please contact:
+- PPLAAF: In Paris, Henri Thulliez (French, English): [info@pplaaf.org](mailto:info@pplaaf.org)
+- PPLAAF: In Durban, Khadija Sharife (English): [ksharife@gmail.com](mailto:ksharife@gmail.com) or + 27 (71) 688 62 76
+- CSNAC: [info@csnacng.org](mailto:info@csnacng.org)
+
+
+
