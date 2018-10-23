@@ -41,19 +41,15 @@ This is why PPLAAF was created to provide whistleblowers with a protected system
 
 Africa needs these citizen sentinels to stem serious violations of the rule of law. Whistleblowers must be able to benefit from real support, as it is necessary, as Hannah Arendt reminded us "to make room for civil disobedience in the functioning of our public institutions"
 
-### For more information on PPLAAF please visit:
-- [pplaaf.org](https://pplaaf.org)
-
+----------------------
 
 ### To follow PPLAAF, follow its profiles:
 - Facebook: <https://www.facebook.com/PPLAAF/>
 - Twitter: [@pplaaf](https://twitter.com/pplaaf)
 
 ### For further information, please contact:
-- PPLAAF: In Paris, Henri Thulliez (French, English): [info@pplaaf.org](mailto:info@pplaaf.org)
-- PPLAAF: In Durban, Khadija Sharife (English): [ksharife@gmail.com](mailto:ksharife@gmail.com) or + 27 (71) 688 62 76
+- [info@pplaaf.org](mailto:info@pplaaf.org)
 
-<br>
-<br>
 
-----------------------
+
+-----
