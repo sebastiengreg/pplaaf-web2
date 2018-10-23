@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Les Lumumba Papers
+title: The Lumumba Papers
 lang: en
 type: case
 translated: [Français]
