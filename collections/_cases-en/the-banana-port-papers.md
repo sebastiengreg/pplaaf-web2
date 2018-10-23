@@ -3,7 +3,7 @@ layout: page
 title: The Banana Port Papers
 lang: en
 type: case
-translated: []
+translated: [Français]
 ---
 [The Banana Port Papers](http://bananaportpapers.info/){:target="_blank"} describe the negotiations between the Government of the Democratic Republic of Congo ("DRC") and the global port operator Dubai Port World ("DPW") regarding the construction in the city of Banana of DRC’s largest deep-water port to date. They disclose that the multi-million-dollar deal is completely tainted with allegations of corruption.
 
