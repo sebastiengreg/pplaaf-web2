@@ -12897,3 +12897,26 @@ body:not(.no-transition) #wrapper,
 .fa-envelope:hover {
     background-color: #444444;
 }
+
+/*Homepage Featured Posts and Twitter Section*/
+
+.containerwidgetposts
+{
+    display: flex;
+    width: 100%;
+   
+}
+.owl-carousel.carousel-widget.home-widget
+{
+    width: 66%;
+}
+.twitter-timeline
+{
+    margin-left: 30px;
+}
+.portfolio-image.homepage
+{
+    height: 400px;
+}
+
+
