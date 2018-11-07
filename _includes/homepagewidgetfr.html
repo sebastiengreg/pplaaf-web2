@@ -1,0 +1,48 @@
+<section class="posts-twitter-feed lightgray-bg" >
+            
+<div class=" content-wrap ">
+			<div class="container clear-bottommargin clearfix">
+
+            
+            <div class="heading-block center">
+				<h2>ACTUALITÉS À LA UNE</h2>
+				<span>Communiqués de presse et articles en vedette</span>
+			</div>
+  <div class="containerwidgetposts">
+   
+   <div id="oc-portfolio-sidebar" class="owl-carousel carousel-widget home-widget" data-items="1" data-margin="10" data-loop="true" data-nav="false"
+                data-autoplay="5000">
+
+                {% for post in site.posts %}
+                 {% for tag in post.tags %} 
+                 {% if post.lang == "fr" %} 
+                 {% if tag == "featured" %}
+
+                <div class="oc-item" >
+                    <div class="iportfolio">
+                        <div class="portfolio-image homepage">
+                            <a href="{{ site.baseurl }}{{ post.url }}">
+                                <img src="/assets/images/posts/{{ post.image }}" alt="">
+                            </a>
+                        </div>
+                        <div class="portfolio-desc center nobottompadding">
+                            <h3>
+                                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                            </h3>
+                            <span>{{ post.excerpt }}</span>
+                        </div>
+                    </div>
+                </div>
+
+                {% endif %} {% endif %} {% endfor %} {% endfor %}
+
+            </div>
+ 
+   
+<!--   Twitter feed-->
+    <a class="twitter-timeline home-widget" data-width="300px" data-height="580" data-theme="dark" href="https://twitter.com/PPLAAF?ref_src=twsrc%5Etfw">Tweets by PPLAAF</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
+</div>    
+</section>
