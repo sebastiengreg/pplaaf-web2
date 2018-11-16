@@ -4,6 +4,7 @@ lang: fr
 title: Press Release&#58 RDC &#58 Des organisations anti-corruption s’interrogent sur l’équipe chargée des finances d’un candidat à la présidentielle
 author: PPLAAF
 image: pressrelease.jpg
+excerpt_separator: <!--more-->
 excerpt: Emmanuel Ramazani Shadary s’adjoint les services de personnes ayant été à la tête d’agences soupçonnées de détournements et de corruption
 tag: [featured,pressrelease, DRC]
 category: fr
