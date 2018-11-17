@@ -19,3 +19,4 @@ tmp/*
 *.swp
 node_modules
 _site.zip
+Gemfile.lock
