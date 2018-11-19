@@ -4,7 +4,7 @@ lang: en
 title: Press Release&#58 DRC&#58 Anti-corruption organisations question make-up of candidate’s campaign finance team
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: pressrelease.jpg
+image: ramazani.jpg
 excerpt: Emmanuel Ramazani Shadary turns to officials accused of running departments marred by allegations of embezzlement and corruption
 tag: [featured,pressrelease, DRC ]
 ---
