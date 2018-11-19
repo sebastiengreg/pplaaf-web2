@@ -6,7 +6,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: Emmanuel Ramazani Shadary turns to officials accused of running departments marred by allegations of embezzlement and corruption
-tag: [featured,pressrelease, DRC ]
+tag: [featured, pressrelease, DRC ]
 ---
 
 **_Emmanuel Ramazani Shadary turns to officials accused of running departments marred by allegations of embezzlement and corruption_**
