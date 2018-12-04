@@ -12900,23 +12900,64 @@ body:not(.no-transition) #wrapper,
 
 /*Homepage Featured Posts and Twitter Section*/
 
-.containerwidgetposts
-{
+
+.containerwidgetposts{
     display: flex;
     width: 100%;
-   
+   }
+.callout.owl-carousel.carousel-widget{
+							display: grid;
+							align-items: center;
 }
-.owl-carousel.carousel-widget.home-widget
-{
+.owl-carousel.carousel-widget.home-widget{
     width: 66%;
 }
-.twitter-timeline
-{
+.twitter-timeline{
     margin-left: 30px;
 }
-.portfolio-image.homepage
-{
+.portfolio-image.homepage{
+	width: auto;
     height: 400px;
 }
+/*Media Queries*/
+@media(max-width: 768px){
+	
+            .containerwidgetposts{
+                            display: block;
+            }
+            .twitter-container{
+                
+                            display: grid;
+                            margin-top: 20px;
+            }
 
+            .twitter-timeline{
+                            float:none;
+                            margin-right: auto;
+                            margin-left: auto;
+                            align-self: center;
+            }
+           
+
+            .callout.owl-carousel.carousel-widget{
+                            display: grid;
+                            align-items: center;
+            }
+            .portfolio-desc.center.nobottompadding.homepagew {
+                            padding: 0px;
+            }
+            .portfolio-image.homepage{
+                            width: auto;
+                            max-height: 250px;
+                            overflow: hidden;
+                            margin-left: :auto !important;
+            }
+            .containerwidgetposts{
+                            text-align: center;
+            }
+}
+
+
+
+ 
 
