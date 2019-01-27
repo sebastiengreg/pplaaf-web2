@@ -5,7 +5,6 @@ title: Ivory Coast
 translated: [Français]
 ---
 ## Relevant legislation: 
-List of laws (titles only) pertaining to:
 - <a href="http://www.gouv.ci/doc/accords/1476446768projet_de_loi_portant_constitution_rci.pdf" target="_blank">Constitution</a>
 - <a href="http://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_126833.pdf" target="_blank">Labour Code</a>
 - <a href="http://www.apdhci.org/images/documents_pdf/instruments_ivoiriens_des_droits_de_homme/code_penal_ci.pdf" target="_blank">Penal Code</a>
@@ -59,14 +58,14 @@ Despite the improvements noted by Freedom House and RSF, the 2017 mutiny has see
 
 ## Knowledge, support and action centers
 ### Social Justice Cote d’Ivoire 
-Une ONG sous la tutelle de Transparency International qui œuvre pour lutter contre la corruption et plaider en faveur de la transparence et de la bonne gouvernance, notamment en ce qui concerne les ressources naturelles et la justice sociale.
-Personne de contact et titre (si connu): Non disponible
+An NGO under the Transparency International umbrella that works to fight corruption and advocate for transparency and good governance, particularly with regard to natural resources and social justice. 
 
-Adresse: Côte d’Ivoire, Abidjan, Yopougon, Ananeraie Oasis, Ilot 01, lot 3109.<br />
-Tel: (+225) 23.52.72.13 - 05.76.20.95<br />
-Fax: Not available<br />
-Site web: http://www.socialjustice-ci.net/<br />
-E-mail: via le formulaire Web http://www.socialjustice-ci.net/<br />
+- Contact person and title (if known): Not available
+- Address: Côte d’Ivoire, Abidjan, Yopougon, Ananeraie Oasis, Ilot 01 Lot 3109
+- Tel: (+225) 23.52.72.13 - 05.76.20.95
+- Fax: Not available
+- website: http://www.socialjustice-ci.net/
+- E-mail: Through webform http://www.socialjustice-ci.net/
 
 
 ## Keeping Score: How Ivory Coast’s Whistleblower Protection Laws Compare to International Standards

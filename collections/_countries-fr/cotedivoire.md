@@ -57,14 +57,14 @@ Malgré les améliorations notées par Freedom House et RSF, la mutinerie de 201
 
 ## Centres de connaissances, de soutien et d’action 
 ### Social Justice Cote d’Ivoire 
-TAn NGO under the Transparency International umbrella that works to fight corruption and advocate for transparency and good governance, particularly with regard to natural resources and social justice. 
-Contact person and title (if known): Not available
+Une ONG sous la tutelle de Transparency International qui œuvre pour lutter contre la corruption et plaider en faveur de la transparence et de la bonne gouvernance, notamment en ce qui concerne les ressources naturelles et la justice sociale.
 
-Address: Côte d’Ivoire, Abidjan, Yopougon, Ananeraie Oasis, Ilot 01 Lot 3109<br />
-Tel: (+225) 23.52.72.13 - 05.76.20.95<br />
-Fax: Not available<br />
-website: http://www.socialjustice-ci.net/<br />
-E-mail: Through webform http://www.socialjustice-ci.net/<br />
+- Personne de contact et titre (si connu): Non disponible
+- Adresse: Côte d’Ivoire, Abidjan, Yopougon, Ananeraie Oasis, Ilot 01, lot 3109.
+- Tel: (+225) 23.52.72.13 - 05.76.20.95
+- Fax: Not available
+- Site web: http://www.socialjustice-ci.net/
+- E-mail: via le formulaire Web http://www.socialjustice-ci.net/
 
 ## Keeping Score: Comment les lois de protection des lanceurs d’alerte de la cote d’ivoire se comparent aux normes internationales
 Les normes suivantes pour les lois sur les lanceurs d’alerte sont dégagées des lignes directrices élaborées par l’OCDE, le Conseil de l’Europe, le Projet de Redevabilité du gouvernement, Blueprint for Free Speech et Transparency International.
