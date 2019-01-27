@@ -27,13 +27,6 @@ The 2012 law that established the OFNAC gives the agency the authority to collec
 
 The Transparency Code, also introduced in 2012, requires public officials to report violations of law to judicial authorities. Though failing to do so is punishable, there are no anti-retaliation protections or penalties for people and organizations that retaliate against a whistleblower.
 
-## Weaknesses and missing standards
-No Ivory Coast laws or policies contain provisions that directly protect whistleblowers.  
-
-A new [Constitution](http://www.gouv.ci/doc/accords/1476446768projet_de_loi_portant_constitution_rci.pdf){:target="_blank"} was approved by referendum in October 2016 and adopted in November 2016.  It provides that “_freedom of thought and freedom of expression… are guaranteed to all. Everyone has the right to freely express and disseminate his ideas_”.  However, these freedoms are “_subject to respect for the law, the rights of others, national security and public order_”.  No provisions specifically related to whistleblowing are included in the new Constitution, nor were they included in previous iterations. 
-
-No protections for whistleblowers are set out in the [Labor Code](http://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---ilo_aids/documents/legaldocument/wcms_126833.pdf){:target="_blank"}.  Legitimate grounds for dismissal are ambiguous and include “_gross negligence on the part of one of the parties_” and “_personal reasons_”, such as professional inadequacy or “_wrongful conduct_” for indefinite contracts.  It is unclear whether whistleblowing could be covered under one of these terms and thus be considered legitimate grounds for dismissal.  While all forms of “_moral harassment_” are forbidden, harassment as a form of retaliation for whistleblowing or disclosing sensitive information is not specifically addressed. 
-
 ## Weaknesses and needed reforms
 As noted above, whistleblower protections in Ivory Coast are sorely lacking. There have been no indications that the government plans to develop and implement whistleblower protections.  However, civil society has recently drawn attention to the need for a robust advocacy towards the enactment of a stand-alone law on whistleblower protection, for example through March 2017 Advocacy and Sensitization Meeting on the Economic Community of West Africa Whistleblower Protection Strategy.
 
