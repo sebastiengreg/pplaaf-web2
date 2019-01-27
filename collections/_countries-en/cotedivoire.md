@@ -59,13 +59,13 @@ Despite the improvements noted by Freedom House and RSF, the 2017 mutiny has see
 ## Knowledge, support and action centers
 ### Social Justice Cote d’Ivoire 
 An NGO under the Transparency International umbrella that works to fight corruption and advocate for transparency and good governance, particularly with regard to natural resources and social justice. 
-Contact person and title (if known): Not available
 
-Address: Côte d’Ivoire, Abidjan, Yopougon, Ananeraie Oasis, Ilot 01 Lot 3109<br />
-Tel: (+225) 23.52.72.13 - 05.76.20.95<br />
-Fax: Not available<br />
-website: http://www.socialjustice-ci.net/<br />
-E-mail: Through webform http://www.socialjustice-ci.net/<br />
+- Contact person and title (if known): Not available
+- Address: Côte d’Ivoire, Abidjan, Yopougon, Ananeraie Oasis, Ilot 01 Lot 3109
+- Tel: (+225) 23.52.72.13 - 05.76.20.95
+- Fax: Not available
+- website: http://www.socialjustice-ci.net/
+- E-mail: Through webform http://www.socialjustice-ci.net/
 
 
 ## Keeping Score: How Ivory Coast’s Whistleblower Protection Laws Compare to International Standards
