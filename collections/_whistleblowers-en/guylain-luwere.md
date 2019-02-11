@@ -22,7 +22,7 @@ I think that whistleblowers deserve more protection not only because they risk r
 
 Graduate of a Master in Risk and Insurance Management, he studied in Germany where he acquired international accounting techniques and worked in various institutions of micro finance and banking before being recruited in 2015 within the Congolese subsidiary of the Gabonese Bank Banque Gabonaise et Française et Internationale (BGFI) as the responsible for management control.
 
-In 2017, he discovered transactions between the BGFIBank DRC and companies suspected of financing terrorism with the complicity of the bank's officials. He decided to draw the attention of his hierarchy and of the managing director - Francis Selemani Mtwale, President Kabila’s adopted brother - on such practices contrary to the interest of the bank. As a result of this alert, the managing director threatened him with a gun and ordered him to remain silent, and was then physically assaulted in the street with his wife.
+In 2017, he discovered transactions between the BGFIBank DRC and companies suspected of financing terrorism with the complicity of the bank's officials. He decided to draw the attention of his hierarchy and of the managing director - Francis Selemani Mtwale, President Kabila’s adopted brother - on such practices contrary to the interest of the bank. As a result of this alert, the managing director threatened him with a gun and ordered him to remain silent. Luwere was then physically assaulted in the street with his wife.
 
 Luwere was forced into exile in France.
 
