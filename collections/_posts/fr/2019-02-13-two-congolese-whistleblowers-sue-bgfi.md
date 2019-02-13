@@ -3,11 +3,12 @@ layout: post
 lang: fr
 title: France/RDC&#58 Deux lanceurs d’alerte congolais poursuivent une banque gabonaise en France
 author: PPLAAF
+translated: [English]
 excerpt_separator: <!--more-->
 image: lumumba-l.jpg
 excerpt: Les deux anciens employés de la BGFI avaient subi des représailles après avoir mis en garde leur hiérarchie sur des malversations
 tag: [featured, pressrelease, France, DRC, BGFI]
-translated: [English]
+category: fr
 ---
 
 (Paris, le 13 février 2019) – Les lanceurs d’alerte Jean-Jacques Lumumba et Guylain Luwere assignent devant les juridictions françaises la BGFI et sa filiale congolaise dirigée par des proches de l’ancien président Joseph Kabila, a déclaré aujourd’hui la Plateforme de Protection des Lanceurs d’Alerte en Afrique ([PPLAAF](https://pplaaf.org)). Les deux banquiers avaient signalé à leurs supérieurs des détournements de fonds publics et l’existence de comptes liés au financement du terrorisme. Après avoir subi des représailles, ils ont été forcés de s’exiler avec leurs familles
