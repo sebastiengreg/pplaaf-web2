@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image: Jacob-Zuma-court.jpg
 excerpt: Those who denounce corruption face hardship and physical danger even when there’s a legal framework that should protect and guarantee them a fair hearing.
 
-tag: [featured, SouthAfrica]
+tag: [SouthAfrica]
 ---
 
 South African President Jacob Zuma resigned in February over the biggest corruption scandal since the end of apartheid, which involved both the president and his son. Zuma’s exit became inevitable last June, after the publication of thousands of confidential documents revealing that the Gupta family, owners of a major business empire in South Africa, wielded influence at the highest levels of government—even over the appointment of ministers—in return for favors.

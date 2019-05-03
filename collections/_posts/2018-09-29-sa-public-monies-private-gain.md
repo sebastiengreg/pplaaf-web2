@@ -6,7 +6,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: matjila.jpg
 excerpt: A potential golden handshake for a questionable CEO a public company managing billion in public pensions. 
-tag: [pressrelease, featured, SouthAfrica ]
+tag: [pressrelease, featured, SouthAfrica, PIC ]
 ---
 
 **A potential golden handshake for the CEO of a public company managing public pensions would hinder accountability**

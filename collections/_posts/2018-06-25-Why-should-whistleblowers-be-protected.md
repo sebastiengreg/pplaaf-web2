@@ -6,7 +6,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: Afrique-manifestants.jpg
 excerpt: Today, in Africa and around the world, more than ever, citizens are becoming aware of the extent of the dark powers of the powerful over their daily lives. 
-tag: [pressrelease, featured ]
+tag: [pressrelease, ]
 ---
 
 Today, in Africa and around the world, more than ever, citizens are becoming aware of the extent of the dark powers of the powerful over their daily lives. 

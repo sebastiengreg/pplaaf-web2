@@ -6,7 +6,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: pressrelease.jpg
 excerpt: PPLAAF reveals whistleblowers revelations of negotiations between the DRC government and Dubai Port World
-tag: [pressrelease, featured, DRC]
+tag: [pressrelease, DRC]
 translated: [Français]
 ---
 

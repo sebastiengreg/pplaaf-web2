@@ -6,7 +6,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: Afrique-manifestants.jpg
 excerpt: Aujourd’hui, en Afrique et dans le monde entier, plus que jamais, les citoyens prennent conscience de l’étendue des pouvoirs obscurs des puissants sur la vie quotidienne de chacun.
-tag: [pressrelease, featured ]
+tag: [pressrelease, ]
 category: fr
 ---
 
