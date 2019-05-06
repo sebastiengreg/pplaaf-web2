@@ -1,13 +1,13 @@
 ---
 layout: post
 lang: en
-translated:
+translated: [Français]
 title: Whistleblower Protection Insufficient in Ivory Coast, The Gambia and Benin
 author: PPLAAF
 excerpt_separator: <!--more-->
 image: whistle2.jpg
 excerpt: New PPLAAF reports show the absence of progressive laws to protect whistleblowers
-tag: [featured, pressrelease, SouthAfrica, PIC]
+tag: [featured, pressrelease, IvoryCoast, Gambia, Benin, legislation]
 ---
 
 <img class="img-responsive img-post center-block" src="/assets/images/posts/whistle2.jpg"> 
