@@ -56,17 +56,6 @@ However, there are some indications that the situation may be improving.  Report
 
 
 ## Knowledge, support and action centers
-### Freedom Newspaper 
-An online Gambian US-based newspaper, staffed by media professionals committed in promoting free press, democracy, rule of law, and good governance on the African continent and beyond.
-
-- website: http://www.freedomnewspaper.com/freedom-np/contact-us/
-
-USA: 
-- Contact person and title (if known): Not available
-- Address: Based in North Carolina, USA
-- Tel: +1 919-749-6319 
-- Fax: Not available
-- E-mail:  panderrymbai@gmail.com, editor@freedomnewspaper.com, 
 
 ### The Gambia Echo 
 The Gambia Echo is a legally registered pro-democracy online newspaper in Raleigh, North Carolina, USA for the “unfettered dissemination of credible news; informing, educating, and entertaining a broad spectrum of readership across the African Diaspora”.
