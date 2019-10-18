@@ -61,8 +61,8 @@ L'Observatoire de lutte contre la corruption (OLC) est responsable du développe
 - Adresse: 2ème et 3ème étage - Immeuble SETON - Batiment Moov, Etoile Rouge, Cotonou.  PO Box: 01 BP 7060
 - Tel: +229 21 30 86 86, +229 97 07 10 95, + 229 21 31 20 02
 - Fax: +229 21 30 10 10
-- Website: Non disponible
-- E-mail: Non disponible
+- Website: Website: [socialwatch.bj](socialwatch.bj)
+- E-mail: [contact@socialwatch.bj](mailto:contact@socialwatch.bj)
 
 
 ### Front des Organisations Nationales contre la Corruption (FONAC)
@@ -76,12 +76,11 @@ Le Front des organisations nationales contre la corruption (FONAC) a pour missio
 - E-mail: fonac1998@gmail.com  ; jeanbaptiste_elias@yahoo.fr 
 
 ### Social Watch Benin
-Social Watch Benin est un réseau d'ONG et d'associations qui promeuvent le contrôle citoyen de l'action publique dans de nombreux domaines, tant au niveau national que municipal. Celles-ci comprennent des interventions visant à promouvoir la transparence et la responsabilisation, ainsi que l'éducation aux droits et aux devoirs des citoyens.
+Social Watch Benin est un réseau d’ONG et d’associations qui promeuvent le contrôle citoyen de l’action publique dans de nombreux domaines, tant au niveau national que municipal. Celles-ci comprennent des interventions visant à promouvoir la transparence et la responsabilisation, ainsi que l’éducation aux droits et aux devoirs des citoyens.
 
-- Personne de contact et titre (si connu): Non disponible
+- Personne de contact et titre (si connu): Jean-Pierre Degue, responsable des programmes
 - Adresse: Cotonou, 6ème Arrondissement, C/487 Jéricho, Immeuble IBIKUNLE Latif
-- 03 BP 2065 Cotonou
-- Tel: +229 21042012 +229 21321518
+- Tel: +229 61 34 66 40 +229 95 43 08 19 ou sur Whatsapp : +229 61 47 20 20
 - Fax: Not available
 - Website: http://socialwatch-benin.org
 - E-mail: Through webform: http://socialwatch-benin.org/index.php#contactform 
