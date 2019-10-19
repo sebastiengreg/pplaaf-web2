@@ -61,9 +61,8 @@ L'Observatoire de lutte contre la corruption (OLC) est responsable du développe
 - Adresse: 2ème et 3ème étage - Immeuble SETON - Batiment Moov, Etoile Rouge, Cotonou.  PO Box: 01 BP 7060
 - Tel: +229 21 30 86 86, +229 97 07 10 95, + 229 21 31 20 02
 - Fax: +229 21 30 10 10
-- Website: Website: [socialwatch.bj](socialwatch.bj)
-- E-mail: [contact@socialwatch.bj](mailto:contact@socialwatch.bj)
-
+- Website: Non disponible
+- E-mail: Non disponible
 
 ### Front des Organisations Nationales contre la Corruption (FONAC)
 Le Front des organisations nationales contre la corruption (FONAC) a pour mission de lutter contre la corruption sous toutes ses formes, y compris le détournement de fonds publics, les infractions illicites, le trafic d’influence, le faux et l’usage du faux, l’impunité et toutes les pratiques contraires à la bonne foi. Ses activités incluent l'identification et la dénonciation de la corruption et des infractions économiques et financières, ainsi que le suivi des dossiers transmis aux forces de l'ordre.
@@ -82,8 +81,8 @@ Social Watch Benin est un réseau d’ONG et d’associations qui promeuvent le 
 - Adresse: Cotonou, 6ème Arrondissement, C/487 Jéricho, Immeuble IBIKUNLE Latif
 - Tel: +229 61 34 66 40 +229 95 43 08 19 ou sur Whatsapp : +229 61 47 20 20
 - Fax: Not available
-- Website: http://socialwatch-benin.org
-- E-mail: Through webform: http://socialwatch-benin.org/index.php#contactform 
+- Website: Website: [socialwatch.bj](socialwatch.bj)
+- E-mail: [contact@socialwatch.bj](mailto:contact@socialwatch.bj)
 
 ##  Plus d’information
 Une disposition du [Code de procédure pénale](https://fonacbenin.files.wordpress.com/2014/09/2012_loi-portant-code-de-procc3a9dure-pc3a9nale.pdf) autorise toute personne à appréhender une personne commettant un crime punissable d’emprisonnement et à la conduire au commissariat de police le plus proche, ce qui permettrait éventuellement à des individus mal intentionnés de se faire justice eux-mêmes en conduisant de force des journalistes ou des lanceurs d’alerte devant la police.
