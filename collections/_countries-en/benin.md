@@ -81,15 +81,14 @@ The Front of National Organizations against Corruption (FONAC)’s mission is to
 - E-mail: fonac1998@gmail.com ; jeanbaptiste_elias@yahoo.fr
 
 ### Social Watch Benin
-Social Watch Benin is a network of NGOs and associations that promotes citizen control of public action in many areas, both at the national level and municipality level. These include interventions to promote transparency and accountability, as well as education on the rights and duties of citizens.
+Social Watch Benin is a network of NGOs and associations that promotes citizen control of public action in many areas, both at the national level and municipality level. These include interventions to promote transparency and accountability, as well as education on the rights and duties of citizens.
 
-- Contact person and title (if known): Not available
+- Contact person and title (if known): Jean-Pierre Degue, program manager
 - Address: Cotonou, 6ème Arrondissement, C/487 Jéricho, Immeuble IBIKUNLE Latif
-- 03 BP 2065 Cotonou
-- Tel: +229 21042012 +229 21321518
+- Tel: +229 61 34 66 40 +229 95 43 08 19 or on Whatsapp : +229 61 47 20 20
 - Fax: Not available
-- Website: http://socialwatch-benin.org
-- E-mail: Through webform: http://socialwatch-benin.org/index.php#contactform
+- Website: Website: [socialwatch.bj](socialwatch.bj)
+- E-mail: [contact@socialwatch.bj](mailto:contact@socialwatch.bj)
 
 ## Further information 
 A provision in the [Criminal Procedure Code](https://fonacbenin.files.wordpress.com/2014/09/2012_loi-portant-code-de-procc3a9dure-pc3a9nale.pdf) allows any person to apprehend and bring a person committing a crime punishable by imprisonment to the nearest police station, potentially allowing vigilante justice against journalists.
