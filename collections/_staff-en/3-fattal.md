@@ -1,5 +1,5 @@
 ---
-name: Gabriel Fattal
+name: Gabriel Bourdon-Fattal
 role: Project Manager
 image: bourdon-fattal.jpg
 ---
