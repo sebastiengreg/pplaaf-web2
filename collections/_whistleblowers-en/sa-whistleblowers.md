@@ -7,7 +7,7 @@ type: wbprofile
 image: bianca.jpg
 ---
 
-<h1>Suspicious links between the South Africa’s president and the powerful Gupta Family</h1>
+In South Africa, PPLAAF has supported whistleblowers including Bianca Goodson (State Capture), Mosilo Mothepu (State Capture),  Bongani Mathebula (Public Investment Corporation) and Simphiwe Mayisela (Public Investment Corporation). For their protection other whistleblowers from Transnet, Habib Bank, Ingonyama Trust and more cannot be named or identified further. 
 <hr>
 
 <h2>Bianca Goodson</h2>
@@ -97,11 +97,7 @@ PPLAAF, in partnership with South African media amaBhungane and Daily Maverick, 
 <br/>
 <br/>
 <hr>
-<h2>Other whistleblowers</h2>
-Other whistleblowers PPLAAF has supported included Bongani Mathebula (company secretary, Public Investment Corporation) and Simphiwe Mayisela (former executive head of IT security, Public Investment Corporation). For their protection other whistleblowers from Transnet, Habib Bank, Ingonyama Trust and more cannot be named or identified further. 
-<br/>
-<br/>
-<hr>
+
 ## For additional information:
 - [The Gupta Leaks website](http://www.gupta-leaks.com/){:target="_blank"}
  
