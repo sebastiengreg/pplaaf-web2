@@ -2,7 +2,6 @@
 layout: page
 title: South African whistleblowers
 lang: en
-translated: [Français]
 type: wbprofile
 image: bianca.jpg
 ---
