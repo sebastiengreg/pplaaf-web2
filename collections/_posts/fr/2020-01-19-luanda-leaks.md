@@ -18,7 +18,7 @@ ICIJ et plus de 120 journalistes de 36 médias, dans 20 pays, ont travaillé sur
 
 PPLAAF espère que les « Luanda Leaks » conduiront au lancement d'enquêtes dans le monde et favoriseront ainsi la lutte contre l'impunité des crimes financiers. 
 
-_« Une fois de plus, il semble que l'appétit lucratif de certains dignitaires passe bien avant l'intérêt général »_, a déclaré [William Bourdon](http://www.pplaaf.org/who-we-are.html), président de PPLAAF. « Ce prétendu pillage des fonds publics n'aurait pas été possible sans l'aide de facilitateurs professionnels, que ce soient des cabinets d'audit et de conseil ou des avocats éminents ».
+_« Une fois de plus, il semble que l'appétit lucratif de certains dignitaires passe bien avant l'intérêt général »_, a déclaré [William Bourdon](http://www.pplaaf.org/who-we-are.html), président de PPLAAF. _« Ce prétendu pillage des fonds publics n'aurait pas été possible sans l'aide de facilitateurs professionnels, que ce soient des cabinets d'audit et de conseil ou des avocats éminents »_.
 
 Malgré des ressources naturelles considérables et une économie en forte croissance, l'Angola reste l'un des pays les plus pauvres du monde, avec des taux d'inégalité élevés et une corruption généralisée.
 
