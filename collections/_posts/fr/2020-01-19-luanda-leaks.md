@@ -32,10 +32,7 @@ PPLAAF est une organisation non gouvernementale créée en 2017 qui vise à déf
 
 ----------------------
 
-### Pour plus d’informations sur PPLAAF, veuillez consulter :
-<https://pplaaf.org/fr >
-
-Pour suivre PPLAAF, suivez ses profils :
+#### Pour suivre PPLAAF, suivez ses profils :
 - Facebook: <https://www.facebook.com/PPLAAF/>
 - Twitter: [@pplaaf](https://twitter.com/pplaaf)
  
