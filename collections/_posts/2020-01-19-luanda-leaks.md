@@ -31,15 +31,8 @@ PPLAAF is a non-governmental organization [established](https://www.theguardian.
 
 ----------------------
 
-### To follow PPLAAF, follow its profiles:
+#### To follow PPLAAF, follow its profiles:
 - Facebook: <https://www.facebook.com/PPLAAF/>
 - Twitter: [@pplaaf](https://twitter.com/pplaaf)
-
-### For more information, please contact:
-- In Paris, William Bourdon (French, English): [w.bourdon@bourdon-associes.com](mailto:w.bourdon@bourdon-associes.com) or + 33 1 42 60 32 60
-- In Paris, Henri Thulliez (French, English): [henri@pplaaf.org](mailto:henri@pplaaf.org) or + 33 7 62 68 49 44
-
-
-
 
 -----
