@@ -54,6 +54,6 @@ PPLAAF is a non-governmental organization [established](https://www.theguardian.
 
 **Follow PPLAAF:**
 - On Twitter: [@pplaaf](https://twitter.com/pplaaf)
-- On Facebook: https://www.facebook.com/PPLAAF/
+- On Facebook: [facebook.com/pplaaf](https://www.facebook.com/PPLAAF/)
 
 ----------------------
