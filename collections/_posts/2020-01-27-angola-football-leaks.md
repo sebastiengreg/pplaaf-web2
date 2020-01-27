@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-translated:
+translated: [Français]
 title: Angola&#58 “Football leaks” Whistleblower is at the Source of the &#35;LuandaLeaks
 author: PPLAAF
 excerpt_separator: <!--more-->
