@@ -7,7 +7,7 @@ origin: This article first appeared in <a href="https://elpais.com/elpais/2018/0
 excerpt_separator: <!--more-->
 image: mali-protest.jpg
 excerpt: Jean Jacques Lumumba, un sobrino-nieto del icónico político congoleño, era un prometedor empleado de banca, hasta que lo arriesgó todo para denunciar una trama que dio origen a un gran escándalo
-tag: [featured]
+tag: []
 ---
 
 [Jean Jacques Lumumba](https://twitter.com/lumumbajj?lang=es) era un joven y prometedor empleado de banca hasta que un día decidió denunciar unos sospechosos movimientos bancarios que, supuestamente, desviaban dinero público hacia cuentas del entorno más próximo al presidente de la República Democrática del Congo, Joseph Kabila. Empiezan así los [Lumumba Papers](http://lumumbapapers.info/), uno de los grandes escándalos de corrupción destapados en el país, iniciado gracias a la filtración de un sobrino-nieto del icónico primer ministro de la República Democrática del Congo, [Patrice Lumumba](https://www.theguardian.com/global-development/poverty-matters/2011/jan/17/patrice-lumumba-50th-anniversary-assassination). Hoy, dos años después de que se refugiase en Europa y 20 meses más tarde de que se hiciesen públicas en Bélgica sus filtraciones, Jean Jacques Lumumba asegura que sigue recibiendo constantemente amenazas de muerte.

@@ -7,7 +7,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: gupta-leaks-1.jpg
 excerpt: The Gupta Brothers and their associate Salim Essa sanctioned by OFAC as members of a significant corruption network in South Africa
-tag: [featured, pressrelease, SouthAfrica, StateCapture]
+tag: [pressrelease, SouthAfrica, StateCapture]
 ---
 
 (Durban, October 11, 2019) – The OFAC decision to [sanction](https://home.treasury.gov/news/press-releases/sm789) the main actors of the “State Capture” scandal is a victory for whistleblowers who disclosed critical information, at considerable threat to themselves, about the corrupt network connected to former South African President Jacob Zuma, said the Platform to Protect Whistleblowers in Africa ([PPLAAF](https://www.pplaaf.org/)) today.

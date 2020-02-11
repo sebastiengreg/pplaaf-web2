@@ -7,7 +7,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: lumumba-l.jpg
 excerpt: The two former employees of the BGFI have faced retaliation after warning their superiors about malpractices
-tag: [featured, pressrelease, France, DRC, BGFI]
+tag: [pressrelease, France, DRC, BGFI]
 ---
 
 (Paris, February 13th, 2019) - Whistleblowers Jean-Jacques Lumumba and Guylain Luwere brought an action before the French courts against the BGFI and its Congolese subsidiary, which is headed by relatives of former President Joseph Kabila, said today the Platform to Protect Whistleblowers in Africa ([PPLAAF](https://pplaaf.org)). The two bankers had reported to their superiors the embezzlement of public funds and the existence of accounts related to the financing of terrorism. After facing retaliation, they were forced to go into exile with their families.

@@ -7,7 +7,7 @@ origin: de <a href="https://www.monde-diplomatique.fr/2018/05/PIOT/58611" target
 excerpt_separator: <!--more-->
 image: img012-4-7043c.jpg
 excerpt: En Afrique, un nombre croissant de lanceurs d’alerte mène dans l’ombre un périlleux combat pour dénoncer corruption et pratiques illégales. Dans des pays où les autres modes d’expression démocratique (élections transparentes, liberté de la presse) sont grippés ou pervertis, révéler les turpitudes des hommes au pouvoir devient un ultime acte de résistance.
-tag: [pressrelease, featured ]
+tag: [pressrelease, ]
 category: fr
 ---
 

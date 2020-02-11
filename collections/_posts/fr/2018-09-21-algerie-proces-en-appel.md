@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 image: oran-wm.jpg
 excerpt: Noureddine Tounsi est à nouveau jugé pour avoir dénoncé des actes de corruption.
 introduction: Noureddine Tounsi est à nouveau jugé pour avoir dénoncé des actes de corruption.
-tag: [pressrelease, featured, Algeria ]
+tag: [pressrelease, Algeria ]
 category: fr
 ---
 

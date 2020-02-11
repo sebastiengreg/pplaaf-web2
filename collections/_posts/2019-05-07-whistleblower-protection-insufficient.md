@@ -7,7 +7,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: whistle2.jpg
 excerpt: New PPLAAF reports show the absence of progressive laws to protect whistleblowers
-tag: [featured, pressrelease, IvoryCoast, Gambia, Benin, legislation]
+tag: [pressrelease, IvoryCoast, Gambia, Benin, legislation]
 ---
 
 <img class="img-responsive img-post center-block" src="/assets/images/posts/whistle2.jpg"> 

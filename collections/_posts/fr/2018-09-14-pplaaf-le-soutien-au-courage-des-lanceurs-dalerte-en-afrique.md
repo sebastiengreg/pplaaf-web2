@@ -7,7 +7,7 @@ origin: de <a href="https://www.lelanceur.fr/pplaaf-le-soutien-au-courage-des-la
 excerpt_separator: <!--more-->
 image: lumumbabis.jpg
 excerpt: De l’Algérie au Cap, la Plateforme de protection des lanceurs d’alerte en Afrique (PPLAAF) offre un soutien juridique, moral et financier aux citoyens dont les révélations font trembler les plus hauts dignitaires du continent.
-tag: [featured ]
+tag: []
 category: fr
 ---
 

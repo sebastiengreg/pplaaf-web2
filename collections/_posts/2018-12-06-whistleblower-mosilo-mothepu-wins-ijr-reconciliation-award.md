@@ -6,7 +6,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: mosiloaward.jpg
 excerpt: The Platform to Protect Whistleblowers in Africa (PPLAAF) is delighted to announce South African whistleblower Mosilo Mothepu has won the Institute for Justice and Reconciliation (IJR) 2018 Reconciliation Award on November 19th, 2018.
-tag: [featured, pressrelease, SouthAfrica]
+tag: [pressrelease, SouthAfrica]
 ---
 
 

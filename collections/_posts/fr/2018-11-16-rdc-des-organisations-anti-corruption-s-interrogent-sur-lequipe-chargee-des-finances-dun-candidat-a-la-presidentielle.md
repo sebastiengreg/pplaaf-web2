@@ -6,7 +6,7 @@ author: PPLAAF
 image: ramazani.jpg
 excerpt_separator: <!--more-->
 excerpt: Emmanuel Ramazani Shadary s’adjoint les services de personnes ayant été à la tête d’agences soupçonnées de détournements et de corruption
-tag: [featured, pressrelease, DRC]
+tag: [ pressrelease, DRC]
 category: fr
 ---
 
