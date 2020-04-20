@@ -7,6 +7,7 @@ author: PPLAAF
 excerpt_separator: <!--more-->
 image: barro.jpg
 excerpt: Une entrevue avec Fadel Barro
+category: fr
 tag: [featured, pressrelease, Fadel Barro, Senegal, interview, whistleblower]
 ---
 <img class="img-responsive img-post center-block" src="/assets/images/posts/barro.jpg"> 
