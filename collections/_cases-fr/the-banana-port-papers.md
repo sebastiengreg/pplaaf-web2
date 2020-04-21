@@ -10,7 +10,7 @@ translated: [English]
 
 La Plateforme de protection des lanceurs d’alerte en Afrique (PPLAAF) a été approchée par des lanceurs d’alerte ayant suivi les négociations entre le gouvernement de la RDC et DPW. Après qu’au moins un des lanceurs d’alerte ait dénoncé à sa hiérarchie un contrat qui lui paraissait illégal, les lanceurs d’alerte ont choisi de prendre contact avec PPLAAF afin de les aider à révéler comment les négociations se sont déroulées.
 
-Le contrat que s’apprêteraient à signer le gouvernement de la RDC et DPW pour la construction et l’exploitation du port de Banana est supposé créer une structure de sociétés permettant l’enrichissement personnel de d’individus politiquement exposés, dont le président congolais Joseph Kabila. 
+Le contrat que s’apprêteraient à signer le gouvernement de la RDC et DPW pour la construction et l’exploitation du port de Banana est supposé créer une structure de sociétés permettant l’enrichissement personnel d’individus politiquement exposés, dont le président congolais Joseph Kabila. 
 
 <img class="" style="width:100%;" src="/assets/images/profiles/bbp-info-fr.jpg">
 
@@ -18,7 +18,7 @@ Le projet concerne la construction et la gestion d’un port en eau profonde à 
 
 À la suite des premières négociations, le président Kabila aurait déclaré à l’homme d’affaires Moise Ekanga, un de ses proches, vouloir une preuve garantissant qu’il tirerait un profit personnel de la construction et l’exploitation du port.
 
-Le 4 octobre 2016, dans ce contexte, le Sultan Ahmed Bin Sulayem, PDG de DPW, [adresse une lettre](http://bananaportpapers.info/annexures/fr/annexe2-lettre-du-04.10.16-envoyee-par-le-sultan-au-president-kabila.pdf){:target="_blank"} au président Kabila. Dans cette lettre, le Sultan l’assure de son intention d’accorder un pourcentage du capital d’une des sociétés créées pour le projet a une compagnie privée congolaise, présumément au profit du président Kabila lui-même.
+Le 4 octobre 2016, dans ce contexte, le Sultan Ahmed Bin Sulayem, PDG de DPW, [adresse une lettre](http://bananaportpapers.info/annexures/fr/annexe2-lettre-du-04.10.16-envoyee-par-le-sultan-au-president-kabila.pdf){:target="_blank"} au président Kabila. Dans cette lettre, le Sultan l’assure de son intention d’accorder un pourcentage du capital d’une des sociétés créées pour le projet à une compagnie privée congolaise, présumément au profit du président Kabila lui-même.
 
 **La compagnie concessionnaire**
 
@@ -36,9 +36,9 @@ Le Président aurait donc la possibilité de toucher des profits sur ces 49% de 
 
 **La compagnie gestionnaire**
 
-La compagnie gestionnaire serait une « subsidiary de DPW », avec une compagnie privée à hauteur de 40%, présumément au profit du Président Kabila.
+La compagnie gestionnaire serait une « filiale de DPW », avec une compagnie privée à hauteur de 40%, présumément au profit du Président Kabila.
 
-Sur les 100% des revenus qui seront générés pendant l’exploitation, la compagnie gestionnaire toucherait 15% brut. Ces 15% seront ensuite divisés entre DPW (60%) et la compagnie privée qui serait partiellement détenue par le Président Kabila. Cette compagnie privée sera créée par le conseiller à la présidence de la République et actuel directeur général de l’Autorité de régulation de contrôle des assurances Alain Kaninda, et détenue par le Président Kabila et le Sultan. ( Voir annexe hypothèse).
+Sur les 100% des revenus qui seront générés pendant l’exploitation, la compagnie gestionnaire toucherait 15% brut. Ces 15% seront ensuite divisés entre DPW (60%) et la compagnie privée qui serait partiellement détenue par le Président Kabila. Cette compagnie privée sera créée par le conseiller à la présidence de la République et actuel directeur général de l’Autorité de régulation de contrôle des assurances Alain Kaninda, et détenue par le Président Kabila et le Sultan. (Voir annexe hypothèse).
 
 Selon le document présentant les hypothèses au président Kabila, un tel montage permettrait au « privé RDC » de gagner plus de 45,3 millions de dollars en sept ans.
 
