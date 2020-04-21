@@ -5,17 +5,17 @@ lang: fr
 type: case
 translated: [English]
 ---
-Les Lumumba Papers révèlent les activités suspectes de la banque BGFI RDC, filiale de la banque gabonaise Banque Gabonaise et Française Internationale (BGFI) en République démocratique du Congo, et son implication dans la corruption et le détournement de fonds publics Largement basé sur des documents internes divulgués par l’ex-employé de la banque Jean-Jacques Lumumba, l’affaire [révèle également](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"} l’existence de transactions suspectes entre la BGFI et la Commission électorale nationale indépendante.
+Les Lumumba Papers révèlent les activités suspectes de la banque BGFI RDC, filiale de la banque gabonaise Banque Gabonaise et Française Internationale (BGFI) en République démocratique du Congo, et son implication dans la corruption et le détournement de fonds publics. Largement basé sur des documents internes divulgués par l’ex-employé de la banque Jean-Jacques Lumumba, l’affaire [révèle également](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"} l’existence de transactions suspectes entre la BGFI et la Commission électorale nationale indépendante.
 
-La banque gabonaise BGFI a des branches dans une dizaine de pays, dont la RDC, la Cote d’Ivoire et la France. Les propriétaires de la filiale congolaise sont, entre autres, le BGFI Holding Corporation (60%) et Gloria Mteyu – la sœur du président Kabila (35%).
+La banque gabonaise BGFI a des branches dans une dizaine de pays, dont la RDC, la Cote d’Ivoire et la France. Les propriétaires de la filiale congolaise sont, entre autres, la BGFI Holding Corporation (60%) et Gloria Mteyu – la sœur du président Kabila (35%).
 
 Lumumba était cadre dirigeant de la branche Crédits au sein de BGFI RDC depuis 2014. En 2016, Lumumba découvre l’existence de plusieurs transactions suspectes de dizaines de millions de dollars entre la banque congolaise dirigée par des proches de la famille du président Kabila et des sociétés, elles aussi contrôlées par des proches du Président. Lumumba tente d’alerter en interne ses supérieurs. Menacé avec une arme à feu par le Directeur général de la banque, Francis Selemani Mtwale, le frère adoptif du Président Kabila, Lumumba quitte son pays puis révèle courageusement ce scandale de corruption massive.
 
 En octobre 2016, le journal belge Le Soir publie [un article approfondi](http://plus.lesoir.be/66290/article/2016-10-29/corruption-au-congo-les-preuves-qui-accablent-le-regime-kabila){:target="_blank"} sur les révélations. En décembre 2016, c’est Bloomberg qui publie [un article décrivant la richesse de Kabila et des membres de sa famille](https://www.bloomberg.com/news/features/2016-12-15/with-his-family-fortune-at-stake-congo-president-kabila-digs-in){:target="_blank"}, en s’appuyant partiellement sur des documents de Lumumba. Les différents membres de la famille Kabila ont, d’après l’article, des parts dans des dizaines de compagnies, dont des compagnies minières et banquières. L’article mentionne aussi les méfaits de la BGFI.
 
-Depuis janvier 2017, PPLAAF travaille en étroite collaboration avec Lumumba, en lui fournissant des conseils juridiques pro bono, en analysant et recherchant les documents qu’il a fournis, et en utilisant des chercheurs spécialisés pour analyser les documents qu’il a gardés depuis son passage à la BGFI.
+Depuis janvier 2017, PPLAAF travaille en étroite collaboration avec Lumumba, en lui fournissant des conseils juridiques pro bono, en étudiant les documents qu’il a fournis, et en utilisant des chercheurs spécialisés pour analyser les documents qu’il a gardés depuis son passage à la BGFI.
 
-PPLAAF a conduit des enquêtes approfondis avec [Le Monde](http://www.lemonde.fr/){:target="_blank"} et l’[OCCRP](https://www.occrp.org/en){:target="_blank"}.
+PPLAAF a conduit des enquêtes approfondies avec [Le Monde](http://www.lemonde.fr/){:target="_blank"} et l’[OCCRP](https://www.occrp.org/en){:target="_blank"}.
 
 
 <div class="line"></div>
@@ -51,10 +51,10 @@ Le président Kabila aurait l’intention de transformer la Ferme Espoir en un p
 
 ## Affaire Gécamines 
 
-La Gécamines, une compagnie d’état congolaise, est une compagnie minière présidée par Albert Yuma. Selon l’article du Soir, publié grâce aux révélations de Lumumba, la compagnie a ouvert une ligne de découvert de 30 millions de dollars à la BGFI. Le remboursement devait se faire en un an avec un taux d’intérêt de 11,5%.
+La Gécamines, une compagnie d’Etat congolaise, est une compagnie minière présidée par Albert Yuma. Selon l’article du Soir, publié grâce aux révélations de Lumumba, la compagnie a ouvert une ligne de découvert de 30 millions de dollars à la BGFI. Le remboursement devait se faire en un an avec un taux d’intérêt de 11,5%.
 
 Lumumba a révélé dans la presse que la banque 
-[a prélevée les intérêts deux fois par mois](http://www.jeuneafrique.com/370468/politique/rdc-lumumba-papers-eclaboussent-bgfi-bank-lentourage-de-kabila/){:target="_blank"}, donc le double de la somme. C’est ainsi que 2,7 de millions de dollar US qui ont été déduits par la BGFI. Après les révélations, la banque a remboursé le trop-perçu a la Gécamines.
+[a prélevée les intérêts deux fois par mois](http://www.jeuneafrique.com/370468/politique/rdc-lumumba-papers-eclaboussent-bgfi-bank-lentourage-de-kabila/){:target="_blank"}, donc le double de la somme. C’est ainsi que 2,7 de millions de dollar US qui ont été déduits par la BGFI. Après les révélations, la banque a remboursé le trop-perçu à la Gécamines.
 
 
 ## For additional information:
