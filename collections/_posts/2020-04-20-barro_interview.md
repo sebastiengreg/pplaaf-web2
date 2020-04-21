@@ -48,6 +48,10 @@ When an alert comes from a politician, it can create a controversy that does not
 Yes, in a broad sense of the term, but I am not Jean Jacques Lumumba or Edward Snowden. I mean that every citizen can be a whistleblower but those who are in a position to know information harmful to the public interest and who sacrifice their career, their comfort and expose themselves to reprisals deserve all our respect and our protection.
 
 
+<div style="margin-left:100px;margin-right:100px;margin-top:30px;margin-bottom:30px;"><hr></div>
+<br /><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WbypoaYkj5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 -------------
 
 <br />

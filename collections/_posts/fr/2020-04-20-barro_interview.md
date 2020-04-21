@@ -48,6 +48,11 @@ Quand un signalement vient d’un homme politique, ça peut créer une polémiqu
 
 Oui, dans un sens large du terme, mais je ne suis pas Jean Jacques Lumumba ou Edward Snowden. Je veux dire que chaque citoyen peut être un lanceur d’alerte mais ceux qui sont en position de connaître des informations nuisibles à l’intérêt public et qui sacrifient leur carrière, leur confort et s’exposer à la répression méritent tout notre respect et notre protection. 
 
+
+<div style="margin-left:100px;margin-right:100px;margin-top:30px;margin-bottom:30px;"><hr></div>
+<br /><br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WbypoaYkj5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 -------------
 
 <br />
