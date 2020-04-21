@@ -38,7 +38,7 @@ De plus, d’après le rapport annuel d’EGAL 2014, la compagnie a reçu des r�
  
 Le conseil d’administration d’EGAL compte entre autres Albert Yuma, président de la Fédération des entreprises du Congo, Eric Monga, un proche de Kabila, Marc Piedboeuf, l’administrateur de la Ferme Espoir, et Alain Wan, directeur de la compagnie de construction MW AFRITEC.
 
-D’après les relevés bancaires d’EGAL, la compagnie n’a aucun revenu sauf les prêts accordés par la Banque centrale du Congo.
+D’après les relevés bancaires d’EGAL, la compagnie n’a aucun revenu sauf les prêts accordés par la Banque centrale du Congo et de la BGFI RDC.
 
 ## Trafic d’animaux sauvages
 
