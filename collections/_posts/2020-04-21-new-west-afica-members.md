@@ -5,13 +5,11 @@ translated: [Français]
 title: West Africa&#58 Two Prominent Members of African Citizen Engagement Join PPLAAF
 author: PPLAAF
 excerpt_separator: <!--more-->
-image: barro.jpg
+image: pressrelease.jpg
 excerpt: The Platform to Protect Whistleblowers in Africa (PPLAAF) is proud to welcome Fadel Barro and Pierre Sané
 tag: [featured, pressrelease, Fadel Barro, West Africa, team]
 ---
-
-
-
+(Dakar, April 20th, 2020) - The appointments of Fadel Barro as West Africa coordinator and of Pierre Sané as Board member are evidence of how citizen activism and whistleblowing are coming closer, said today PPLAAF - The Platform to Protect Whistleblowers in Africa. Both activists are prominent members of West African civil society. 
 
 These two personalities joining PPLAAF is a unique opportunity to promote whistleblower protection in West Africa, represent their interests and push for the implementation of ambitious legislative reforms protecting whistleblowers.
 
