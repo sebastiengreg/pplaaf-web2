@@ -58,7 +58,7 @@
             <div id="oc-portfolio-sidebar" class="owl-carousel carousel-widget" data-items="1" data-margin="10" data-loop="true" data-nav="false"
                 data-autoplay="5000">
 
-                {% for post in site.posts %} {% for tag in post.tags %} {% if tag == "featured" %}
+                {% for post in site.posts %}  {% for tag in post.tags %} {% if tag == "featured" %} {% if post.lang == page.lang %}
 
                 <div class="oc-item">
                     <div class="iportfolio">
@@ -76,7 +76,7 @@
                     </div>
                 </div>
 
-                {% endif %} {% endfor %} {% endfor %}
+                {% endif %} {% endif %} {% endfor %} {% endfor %}
 
             </div>
         </div>

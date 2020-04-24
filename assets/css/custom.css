@@ -71,6 +71,12 @@ ul,ol {
 	border-bottom: none;
 }
 
+#page-title a {
+    color: rgba(255,255,255,0.7) ;
+}
+#page-title a:hover{
+    color: #eee ;
+}
 
 /* FRONT PAGE */
 
