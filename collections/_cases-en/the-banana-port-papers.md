@@ -15,7 +15,7 @@ The contract to be signed by the DRC government and DPW for the construction and
 
 The project concerns the construction and management of a port and free trade area in Banana, the only city in the DRC with access to the Atlantic Ocean, at a cost of more than 1 billion US dollars. 
 
-The negotiations took place without a call for tender as the Congolese law dictates.
+The negotiations took place without a call for tender, which the Congolese normally dictates.
 
 Following the first negotiations with DPW, President Kabila allegedly told businessman Moise Ekanga, a close associate of his who was involved in the negotiations, that he wanted a guarantee that he would have a personal profit from the construction and operation of the port.
 
