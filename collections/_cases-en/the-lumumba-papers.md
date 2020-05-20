@@ -6,15 +6,15 @@ type: case
 translated: [Français]
 ---
 
-The Lumumba Papers reveal the suspicious activities of the BGFI RDC bank, a subsidiary of Gabonese Bank Banque Gabonaise et Française et Internationale (BGFI) in the Democratic Republic of Congo, and its involvement in corruption and misappropriation of public funds. Largely based on internal documents disclosed by the former employee of the bank Jean-Jacques Lumumba, the case [also reveals the existence](/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"} of suspicious transactions between the BGFI and the National Independent Electoral Commission.
+The Lumumba Papers reveal the suspicious activities of the BGFI DRC bank, a subsidiary of Gabonese Bank Banque Gabonaise et Française et Internationale (BGFI) in the Democratic Republic of Congo, and its involvement in corruption and misappropriation of public funds. Largely based on internal documents disclosed by the former employee of the bank Jean-Jacques Lumumba, the case [also reveals the existence](/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"} of suspicious transactions between the BGFI and the National Independent Electoral Commission.
 
 The Gabonese bank BGFI has branches in a dozen countries, including the DRC, Ivory Coast and France. The owners of the Congolese subsidiary are, among others, the BGFI Holding Corporation (60%) and Gloria Mteyu - the sister of President Kabila (35%).
 
 Lumumba has been a senior executive in the credit division of the BGFI RDC since 2014. In 2016, Lumumba discovered the existence of several suspicious transactions worth tens of millions of dollars between the Congolese bank, run by relatives of President Kabila and by companies, also controlled by relatives of the President. Lumumba has tried to alert his superiors internally. Threatened with a firearm by the bank's managing director, Francis Selemani Mtwale, President Kabila's adopted brother, Lumumba left his country and bravely revealed this massive corruption scandal.
 
-In October 2016, the Belgian newspaper Le Soir published [an in-depth article](http://plus.lesoir.be/66290/article/2016-10-29/corruption-au-congo-les-preuves-qui-accablent-le-regime-kabila){:target="_blank"} on the revelations. In December 2016, Bloomberg published an article describing the wealth of Kabila and his family, relying partially on Lumumba’s documents. The various members of the Kabila family have, according to the article, shares in dozens of companies, including mining companies and bankers. The article also mentions the misdeeds of the BGFI.
+In October 2016, the Belgian newspaper Le Soir published [an in-depth article](http://plus.lesoir.be/66290/article/2016-10-29/corruption-au-congo-les-preuves-qui-accablent-le-regime-kabila){:target="_blank"} on the revelations. In December 2016, Bloomberg published an article describing the wealth of Kabila and his family, relying partially on Lumumba’s documents. The various members of the Kabila family have, according to the article, shares in dozens of companies, including mining companies and banks. The article also mentions the misdeeds of the BGFI.
 
-Since January 2017, PPLAAF has been working closely with Lumumba, providing pro bono legal advice, analyzing and researching the documents it has provided, and using specialized researchers to analyze documents it has kept since its creation. transition to BGFI.
+Since January 2017, PPLAAF has been working closely with Lumumba, providing pro bono legal advice, analyzing and researching the documents he has provided, and using specialized researchers to analyze documents he has kept from the BGFI.
 
 PPLAAF has conducted extensive investigations with [Le Monde](http://www.lemonde.fr/){:target="_blank"} and [OCCRP](https://www.occrp.org/en){:target="_blank"}.
 
@@ -24,9 +24,9 @@ PPLAAF has conducted extensive investigations with [Le Monde](http://www.lemonde
 
 ## The Independent National Electoral Commission (CENI)
 
-The documents given by Lumumba to PPLAAF contain [statements from CENI's bank account](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"} at BGFI. These documents reveal unexplained financial transactions that are inconsistent with the responsibilities of the CENI. They show, for example, that CENI [officials made cash withdrawals totaling $ 7.5 million](http://www.jeuneafrique.com/370468/politique/rdc-lumumba-papers-eclaboussent-bgfi-bank-lentourage-de-kabila/){:target="_blank"} over a three-month period in 2016, without giving any explanation for these transactions.
+The documents given by Lumumba to PPLAAF contain [statements from the CENI's bank account](https://pplaaf.org/downloads/BGFIBANK-RDC-censure.pdf){:target="_blank"} at BGFI. These documents reveal unexplained financial transactions that are inconsistent with the responsibilities of the CENI. They show, for example, that the CENI [officials made cash withdrawals totaling $ 7.5 million](http://www.jeuneafrique.com/370468/politique/rdc-lumumba-papers-eclaboussent-bgfi-bank-lentourage-de-kabila/){:target="_blank"} over a three-month period in 2016, without giving any explanation for these transactions.
 
-In addition, the BGFI DRC [allegedly granted a bank loan to the CENI of $ 25 million dollars](http://blog.lesoir.be/colette-braeckman/2016/10/29/un-banquier-de-kinshasa-devoile-le-pot-aux-roses/){:target="_blank"}, which constitutes a breach of the internal procedure of the bank as well as the blacklisting of the CENI by the Central Bank of Congo decided on May 22, 2014. According to Instruction N.13 of the Central Bank, blacklisting entails, on the listed entity, the suspension or the prohibition of the benefit of services from all credit institutions. According to Lumumba, this credit was validated by the bank’s deputy director General on the orders of the Director General, despite the blocking of the account requested by Lumumba.
+In addition, the BGFI DRC [allegedly granted a bank loan to the CENI of $ 25 million dollars](http://blog.lesoir.be/colette-braeckman/2016/10/29/un-banquier-de-kinshasa-devoile-le-pot-aux-roses/){:target="_blank"}, which constitutes a breach of the internal procedure of the bank as well as of the blacklisting of the CENI by the Central Bank of Congo decided on May 22, 2014. According to Instruction N.13 of the Central Bank, blacklisting entails, on the listed entity, the suspension or the prohibition of the benefit of services from all credit institutions. According to Lumumba, this credit was validated by the bank’s deputy Director General on the orders of the Director General, despite the blocking of the account requested by Lumumba.
 
 ## EGAL
 
@@ -34,7 +34,7 @@ The General Company of Food and Logistics (EGAL) is, officially, an importer of 
 
 Much of this money was then transferred to foreign companies, some of which belong to the owners of EGAL: Samaki in Namibia, All Ocean Logistics in the Faroe Islands and African Trading and Maintenance in Hong Kong. These companies were then used for the purchase, in Namibia, of wild animals and their transport to the DRC where they were delivered to Ferme Espoir, a company owned by President Kabila.
 
-In addition, according to EGAL’s 2014Annual Report, the company has received significant tax cuts.
+In addition, according to EGAL’s 2014 Annual Report, the company has received significant tax cuts.
  
 EGAL's board of directors includes Albert Yuma, president of the Congolese Employers Federation, Eric Monga, a close friend of Kabila, Marc Piedboeuf, administrator of Ferme Espoir, and Alain Wan, director of construction company MW AFRITEC.
 
@@ -44,7 +44,7 @@ According to EGAL's bank statements, the company has no income except loans gran
 
 Research conducted by PPLAAF, Le Monde and OCCRP show how EGAL was used to import [wildlife animals](http://www.lemonde.fr/afrique/article/2017/07/13/girafes-buffles-et-zebres-en-cargo-ou-les-lubies-animalieres-de-joseph-kabila_5160098_3212.html){:target="_blank"} from Namibia to the DRC, presumably for the private interests of President Kabila.
 
-Two businessmen and close associates of Kabila, Alain Wan and Marc Piedboeuf, sold in 2010 the company Grands Elevages du Congo (GEL) to Kabila, which now is the property of the aforementioned company of Kabila: Ferme Espoir.
+Two businessmen and close associates of Kabila, Alain Wan and Marc Piedboeuf, sold in 2010 the company Grands Elevages du Congo (GEL) to Kabila, which is now the property of the aforementioned company of Kabila: Ferme Espoir.
 Ferme Espoir is headed by Piedboeuf, who also remained General Manager of GEL.
 
 President Kabila intends to turn Ferme Espoir into an amusement park. EGAL buys the wild animals and sends them to Ferme Espoir. In May 2017, for example, 450 wild animals including antelopes, giraffes and zebras were transferred to Matadi at the request of the President. The animals are transported by the boat El Nino, property of All Ocean Logistics.
@@ -53,7 +53,7 @@ President Kabila intends to turn Ferme Espoir into an amusement park. EGAL buys 
 
 Gecamines, a Congolese state-owned company, is a mining company chaired by Albert Yuma. According to Le Soir’s article, published thanks to Lumumba's revelations, the company has opened a $ 30 million overdraft line at BGFI. The repayment was to be made over a year with an interest rate of 11.5%.
 
-Lumumba revealed in the press that the [bank claimed their interest twice a month](http://www.jeuneafrique.com/370468/politique/rdc-lumumba-papers-eclaboussent-bgfi-bank-lentourage-de-kabila/){:target="_blank"}, doubling the sum. Thus, leading to an overpayment of 2.7 million US dollars by the BGFI. After the revelations, the bank repaid the overpayment to Gécamines.
+Lumumba revealed in the press that the [bank claimed their interest twice a month](http://www.jeuneafrique.com/370468/politique/rdc-lumumba-papers-eclaboussent-bgfi-bank-lentourage-de-kabila/){:target="_blank"}, thus doubling the sum. This led to an overpayment of 2.7 million US dollars by the BGFI. After the revelations, the bank repaid the overpayment to Gécamines.
 
 ## For additional information:
 
