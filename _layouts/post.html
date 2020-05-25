@@ -18,11 +18,29 @@
         {% endif %}
         <!-- Entry Meta -->
         <ul class="entry-meta entry-meta-in-title">
+          <li>
+            <i class="icon-calendar3"></i> {{ page.date | date_to_long_string }}
+          </li>
           {% if page.author %}
           <li>{{ page.author }}</li>
           {% endif %}
-          <li>
-            <i class="icon-calendar3"></i> {{ page.date | date_to_long_string }}</li>
+
+          <!-- translated list -->
+
+          {% for tlang in page.translated %}
+              {% case tlang %}
+                {% when 'Français' %}
+                  <li class=""><a href="/fr{{page.url | remove: '/fr' | remove: '/pt' | remove: '/ar'}}">{{ tlang }}</a></li>
+                {% when 'English' %}
+                  <li class=""><a href="/{{page.url | remove: '/fr/' | remove: '/pt/' | remove: '/ar/'}}">{{ tlang }}</a></li>                  
+                {% when 'Português' %}
+                  <li class=""><a href="/pt{{page.url | remove: '/fr' | remove: '/pt' | remove: '/ar'}}">{{ tlang }}</a></li>
+                {% when 'العربية' %}
+                  <li class=""><a href="/ar{{page.url | remove: '/fr' | remove: '/pt' | remove: '/ar'}}">{{ tlang }}</a></li>                            
+              {% endcase %}
+          {% endfor %}
+          <!-- end   translated list -->
+
         </ul>
         <!-- .entry-meta end -->
 
