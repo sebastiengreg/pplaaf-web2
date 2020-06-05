@@ -11,7 +11,7 @@ introduction:
 category: fr
 ---
 
-Le 14 mai 2020 PPLAAF a organisé un webinar en français intitulé :  « _Lancer l’alerte en Afrique : Entre acte citoyen et représailles_ » . Participaient au panel : Jean-Jacques Lumumba (ancien banquier de RDC devenu lanceur d’alerte), Fadel Barro (coordinateur de PPLAAF pour l’Afrique de l’Ouest) et Henri Thulliez (directeur de PPLAAF). Le webinar était organisé avec le soutien de l’artiste ivoirien Tiken Jah Fakoly.
+Le 14 mai 2020 PPLAAF a organisé un [webinar](https://www.youtube.com/watch?v=4wOqGGjyd7M) en français intitulé :  « _Lancer l’alerte en Afrique : Entre acte citoyen et représailles_ » . Participaient au panel : Jean-Jacques Lumumba (ancien banquier de RDC devenu lanceur d’alerte), Fadel Barro (coordinateur de PPLAAF pour l’Afrique de l’Ouest) et Henri Thulliez (directeur de PPLAAF). Le webinar était organisé avec le soutien de l’artiste ivoirien Tiken Jah Fakoly.
 
 Au cours de ce webinar, de nombreux internautes ont posé des questions particulièrement pertinentes. Nous proposons ci-dessous des réponses à ces questions. 
 
