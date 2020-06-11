@@ -40,7 +40,6 @@ PPLAAF s'est tenue aux côtés de Goodson, lui fournissant un conseil juridique 
 
 Un an après avoir quitté son emploi, Goodson a trouvé un emploi chez Sage, une entreprise mondiale de logiciels comptables. Bien qu’elle ait informé son employeur de son intention de lancer l’alerte et a proposé de démissionner si l'entreprise venait à en subir des conséquences, Sage a décidé de la licencier immédiatement après que sa déclaration soit devenue publique. 
 
-Depuis, Goodson a trouvé un nouvel emploi. « _Nous avons besoin d'avoir plus de gens qui présentent des preuves de corruption. Mais ils ne le feront pas s’ils y perdent leurs moyens de subsistance_ », a déclaré son nouvel employeur [dans une interview à BizNews](https://www.biznews.com/undictated/2017/10/17/sage-firing-bianca-goodson/){:target="_blank"}.
 
 ## Captation d’État
 La principale accusation portée contre l’ex-président sud-africain Jacob Zuma, émanant de plaintes de lanceurs d'alerte travaillant avec PPLAAF, est celle de « State Capture » (captation d'État). Cette expression est largement utilisée en Afrique du Sud. La captation d'État est plus qu'une simple corruption. C'est un pillage des entreprises et des institutions nationales, impliquant une corruption des gens au pouvoir, ainsi que la modification des lois du pays, de sorte que tous travaillent pour l'intérêt privé.
