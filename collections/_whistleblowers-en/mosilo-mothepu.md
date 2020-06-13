@@ -4,12 +4,12 @@ title: Mosilo Mothepu
 lang: en
 translated: [Français]
 type: wbprofile
-image: mosilo-mothepu.jpg
+image: mosilo.jpg
 ---
 <h2>Suspicious links between the South Africa’s president and the powerful Gupta Family</h2>
 
 <div class="profile-block">
-<img src="/assets/images/profiles/mosilo-mothepu.jpg">
+<img src="/assets/images/profiles/mosilo.jpg">
 <p class="top-blockquote">I was excited to join my former employer whose vision was to change the landscape of financial services industry in South Africa. It soon became quite clear that the shareholders and executive management didn’t share the same ethical and integrity ethos as myself. I left the company and reported my suspicions of impropriety to the public protector and parliament. PPLAAF assisted me with my legal fees and provided me with advice and compassion… PPLAAF is assisting South Africa’s regain their hard-earned democracy in providing much needed support, whistleblowing is a long, difficult and often lonely decision but PPLAAF ensures protection and offers humanity.</p>
 </div>
 

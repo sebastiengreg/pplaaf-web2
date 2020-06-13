@@ -4,12 +4,12 @@ title: Mosilo Mothepu
 lang: fr
 translated: [English]
 type: wbprofile
-image: mosilo-mothepu.jpg
+image: mosilo.jpg
 ---
 <h2>Liens suspects entre le président sud-africain et la puissante famille Gupta</h2>
 
 <div class="profile-block">
-<img src="/assets/images/profiles/mosilo-mothepu.jpg">
+<img src="/assets/images/profiles/mosilo.jpg">
 <p class="top-blockquote">J’étais ravi de rejoindre mon ancien employeur dont la vision était de changer le secteur des services financiers en Afrique du Sud. Il m’est vite devenu clair que les actionnaires et la direction ne partageaient pas la même éthique et intégrité que moi. J'ai quitté la société et signalé mes soupçons d’inconduite au bureau de la protectrice publique et au parlement. PPLAAF m'a aidé avec les frais juridiques et m’a donné des conseils et de la compassion. PPLAAF aide l'Afrique du Sud à retrouver sa démocratie durement acquise en fournissant un appui si nécessaire. Lancer l’alerte est un processus long, difficile et souvent solitaire, mais PPLAAF assure la protection et offre de la compassion humaine.
 </p>
 </div>
