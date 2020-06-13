@@ -41,7 +41,7 @@ A promising executive at a young age, Goodson’s refusal to stay silent in fron
 
 PPLAAF stood by Goodson’s side, providing her with a legal counsel of her choice, assisting her with preparing herself and her testimony, evaluating the risks she faced and promoting her case on national and international media.
 
-A year after quitting her job, Goodson found a job at Sage, a global accounting software business. While she kept her employer informed of her whistleblowing intention, offering her resignation if the company suffers any backlash, the company decided to process her resignation immediately after she went public. Since then, Goodson has found a new employment. “_We need to have more people coming forward with evidence of corruption but they’re not going to do so, if the consequences of that is that they lose their livelihoods_” said her new employer in [an interview to BizNews](https://www.biznews.com/undictated/2017/10/17/sage-firing-bianca-goodson/){:target="_blank"}.
+A year after quitting her job, Goodson found a job at Sage, a global accounting software business. While she kept her employer informed of her whistleblowing intention, offering her resignation if the company suffers any backlash, the company decided to process her resignation immediately after she went public. 
 
 ## The Gupta leaks
 The principal charge against South-African President Jacob Zuma, originating with claims from whistleblowers working with PPLAAF is of “state capture”. The local term is in widespread use. State capture is more than simple corruption. It is the pillage of national companies and institutions, corrupting the people of power, as well changing the country’s laws, so they would all work in the private interest’s interest.
