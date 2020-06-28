@@ -21,14 +21,17 @@ collections_dir: collections
 collections:
 
   ambassadors-en:
+  ambassadors-fr:
   board-en:
   board-fr:
   board-pt:
   donors-en:
+  donors-fr:
   management-en:
   management-fr:
   management-pt:
   staff-en:
+  staff-fr:
   staff-pt:
   ngos-en:
   ngos-fr:

@@ -1,0 +1,5 @@
+---
+name: Mathieu Kassovitz
+image: kassovitz.jpg
+---
+Mathieu Kassovitz is a French actor, scriptwriter, film director and producer. He notably had a role in Regarde les hommes tomber (1994), for which he received a César Award for Most Promising Actor, Le Fabuleux Destin d'Amélie Poulain (2001), Amen  (2002), Un illustre inconnu (2014). He received the César for Best Film and Best Editing for the movie La Haine (1995) that he directed. He also directed Les rivières pourpres (2000), Gothika (2003), L’Ordre et la Morale (2011). He personified an agent of the General Directorate for External Security, France’s external intelligence agency, in the French TV series Le Bureau des légendes since 2015, and Napoléon Bonaparte in the British-American TV series War & Peace in 2016. In 2017, he appeared, in a short film related to an awareness campaign of the Collectif pour une nation-refuge (Collective for a refuge-nation), which brings together various associations involved in the defence and reception of migrants in France.
