@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Johannes Stefansson
-lang: en
+lang: fr
 type: wbprofile
 image: stefansson.jpg
-translated: [Français]
+translated: [English]
 ---
 
 <h2>Bribery and Corruption involving Ministers in Namibia and Angola</h2>
