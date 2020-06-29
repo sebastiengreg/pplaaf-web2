@@ -1,6 +1,6 @@
 ---
 name: Lee-Ann James
-role: Senior Paralegal
+role: Assistante juridique
 image: james.jpg
 ---
-Lee-Ann is a Senior Paralegal at PPLAAF. Lee-Ann Obtained her Senior Paralegal Diploma in 2011 through the South African School of Paralegal Studies and has been working for attorneys, specializing in labour law, since 2012. Lee-Ann Completed her Disciplinary Skills course through Lexis Nexis South Africa in 2012 which allows her to chair Disciplinary Hearings. She is currently completing her Law Degree through the University of South Africa.
+Lee-Ann James est assistante juridique à PPLAAF. Lee-Ann a obtenu son diplôme de parajuriste en 2011 à l'École sud-africaine d'études parajuridiques et travaille pour des avocats spécialisés en droit du travail depuis 2012. Elle a suivi des cours sur les compétences disciplinaires via Lexis Nexis South Africa en 2012, ce qui lui permet de présider des audiences disciplinaires. Elle termine actuellement son diplôme de droit à l'Université d'Afrique du Sud.
