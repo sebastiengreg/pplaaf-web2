@@ -1,7 +1,7 @@
 ---
 name: Khadija Sharife
-role: Administrator
+role: Administratrice
 image: khadija.jpg
 twitter: https://twitter.com/KhadijaSharife
 ---
-Khadija Sharife is an award-winning investigative journalist, researcher and editor. She is the Africa editor of OCCRP, author of Tax Us If You Can: Africa, board member of Finance Uncovered and fellow with the World Policy Institute. Previously, she was the editor at the African Network of Centers for Investigative Reporting (ANCIR). Her work has been presented at a number of forums including OECD, AU, Pan-African Parliaments among other platforms. She holds a master of financial law and is based in South Africa. At PPLAAF, Khadija acts as the Southern Africa coordinator
+Khadija Sharife est une journaliste d'investigation primée, chercheuse et éditrice. Elle est la rédactrice en chef pour l'Afrique de l'OCCRP, l'auteur de « Tax Us If You Can: Africa », membre du conseil d'administration de Finance Uncovered et membre du World Policy Institute. Auparavant, elle était rédactrice en chef du Réseau africain des centres d'investigation (ANCIR). Son travail a été présenté lors d'un certain nombre de forums, notamment à l'OCDE, l'UA et les Parlements panafricains, entre autres plateformes. Elle est titulaire d'une maîtrise en droit financier et est basée en Afrique du Sud.
