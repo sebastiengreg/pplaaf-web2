@@ -7,33 +7,33 @@ image: stefansson.jpg
 translated: [English]
 ---
 
-<h2>Bribery and Corruption involving Ministers in Namibia and Angola</h2>
+<h2>Corruption et pots-de-vin impliquant des ministres de Namibie et d'Angola </h2>
 
 <div class="profile-block">
 <img src="/assets/images/profiles/stefansson.jpg">
 <p class="top-blockquote">
-A former director of the Icelandic fishing company Samherji, Stefansson denounced the corruption of several ministers in Namibia and Angola. Stefansson disclosed 30,000 emails, documents, contracts and other confidential evidence. Stefansson's revelation led to the resignation of Namibian fisheries minister Bernhard Esau and justice minister Sacky Shanghala, among others.
+Ancien directeur de la société islandaise de pêche Samherji, Stefansson a dénoncé la corruption de plusieurs ministres en Namibie et en Angola. Stefansson a divulgué 30 000 courriels, documents, contrats et autres preuves confidentiels. La révélation de Stefansson a conduit à la démission des ministres namibiens de la pêche Bernhard Esau et de la justice Sacky Shanghala, entre autres.
 
-Stefansson spent years cooperating with the authorities, including special units of the Namibian government, in what came to be known as the 'Fishrot' case. Supported by Wikileaks, which originally published the leak, and by the legal expertise of former judge Eva Joly and PPLAAF, he showed resilience despite constant intimidation and harassment.
+Stefansson a coopéré pendant plusieurs années avec les autorités, y compris les unités spéciales du gouvernement namibien, dans ce qui allait être connu sous le nom de l’affaire « Fishrot ». Soutenu par Wikileaks, qui a publié la fuite à l'origine, et par l'expertise juridique de l'ancienne juge Eva Joly et de PPLAAF, il a fait preuve de résilience malgré l'intimidation et le harcèlement constants.
 </p>
 </div>
 
 
-## The Fishrot case
+## L’affaire Fishrot
 
-The revelations about the Fishrot case reveal how the company Samerjhi paid bribes - through tax havens like Cyprus and the Marhsall Islands - to senior officials in Namibia in exchange for trawling rights.
+Les révélations sur l’affaire Fishrot dévoilent comment la compagnie Samerjhi, a payé des pots-de-vin - à travers des paradis fiscaux tel que Chypre et les Iles Marhsall - à de hauts fonctionnaires en Namibie en échange de droits de pêche. 
 
-With annual revenues of $700 million, Samherji is one of the world's largest fishing companies.
+Avec un chiffre d'affaires annuel de 700 millions de dollars, Samherji est l'une des plus grandes entreprises de pêche au monde.
 
-Johannes Stefansson was Samherji's Director of operations for Namibia when he met, with Samherji's director of operations for Africa Adalstein Helgason, the stepson of the newly elected minister of fisheries, Tamson Hatuikulipi. Hatuikulipi is alleged to have agreed to help Samherji obtain the fishing quotas the company wanted, in exchange for "quota fees" to be paid to the presidential party, and to several senior Namibian officials and businessmen.
+Johannes Stefansson était le directeur des opérations de Samherji pour la Namibie lorsqu’il a rencontré, avec le directeur des opérations de Samherji pour l’Afrique, Adalstein Helgason, le beau-fils du nouvellement élu ministre des Pêches, Tamson Hatuikulipi. Ce-dernier aurait accepté d’aider Samherji à obtenir les quotas de pêche que la société désirait, en échange de « frais de quotas » à payer au parti présidentiel, et à plusieurs haut fonctionnaires et hommes d’affaires namibiens. 
 
-Millions of dollars in bribes have reportedly been paid by Samherji during at least four years.
+Des millions de dollars de pots-de-vin auraient ainsi été versés par Samherji pendant au moins quatre ans.
 
-In addition, under Namibian law, only companies which are majority-owned by Namibians are eligible to benefit from fishing quotas. Samherji therefore became a minority shareholder in its own Namibian subsidiary, Katla, the majority shares being held by a Namibian co-shareholder. Stefansson, however, alleged that the co-shareholder was only a figurehead for Mr. Hatuikulipi, and the Samherji company actually continued to control its subsidiary and collect 75% of its profits.
+En outre, selon le droit namibien, seules les sociétés détenues en majorité par des namibiens sont éligibles pour bénéficier des quotas de pêche. Samherji est donc devenue actionnaire minoritaire dans sa propre filiale namibienne, Katla, le reste étant détenu par un co-actionnaire namibien. M. Stefansson a cependant allégué que le co-actionnaire n’était qu’un prête-nom pour M. Hatuikulipi, et la société Samherji aurait en réalité continué à contrôler sa filiale ainsi que percevoir 75% de ses bénéfices. 
 
-As Al Jazeera wrote, "the documents disclosed show how they [Samherji] conducted their operations in Namibia with full knowledge of the corruption there".
+Comme l'a écrit Al Jazeera, « les documents divulgués montrent comment ils [Samherji] ont mené leurs opérations en Namibie en toute connaissance de la corruption qui y règne ».
 
-Since the disclosure of the Fishrot case, the Namibian authorities have launched an investigation and issued international mutual legal assistance requests to several countries.
+Depuis la divulgation de l'affaire Fishrot, les autorités namibiennes ont ouvert une enquête et émis des demandes d’entraide judiciaire auprès de plusieurs pays. 
 
-On January 17th, 2020, Samherji announced that it was withdrawing from Namibia.
+Le 17 janvier 2020, Samherji a annoncé qu'elle arrêtait ses activités en Namibie.
 
