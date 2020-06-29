@@ -1,7 +1,7 @@
 ---
 name: Jaysen Naidoo
-role: Technical Support / Developer
+role: Développeur web / Support technique
 image: naidoo.jpg
 twitter: https://twitter.com/jaysen
 ---
-Jaysen Naidoo provides technical support and software and web development for PPLAAF. Jaysen is a software engineer with years of experience in application and software development.
+Jaysen Naidoo est développeur web à PPLAAF. Jaysen Naidoo a des années d'expérience dans le développement d'applications et de logiciels.
