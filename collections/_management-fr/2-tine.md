@@ -1,7 +1,7 @@
 ---
 name: Alioune Tine
-role: Administrator
+role: Administrateur
 image: tine.jpg
 twitter: https://twitter.com/aliounetine16
 ---
-Alioune Tine is a prominent Human rights defender in Western Africa. A former professor at the Cheikh Anta Diop University in Dakar, he created in 1990 with other activists the Rencontre africaine pour la defense des droits de l’Homme (RADDHO), one of the most influential human rights organizations in francophone Africa, always at the forefront of the fight against impunity. Tine had been the director of the RADDHO for more than 20 years when he was appointed president of the Human Rights Senegalese Committee, an administrative authority responsible for advising the Senegalese Government on Human rights protection. In 2015, Alioune Tine was appointed Director of Amnesty international for Western Africa, running the work of Amnesty in 22 African countries.
+Alioune Tine est un éminent défenseur des droits humains en Afrique de l'Ouest. Ancien professeur à l'Université Cheikh Anta Diop de Dakar, il a créé en 1990 avec d'autres militants la Rencontre africaine pour la défense des droits de l'homme (RADDHO), l'une des organisations les plus influentes des droits de l'homme en Afrique francophone, toujours à l’avant-garde de la lutte contre l'impunité. Alioune Tine a été le directeur de la RADDHO pendant plus de 20 avant d’être nommé président du Comité sénégalais des droits de l'homme, une autorité administrative chargée de conseiller le gouvernement sénégalais sur la protection des droits de l'homme. En 2015, il a été nommé Directeur d'Amnesty International pour l'Afrique de l'Ouest, pilotant le travail d'Amnesty dans 22 pays africains.
