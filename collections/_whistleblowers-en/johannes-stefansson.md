@@ -9,15 +9,11 @@ translated: [Français]
 
 <h2>Bribery and Corruption involving Ministers in Namibia and Angola</h2>
 
-<div class="profile-block">
-<img src="/assets/images/profiles/stefansson.jpg">
-<p class="top-blockquote">
-A former director of the Icelandic fishing company Samherji, Stefansson denounced the corruption of several ministers in Namibia and Angola. Stefansson disclosed 30,000 emails, documents, contracts and other confidential evidence. Stefansson's revelation led to the resignation of Namibian fisheries minister Bernhard Esau and justice minister Sacky Shanghala, among others.
+
+
+<img class="img-border-right" src="/assets/images/profiles/stefansson.jpg" width="400px">A former director of the Icelandic fishing company Samherji, Stefansson denounced the corruption of several ministers in Namibia and Angola. Stefansson disclosed 30,000 emails, documents, contracts and other confidential evidence. Stefansson's revelation led to the resignation of Namibian fisheries minister Bernhard Esau and justice minister Sacky Shanghala, among others.
 
 Stefansson spent years cooperating with the authorities, including special units of the Namibian government, in what came to be known as the 'Fishrot' case. Supported by Wikileaks, which originally published the leak, and by the legal expertise of former judge Eva Joly and PPLAAF, he showed resilience despite constant intimidation and harassment.
-</p>
-</div>
-
 
 ## The Fishrot case
 

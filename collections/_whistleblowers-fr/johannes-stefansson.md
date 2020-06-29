@@ -9,15 +9,10 @@ translated: [English]
 
 <h2>Corruption et pots-de-vin impliquant des ministres de Namibie et d'Angola</h2>
 
-<div class="profile-block">
-<img src="/assets/images/profiles/stefansson.jpg">
-<p class="top-blockquote">
+<img class="img-border-right" src="/assets/images/profiles/stefansson.jpg" width="400px">
 Ancien directeur de la société islandaise de pêche Samherji, Stefansson a dénoncé la corruption de plusieurs ministres en Namibie et en Angola. Stefansson a divulgué 30 000 courriels, documents, contrats et autres preuves confidentiels. La révélation de Stefansson a conduit à la démission des ministres namibiens de la pêche Bernhard Esau et de la justice Sacky Shanghala, entre autres.
 
 Stefansson a coopéré pendant plusieurs années avec les autorités, y compris les unités spéciales du gouvernement namibien, dans ce qui allait être connu sous le nom de l’affaire « Fishrot ». Soutenu par Wikileaks, qui a publié la fuite à l'origine, et par l'expertise juridique de l'ancienne juge Eva Joly et de PPLAAF, il a fait preuve de résilience malgré l'intimidation et le harcèlement constants.
-</p>
-</div>
-
 
 ## L’affaire Fishrot
 
