@@ -2,4 +2,4 @@
 name: Alvin Mosioma
 image: mosioma.jpg
 ---
-Alvin Mosioma is the founding Executive Director of Tax Justice Network – Africa. Mr. Mosioma who served as the Chair of the Financial Transparency Coalition (FTC) is the leading voice on tax policy in Africa. He holds a Master's degree in Economics from the Johannes Gutenberg University of Mainz and has special interest areas which include fiscal policy, international taxation, financial regulation and natural resource governance.
+Alvin Mosioma est le directeur exécutif et fondateur de Tax Justice Network - Africa. M. Mosioma, qui a été président de la Financial Transparency Coalition (FTC), est la voix dominante en matière de politique fiscale en Afrique. Il est titulaire d'une maîtrise en économie de l'Université Johannes Gutenberg de Mayence et travaille dans plusieurs domaines d'intérêt, notamment: politique fiscale, fiscalité internationale, réglementation financière et gouvernance des ressources naturelles.
