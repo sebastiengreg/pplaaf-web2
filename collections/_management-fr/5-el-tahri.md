@@ -1,6 +1,6 @@
 ---
 name: Jihan El-Tahri
-role: Administrator
+role: Administratrice
 image: el-tahri.jpg
 ---
-Jihan El-Tahri is an award-winning director, writer, producer and visual artist. She is an Egyptian and French national, who started her career as a Foreign Correspondent covering Middle East Politics. She has produced and directed numerous documentaries, including “Egypt’s Modern Pharaohs”, “Behind the Rainbow”, “Cuba, an African Odyssey”, as well as the Emmy nominated House of Saud. Her writings include “Les Sept Vies de Yasser Arafat” (Grasset) and “Israel and the Arabs, The 50 Years war” (Penguin). El-Tahri has served as treasurer of the Guild of African Filmmakers in the Diaspora, Regional Secretary of the Federation of Pan African Cinema (FEPACI) and as an Advisor on Focus Feature’s Africa first Program. 
+Jihan El-Tahri est une réalisatrice, écrivaine, productrice et artiste visuelle primée. Franco-égyptienne, elle a commencé sa carrière en tant que correspondante étrangère couvrant la politique du Moyen-Orient. Elle a produit et réalisé de nombreux documentaires, notamment « Pharaons modernes d'Egypte », « Derrière l'arc-en-ciel », « Cuba, une odyssée africaine », ainsi que « La Maison des Saoud » nominée aux Emmy. Elle a écrit plusieurs livres dont « Les Sept Vies de Yasser Arafat » (Grasset) et « Israël et les Arabes, La Guerre de 50 Ans » (Penguin). El-Tahri a été trésorier de la Guilde des Cinéastes Africains de la Diaspora, Secrétaire Régionale de la Fédération du Cinéma Panafricain (FEPACI) et Conseillère sur le premier programme Afrique de Focus Feature.
