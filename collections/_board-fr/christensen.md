@@ -2,4 +2,4 @@
 name: John Christensen
 image: christensen.jpg
 ---
-John Christensen is a founder and director of the global Tax Justice Network, an expert-led network which leads global efforts to tackle tax havens and strengthen international cooperation on tax avoidance and offshore secrecy. He is a member of the governance board of the UNDP / OECD Tax Inspectors Without Borders. His research on offshore finance has been widely published in books and academic journals, and John has taken part in many films, television documentaries and radio programmes.
+John Christensen est le fondateur et directeur du Global Tax Justice Network, un réseau d’experts guidant les efforts mondiaux pour lutter contre les paradis fiscaux et renforcer la coopération internationale sur l'évasion fiscale et le secret des activités offshore. Il est membre du conseil d'administration des Inspecteurs fiscaux sans frontières, une initiative conjointe du PNUD et de l’OCDE. Ses recherches sur la finance offshore ont été largement publiées dans des livres et des revues universitaires, et il a participé à de nombreux films, documentaires télévisés et émissions de radio.
