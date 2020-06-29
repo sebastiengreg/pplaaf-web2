@@ -1,7 +1,7 @@
 ---
 name: Pierre Sané
-role: Administrator
+role: Administrateur
 image: sane.jpg
 ---
 
-Pierre Sané is the founder and president of the Imagine Africa Institute. He was UNESCO’s Assistant Director-General for Social and Human Sciences from 2001 to 2010, and Secretary-General of Amnesty International from 1992 to 2001.
+Pierre Sané est le fondateur et Président du think tank Imagine Africa Institute. Il a été secrétaire général d'Amnesty International de 1992 à 2001 et Sous-directeur général de l’UNESCO pour les sciences sociales et humaines de 2001 à 2010. 
