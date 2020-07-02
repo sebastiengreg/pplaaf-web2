@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: fr
-translated: [Français]
+translated: [English]
 title: Dan Gertler, Le Milliardaire Controversé Du Secteur Minier, Aurait Utilisé Un Reseau International Presumé De Blanchiment D'Argent Pour Contourner Les Sanctions Americaines Et Acquerir De Nouveaux Actifs Miniers En Rdc
 author: PPLAAF
 excerpt_separator: <!--more-->
@@ -51,7 +51,7 @@ PPLAAF est une organisation non gouvernementale créée en 2017 pour défendre l
 Exclusion de responsabilité : la version française est une traduction du document original en anglais. Cette traduction ne peut être utilisée qu’à titre de référence. En cas de divergence entre la version française et la version originale anglaise, la version anglaise fait foi. Global Witness décline toute responsabilité en cas de dommage ou préjudice causé par des erreurs, des imprécisions ou des incompréhensions de traduction.
 
 -------------
-_**Exclusion de responsabilité **: la version française est une traduction du document original en anglais. Cette traduction ne peut être utilisée qu’à titre de référence. En cas de divergence entre la version française et la version originale anglaise, la version anglaise fait foi. Global Witness décline toute responsabilité en cas de dommage ou préjudice causé par des erreurs, des imprécisions ou des incompréhensions de traduction._
+_**Exclusion de responsabilité**: la version française est une traduction du document original en anglais. Cette traduction ne peut être utilisée qu’à titre de référence. En cas de divergence entre la version française et la version originale anglaise, la version anglaise fait foi. Global Witness décline toute responsabilité en cas de dommage ou préjudice causé par des erreurs, des imprécisions ou des incompréhensions de traduction._
 
 ## Notes à l'intention des rédacteurs:
 
