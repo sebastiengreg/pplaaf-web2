@@ -3,7 +3,7 @@ layout: page
 title: Simphiwe Mayisela
 lang: en
 type: wbprofile
-translated: 
+translated: [Français]
 image: mayisela2.jpg
 ---
 <img src="/assets/images/profiles/mayisela2.jpg" class="img-right" style="padding-top:10px;"> 

@@ -3,7 +3,7 @@ layout: page
 title: Bongani Mathebula
 lang: en
 type: wbprofile
-translated: 
+translated: [Français]
 image: mathebula2.jpg
 ---
 <img src="/assets/images/profiles/mathebula2.jpg" class="img-right" style="padding-top:10px;"> 
