@@ -111,8 +111,8 @@ The DCEC was established after the passage of the Corruption and Economic Crime 
 The Office of the Ombudsman seeks to promote administrative justice by investigating allegations of maladministration within the public sector.  The Ombudsman is an alternative dispute resolution mechanism, and investigates complaints of improper administrative conduct or action, and recommends appropriate remedial action where, in the opinion of the Ombudsman, the complainant has suffered injustice arising from the administrative conduct.
 
 - Address: 
-    Office of The Ombudsman, Private Bag BR 374 Gaborone
-    Lot 21, Cnr Khama Crescent and Queens
+    Office of The Ombudsman, Private Bag BR 374 Gaborone,
+    Lot 21, Cnr Khama Crescent and Queens,
     Main Mall, Gaborone
 - Tel: +267 395 3322
 - Fax: +267 395 3539
