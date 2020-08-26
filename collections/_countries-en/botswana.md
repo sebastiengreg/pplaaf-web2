@@ -58,7 +58,7 @@ Reporting of disclosures to unauthorised agencies can incur criminal sanctions o
 Section 47 of the Penal Code 08:01 vests the President of Botswana with exclusive authority to declare a publication prohibited if in his opinion the content is contrary to the public interest. This provision places excessive authority in the office of the President and a wide-ranging discretion which borders on unreasonableness.
 
 The same law in section 48(1) states that:
-_"Any person who, otherwise than in his capacity and in the course of his duties as a public officer, prints, makes, imports, publishes, sells, supplies, offers for sale or supply, distributes, reproduces or has in his possession or under his control any prohibited publication is guilty of an offence and is liable for imprisonment to a term not exceeding three (3) years”_.
+**"Any person who, otherwise than in his capacity and in the course of his duties as a public officer, prints, makes, imports, publishes, sells, supplies, offers for sale or supply, distributes, reproduces or has in his possession or under his control any prohibited publication is guilty of an offence and is liable for imprisonment to a term not exceeding three (3) years”**.
 Too much discretion vested in a single person by virtue of his office to make such a determination could lead to the deprivation of a publisher’s liberty without a proper hearing.
 
 There also needs to be an easing of privacy laws in their application to disclosures of corruption, irrespective of whether such first disclosure is to an authorised reporting institution or not.
@@ -100,7 +100,7 @@ Botswana watch is a civil society organisation aimed at addressing the issue of 
 ### Botswana Directorate on Corruption and Economic Crime (DCEC)
 The DCEC was established after the passage of the Corruption and Economic Crime Act in 1994.  It aims are to promote ethical behaviour in government and public organisations, establish codes of conduct and to maintain good governance and the rule of law, and to implement corruption prevention measures. The DCEC also has powers to investigate allegations of corruption and economic crimes and suspicious transactions, and where there is sufficient evidence, institute prosecutions with the assistance of the Directorate of Public Prosecutions.  DCEC also has a tollfree hotline for the anonymous reporting of suspected incidents of corruption.
 
-- Plot 1212 Molosiwa Road Gaborone
+- Address: Plot 1212 Molosiwa Road Gaborone
 - Email: [reporttodcec@gov.bw](mailto:reporttodcec@gov.bw)
 - Tollfree: 0800 700 100
 - Tel: +267 391 4002 
@@ -119,9 +119,6 @@ The Office of the Ombudsman seeks to promote administrative justice by investiga
 - Email: [ombudsman@gov.bw](mailto:ombudsman@gov.bw)
 - Tollfree: +267 0800 600 014
 
-
-## Further information 
-A provision in the [Criminal Procedure Code](https://fonacbenin.files.wordpress.com/2014/09/2012_loi-portant-code-de-procc3a9dure-pc3a9nale.pdf) allows any person to apprehend and bring a person committing a crime punishable by imprisonment to the nearest police station, potentially allowing vigilante justice against journalists.
 
 ## Keeping Score: How does Botswana compare with international standards
 The following standards for whistleblower laws are derived from guidelines developed by the OECD, Council of Europe, Blueprint for Free Speech, Government Accountability Project and Transparency International.
