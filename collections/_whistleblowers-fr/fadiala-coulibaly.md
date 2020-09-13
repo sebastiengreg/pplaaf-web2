@@ -3,7 +3,7 @@ layout: page
 title: Fadiala Coulibaly
 lang: fr
 type: wbprofile
-translated: [English]
+translated: 
 image: coulibaly.jpg
 ---
 <h2>L’auditeur au service des paysans </h2>
