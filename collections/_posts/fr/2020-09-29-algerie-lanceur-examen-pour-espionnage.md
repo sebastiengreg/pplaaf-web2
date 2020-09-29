@@ -30,10 +30,6 @@ PPLAAF est en relation avec Noureddine Tounsi depuis la fin de l’année 2017. 
  
 _« PPLAAF est une ONG indépendante, qui aide juridiquement celles et ceux qui veulent révéler des activités illégales ou contraires à l'intérêt général africain, pour y mettre un terme »_, a déclaré Henri Thulliez, directeur de PPLAAF. _« Après que les autorités algériennes ont accusé Reporters sans frontières de « déstabiliser » le pays, elles accusent PPLAAF et un courageux lanceur d'alerte d’espionnage. Tout est bon pour réduire au silence les vigies de la démocratie. C’est très regrettable »_.
 
-
-### Pour plus d’informations sur PPLAAF, veuillez consulter :
-<https://pplaaf.org>
-
 ### Pour suivre PPLAAF, suivez ses profils :
 - Facebook: <https://www.facebook.com/PPLAAF/>
 - Twitter: [@pplaaf](https://twitter.com/pplaaf)
