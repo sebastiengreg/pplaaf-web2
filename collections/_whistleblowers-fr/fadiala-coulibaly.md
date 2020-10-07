@@ -3,7 +3,7 @@ layout: page
 title: Fadiala Coulibaly
 lang: fr
 type: wbprofile
-translated: 
+translated: [English]
 image: coulibaly.jpg
 ---
 <h2>L’auditeur au service des paysans </h2>
@@ -15,7 +15,7 @@ image: coulibaly.jpg
 
 Né à Balandougou Cercle de Kita dans la région de Kayes, Fadiala Coulibaly est un Auditeur Comptable qui a décidé de s’engager dans la lutte contre la corruption dans son pays. « _Le Mali vit aujourd’hui une grave crise politique qui menace sa stabilité déjà fragilisée par la rébellion au nord du pays et sa cohésion sociale. Tout cela est, en partie, le résultat de la corruption et de l’impunité_ », défend-il, estimant que les populations sont révoltées par le nombre de cas de corruption et de détournement des fonds publics restés sans suite. Du moins, précise-t-il, « _ceux qui sont avec le pouvoir bénéficient d’une impunité totale_ ».   
 
-**_J’ai découvert qu’il y avait un sérieux réseau mafieux qui détournait près de 90 % des fonds destinés aux producteurs du monde rural. »_**
+> **_J’ai découvert qu’il y avait un sérieux réseau mafieux qui détournait près de 90 % des fonds destinés aux producteurs du monde rural. »_**
 
 Fadiala travaillait dans l’administration du Mali en tant que Responsable Administratif et Financier à la Confédération des Sociétés Coopératives des Producteurs de Coton (CSCPC) qui regroupe les 7177 sociétés coopératives en zone cotonnière de tout le pays. Cette structure paysanne est rattachée à l’Assemblée Permanente de Chambre d’Agriculture au Mali (APCAM). « _Mon travail de Comptable-Auditeur me donnait accès à plusieurs informations. Je m’étais vite rendu compte que beaucoup de choses ne correspondaient pas aux normes. J’en parlais à mon patron mais il refusait de donner suite à mes signalements. J’ai découvert qu’il y avait un sérieux réseau mafieux qui détournait près de 90 % des fonds destinés aux producteurs du monde rural._ » 
 
